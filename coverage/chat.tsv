@@ -1,0 +1,35 @@
+Translation key	English	Japanese with romaji
+chat.cannotSend	Cannot send chat message	チャットメッセージを送信できません (chatto messēji o sōshin dekimasen)
+chat.coordinates.tooltip	Click to teleport	クリックしてテレポート (kurikku shite terepōto)
+chat.copy	Copy to Clipboard	コピー (kopī)
+chat.copy.click	Click to Copy to Clipboard	クリックしてクリップボードにコピー (kurikku shite kurippubōdo ni kopī)
+chat.deleted_marker	This chat message has been deleted by the server.	このチャットはサーバーによって削除されました (kono chatto wa sābā ni yotte sakujo saremashita)。
+chat.disabled.chain_broken	Chat disabled due to broken chain. Please try reconnecting.	壊れたチェーンによりチャットが無効化されました。再接続してみてください (kowareta chēn ni yori chatto ga mukōka saremashita. sai setsuzoku shite mite kudasai)。
+chat.disabled.expiredProfileKey	Chat disabled due to expired profile public key. Please try reconnecting.	プロフィール公開鍵が期限切れのため、チャットが無効になっています。再接続を試みてください (purofīru kōkaikagi ga kigengire no tame, chatto ga mukōni natte imasu. sai setsuzoku o kokoromite kudasai)。
+chat.disabled.invalid_command_signature	Command had unexpected or missing command argument signatures.	コマンドに予期しない引数のシグネチャーあるいは欠落した引数のシグネチャーがあります (komando ni yoki shinai hikisū no shigunechā aruiwa ketsuraku shita hikisū no shigunechā ga arimasu)。
+chat.disabled.invalid_signature	Chat had an invalid signature. Please try reconnecting.	チャットに無効な署名が含まれています。再接続してください (chatto ni mukōna shomei ga fukumarete imasu. sai setsuzoku shite kudasai)。
+chat.disabled.launcher	Chat disabled by launcher option. Cannot send message.	ランチャーの設定によりチャットが無効になっているため、メッセージを送信できません (ranchā no settei ni yori chatto ga mukōni natte iru tame, messēji o sōshin dekimasen)。
+chat.disabled.missingProfileKey	Chat disabled due to missing profile public key. Please try reconnecting.	プロフィール公開鍵が見つからないため、チャットが無効になっています。再接続を試みてください (purofīru kōkaikagi ga mitsukaranai tame, chatto ga mukōni natte imasu. sai setsuzoku o kokoromite kudasai)。
+chat.disabled.options	Chat disabled in client options.	クライアントの設定でチャットが無効になっています (kuraianto no settei de chatto ga mukōni natte imasu)。
+chat.disabled.out_of_order_chat	Chat received out-of-order. Did your system time change?	受け取ったチャットの順序が乱れています。システムの時間が変更されていませんか (uketotta chatto no junjo ga midarete imasu. shisutemu no jikan ga henkō sarete imasen ka)？
+chat.disabled.profile	Chat is not allowed by account settings. Press '%s' again for more information.	チャットはアカウントの設定により無効になっています。もう一度 (chatto wa akaunto no settei ni yori mukōni natte imasu. mou ichido)「%s」を押すと詳細な情報を表示します (o osu to shōsaina jōhō o hyōji shimasu)。
+chat.disabled.profile.moreInfo	Chat is not allowed by account settings. Cannot send or view messages.	チャットはアカウントの設定によって無効になっており、メッセージの送信・閲覧はできません (chatto wa akaunto no settei ni yotte mukōni natte ori, messēji no sōshin etsuran wa dekimasen)。
+chat.editBox	chat	チャット (chatto)
+chat.filtered	Filtered by the server.	サーバーによってフィルタリングされました (sābā ni yotte firutaringu saremashita)。
+chat.filtered_full	The server has hidden your message for some players.	サーバーはあなたのメッセージを一部のプレイヤーに対して非表示にしています (sābā wa anata no messēji o ichibu no pureiyā ni taishite hihyōji ni shite imasu)。
+chat.link.confirm	Are you sure you want to open the following website?	このウェブサイトを開きますか (kono webusaito o hirakimasu ka)？
+chat.link.confirmTrusted	Do you want to open this link or copy it to your clipboard?	このリンクをブラウザで開きますか？それともクリップボードにコピーしますか (kono rinku o burauza de hirakimasu ka? sore to mo kurippubōdo ni kopī shimasu ka)？
+chat.link.open	Open in Browser	ブラウザで開く (burauza de hiraku)
+chat.link.warning	Never open links from people that you don't trust!	信頼できないリンクは絶対に開かないでください (shinrai dekinai rinku wa zettai ni hirakanaide kudasai)
+chat.queue	[+%s pending lines]	［%s行のチャットを保留中 (gyō no chatto o horyūchū)］
+chat.tag.error	Server sent invalid message.	サーバーが無効なメッセージを送信しました (sābā ga mukōna messēji o sōshin shimashita)。
+chat.tag.modified	Message modified by the server. Original:	このメッセージはサーバーによって変更されています。原文 (kono messēji wa sābā ni yotte henkō sarete imasu. genbun)：
+chat.tag.not_secure	Unverified message. Cannot be reported.	安全性が確認されていないメッセージです。このメッセージを報告することはできません (anzensei ga kakunin sarete inai messējidesu. kono messēji o hōkoku suru koto wa dekimasen)。
+chat.tag.system	Server message. Cannot be reported.	これはサーバーからのメッセージです。このメッセージを通報することはできません (kore wa sābā kara no messējidesu. kono messēji o tsūhō suru koto wa dekimasen)。
+chat.tag.system_single_player	Server message.	これはサーバーからのメッセージです (kore wa sābā kara no messējidesu)。
+chat.type.advancement.challenge	%s has completed the challenge %s	%sが挑戦 (ga chōsen)%sを完了しました (o kanryō shimashita)
+chat.type.advancement.goal	%s has reached the goal %s	%sが目標 (ga mokuhyō)%sを達成しました (o tassei shimashita)
+chat.type.advancement.task	%s has made the advancement %s	%sが進捗 (ga shinchoku)%sを達成しました (o tassei shimashita)
+chat.type.team.hover	Message Team	チームにメッセージを送る (chīmu ni messēji o okuru)
+chat.type.text.narrate	%s says %s	%sが (ga)%sと言いました (to iimashita)
+chat.validation_error	Chat validation error	チャットの検証エラー (chatto no kenshō erā)

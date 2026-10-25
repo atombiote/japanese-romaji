@@ -1,0 +1,5 @@
+Translation key	English	Japanese with romaji
+datapackFailure.safeMode	Safe Mode	セーフモード (sēfu mōdo)
+datapackFailure.safeMode.failed.description	This world contains invalid or corrupted save data.	このワールドには無効または破損したセーブデータが含まれています (kono wārudo ni wa mukō mata wa hason shita sēbu dēta ga fukumarete imasu)。
+datapackFailure.safeMode.failed.title	Failed to load world in Safe Mode.	セーフモードでのワールドの読み込みに失敗しました (sēfu mōdo de no wārudo no yomikomi ni shippai shimashita)
+datapackFailure.title	Errors in currently selected data packs prevented the world from loading.\nYou can either try to load it with only the vanilla data pack ("safe mode"), or go back to the title screen and fix it manually.	現在選択されているデータパックのエラーにより、ワールドを読み込めませんでした (genzai sentaku sarete iru dēta pakku no erā ni yori, wārudo o yomikomemasendeshita)。\nバニラデータパックのみ読み込む (banira dēta pakku nomi yomikomu)（「セーフモード (sēfu mōdo)」）か、タイトル画面に戻って手動で修正することができます (ka, taitoru gamen ni modotte shudō de shūsei suru koto ga dekimasu)。

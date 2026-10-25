@@ -1,0 +1,18 @@
+Translation key	English	Japanese with romaji
+advMode.command	Console Command	コンソールコマンド (konsōru komando)
+advMode.mode	Mode	モード (mōdo)
+advMode.mode.auto	Repeat	リピート (ripīto)
+advMode.mode.autoexec.bat	Always Active	常時実行 (jōji jikkō)
+advMode.mode.conditional	Conditional	条件付き (jōken tsuki)
+advMode.mode.redstone	Impulse	インパルス (inparusu)
+advMode.mode.redstoneTriggered	Needs Redstone	動力が必要 (dōryoku ga hitsuyō)
+advMode.mode.sequence	Chain	チェーン (chēn)
+advMode.mode.unconditional	Unconditional	無条件 (mujōken)
+advMode.notAllowed	Must be an opped player in creative mode	オペレーター権限のあるクリエイティブモードのプレイヤーでなくてはなりません (operētā kengen no aru kurieitibu mōdo no pureiyāde nakute wa narimasen)
+advMode.notEnabled	Command blocks are not enabled on this server	コマンドブロックが有効になっていません (komando burokku ga yūkōni natte imasen)
+advMode.previousOutput	Previous Output	前回の実行結果 (zenkai no jikkō kekka)
+advMode.setCommand	Set Console Command for Block	コマンドブロックが実行するコンソールコマンド (komando burokku ga jikkō suru konsōru komando)
+advMode.setCommand.success	Command set: %s	コマンドを設定しました (komando o settei shimashita)：%s
+advMode.trackOutput	Track output	トラックの出力 (torakku no shutsuryoku)
+advMode.triggering	Triggering	トリガー (torigā)
+advMode.type	Type	タイプ (taipu)

@@ -1,0 +1,25 @@
+Translation key	English	Japanese with romaji
+menu.disconnect	Disconnect	切断 (setsudan)
+menu.feedback	Feedback...	フィードバック (fīdobakku)…
+menu.feedback.title	Feedback	フィードバック (fīdobakku)
+menu.game	Game Menu	ゲームメニュー (gēmu menyū)
+menu.modded	 (Modded)	（Mod導入済み (mod dōnyūzumi)）
+menu.multiplayer	Multiplayer	マルチプレイ (maruchi purei)
+menu.options	Options...	設定 (settei)…
+menu.paused	Game Paused	ゲームを一時停止中 (gēmu o ichiji teishichū)
+menu.playdemo	Play Demo World	デモワールドで遊ぶ (demowārudo de asobu)
+menu.playerReporting	Player Reporting	プレイヤーの通報 (pureiyā no tsūhō)
+menu.preparingSpawn	Preparing spawn area: %s%%	スポーン地点を準備中 (supōn chiten o junbichū)：%s%%
+menu.quit	Quit Game	終了 (shūryō)
+menu.reportBugs	Report Bugs	バグを報告する (bagu o hōkoku suru)
+menu.resetdemo	Reset Demo World	デモワールドをリセット (demowārudo o risetto)
+menu.returnToGame	Back to Game	ゲームに戻る (gēmu ni modoru)
+menu.returnToMenu	Save and Quit to Title	セーブしてタイトルへ戻る (sēbu shite taitoru e modoru)
+menu.savingChunks	Saving chunks	チャンクを保存中 (chanku o hozonchū)
+menu.savingLevel	Saving world	ワールドを保存中 (wārudo o hozonchū)
+menu.sendFeedback	Give Feedback	フィードバックを送る (fīdobakku o okuru)
+menu.server_links	Server Links...	サーバーリンク (sābā rinku)…
+menu.server_links.title	Server Links	サーバーリンク (sābā rinku)
+menu.shareToLan	Open to LAN	LANに公開 (lan ni kōkai)
+menu.singleplayer	Singleplayer	シングルプレイ (shinguru purei)
+menu.working	Working...	処理中 (shorichū)…

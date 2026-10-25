@@ -1,0 +1,41 @@
+Translation key	English	Japanese with romaji
+structure_block.button.detect_size	DETECT	検出 (kenshutsu)
+structure_block.button.load	LOAD	読み込み (yomikomi)
+structure_block.button.save	SAVE	保存 (hozon)
+structure_block.custom_data	Custom Data Tag Name	カスタムデータタグ名 (kasutamudētatagu mei)
+structure_block.detect_size	Detect Structure Size and Position:	構造物の大きさと位置を検出 (kōzōbutsu no ōkisa to ichi o kenshutsu)：
+structure_block.hover.corner	Corner: %s	コーナー (kōnā)：%s
+structure_block.hover.data	Data: %s	データ (dēta)：%s
+structure_block.hover.load	Load: %s	ロード (rōdo)：%s
+structure_block.hover.save	Save: %s	セーブ (sēbu)：%s
+structure_block.include_entities	Include Entities:	エンティティを含めるかどうか (entiti o fukumeru ka dou ka)：
+structure_block.integrity	Structure Integrity and Seed	構造物の完全性とシード値 (kōzōbutsu no kanzensei to shīdochi)
+structure_block.integrity.integrity	Structure Integrity	構造物の完全性 (kōzōbutsu no kanzensei)
+structure_block.integrity.seed	Structure Seed	構造物のシード値 (kōzōbutsu no shīdochi)
+structure_block.invalid_structure_name	Invalid structure name '%s'	「%s」は無効な構造物名です (wa mukōna kōzōbutsu meidesu)
+structure_block.load_not_found	Structure '%s' is not available	構造物 (kōzōbutsu)「%s」は利用できません (wa riyō dekimasen)
+structure_block.load_prepare	Structure '%s' position prepared	構造物 (kōzōbutsu)「%s」の位置が準備されました (no ichi ga junbi saremashita)
+structure_block.load_success	Structure loaded from '%s'	「%s」から構造物を読み込みました (kara kōzōbutsu o yomikomimashita)
+structure_block.mode_info.corner	Corner Mode - Placement and Size Marker	コーナーモード - 構造物のサイズと位置を標識します (kōnā mōdo - kōzōbutsu no saizu to ichi o hyōshiki shimasu)
+structure_block.mode_info.data	Data Mode - Game Logic Marker	データモード - 構造物ごとに固有の処理をマーキングします (dēta mōdo - kōzō monogoto ni koyū no shori o mākingu shimasu)
+structure_block.mode_info.load	Load Mode - Load from File	ロードモード - ファイルからの読み込みを行います (rōdo mōdo - fairu kara no yomikomi o okonaimasu)
+structure_block.mode_info.save	Save Mode - Write to File	セーブモード - ファイルへの書き込みを行います (sēbu mōdo - fairu e no kakikomi o okonaimasu)
+structure_block.mode.corner	Corner	コーナー (kōnā)
+structure_block.mode.data	Data	データ (dēta)
+structure_block.mode.load	Load	ロード (rōdo)
+structure_block.mode.save	Save	セーブ (sēbu)
+structure_block.position	Relative Position	相対位置 (sōtai ichi)
+structure_block.position.x	relative Position x	X軸方向の相対座標 (x jiku hōkō no sōtai zahyō)
+structure_block.position.y	relative position y	Y軸方向の相対位置 (y jiku hōkō no sōtai ichi)
+structure_block.position.z	relative position z	Z軸方向の相対位置 (z jiku hōkō no sōtai ichi)
+structure_block.save_failure	Unable to save structure '%s'	構造物 (kōzōbutsu)「%s」を保存できません (o hozon dekimasen)
+structure_block.save_success	Structure saved as '%s'	構造物が (kōzōbutsu ga)「%s」として保存されました (to shite hozon saremashita)
+structure_block.show_air	Show Invisible Blocks:	見えないブロックを表示する (mienai burokku o hyōji suru)：
+structure_block.show_boundingbox	Show Bounding Box:	境界線を表示する (kyōkaisen o hyōji suru)：
+structure_block.size	Structure Size	構造物のサイズ (kōzōbutsu no saizu)
+structure_block.size_failure	Unable to detect structure size. Add corners with matching structure names	構造物のサイズを検出できません。同じ構造物名を入力した (kōzōbutsu no saizu o kenshutsu dekimasen. onaji kōzōbutsu mei o nyūryoku shita)「コーナー (kōnā)」モードのストラクチャーブロックを設置してください (mōdo no sutorakuchā burokku o setchi shite kudasai)。
+structure_block.size_success	Size successfully detected for '%s'	「%s」のサイズが正常に検出されました (no saizu ga seijōni kenshutsu saremashita)
+structure_block.size.x	structure size x	X軸方向の構造物のサイズ (x jiku hōkō no kōzōbutsu no saizu)
+structure_block.size.y	structure size y	Y軸方向の構造物のサイズ (y jiku hōkō no kōzōbutsu no saizu)
+structure_block.size.z	structure size z	Z軸方向の構造物のサイズ (z jiku hōkō no kōzōbutsu no saizu)
+structure_block.structure_name	Structure Name	構造物名 (kōzōbutsu mei)

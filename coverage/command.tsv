@@ -1,0 +1,9 @@
+Translation key	English	Japanese with romaji
+command.context.here	<--[HERE]	←［問題箇所 (mondai kasho)］
+command.context.parse_error	%s at position %s: %s	%2$s文字目の (mojime no)%1$s：%3$s
+command.exception	Could not parse command: %s	コマンドを解釈できませんでした (komando o kaishaku dekimasendeshita)：%s
+command.expected.separator	Expected whitespace to end one argument, but found trailing data	引数の区切りに空白が必要ですが、つながっています (hikisū no kugiri ni kūhaku ga hitsuyōdesu ga, tsunagatte imasu)
+command.failed	An unexpected error occurred trying to execute that command	コマンドの実行中に予期せぬエラーが発生しました (komando no jikkōchū ni yoki senu erā ga hassei shimashita)
+command.forkLimit	Maximum number of contexts (%s) reached	実行文脈数の上限 (jikkō bunmyaku sū no jōgen)（%s）に達しました (ni tasshimashita)
+command.unknown.argument	Incorrect argument for command	コマンドの引数が正しくありません (komando no hikisū ga tadashiku arimasen)
+command.unknown.command	Unknown or incomplete command, see below for error	不明または不完全なコマンドです。以下のエラーをご覧ください (fumei mata wa fukanzenna komandodesu. ika no erā o goran kudasai)。

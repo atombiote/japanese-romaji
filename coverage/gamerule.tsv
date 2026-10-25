@@ -1,0 +1,86 @@
+Translation key	English	Japanese with romaji
+gamerule.announceAdvancements	Announce advancements	進捗達成の通知 (shinchoku tassei no tsūchi)
+gamerule.blockExplosionDropDecay	In block interaction explosions, some blocks won't drop their loot	ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性 (burokku no sōsa ni yoru bakuhatsu ji ni burokku ga doroppu aitemu o otosanai kanōsei)
+gamerule.blockExplosionDropDecay.description	Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.	オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります (on ni suru to, burokku e no sayō ni yoru bakuhatsu de hakai sareta burokku no doroppu aitemu ga ichibu shōshitsu suru yōni narimasu)。
+gamerule.category.chat	Chat	チャット (chatto)
+gamerule.category.drops	Drops	ドロップ (doroppu)
+gamerule.category.misc	Miscellaneous	その他 (sono ta)
+gamerule.category.player	Player	プレイヤー (pureiyā)
+gamerule.category.spawning	Spawning	スポーン (supōn)
+gamerule.category.updates	World Updates	ワールドの更新 (wārudo no kōshin)
+gamerule.commandBlockOutput	Broadcast command block output	コマンドブロックの実行結果の通知 (komando burokku no jikkō kekka no tsūchi)
+gamerule.commandModificationBlockLimit	Command modification block limit	コマンドによるブロックの最大変更数 (komando ni yoru burokku no saidai henkō sū)
+gamerule.commandModificationBlockLimit.description	Number of blocks that can be changed at once by one command, such as fill or clone.	fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数 (fill ya clone nado, komando ichikai no jikkō de henkō dekiru burokku no saidaisū)
+gamerule.disableElytraMovementCheck	Disable elytra movement check	エリトラの速度チェックの無効化 (eritora no sokudo chekku no mukōka)
+gamerule.disableRaids	Disable raids	襲撃の無効化 (shūgeki no mukōka)
+gamerule.doDaylightCycle	Advance time of day	ゲーム内時刻の進行 (gēmunai jikoku no shinkō)
+gamerule.doEntityDrops	Drop entity equipment	設備エンティティのドロップ (setsubi entiti no doroppu)
+gamerule.doEntityDrops.description	Controls drops from minecarts (including inventories), item frames, boats, etc.	トロッコや額縁、ボートなどの破壊時に (torokko ya gakubuchi, bōto nado no hakai ji ni)、（内容物も含め (naiyō mono mo fukume)）アイテムがドロップするかを設定できます (aitemu ga doroppu suru ka o settei dekimasu)
+gamerule.doFireTick	Update fire	炎の更新 (honō no kōshin)
+gamerule.doImmediateRespawn	Respawn immediately	即時リスポーン (sokuji risupōn)
+gamerule.doInsomnia	Spawn phantoms	ファントムのスポーン (fantomu no supōn)
+gamerule.doLimitedCrafting	Require recipe for crafting	クラフトにレシピを要求 (kurafuto ni reshipi o yōkyū)
+gamerule.doLimitedCrafting.description	If enabled, players will be able to craft only unlocked recipes.	有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります (yūkōni suru to, pureiyā wa kaikin sareta reshipi nomi kurafuto ga kanōni narimasu)。
+gamerule.doMobLoot	Drop mob loot	Mobのアイテムのドロップ (mob no aitemu no doroppu)
+gamerule.doMobLoot.description	Controls resource drops from mobs, including experience orbs.	Mobがアイテムや経験値オーブをドロップするかを設定できます (mob ga aitemu ya keikenchi ōbu o doroppu suru ka o settei dekimasu)。
+gamerule.doMobSpawning	Spawn mobs	Mobのスポーン (mob no supōn)
+gamerule.doMobSpawning.description	Some entities might have separate rules.	特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります (tokutei no entiti ni kanshi teha, ta no gēmu rūru de sono supōn no umu ga seigyo sarete iru bāi ga arimasu)。
+gamerule.doPatrolSpawning	Spawn pillager patrols	略奪隊のスポーン (ryakudatsutai no supōn)
+gamerule.doTileDrops	Drop blocks	ブロックのドロップ (burokku no doroppu)
+gamerule.doTileDrops.description	Controls resource drops from blocks, including experience orbs.	ブロックがアイテムや経験値オーブをドロップするかを設定できます (burokku ga aitemu ya keikenchi ōbu o doroppu suru ka o settei dekimasu)。
+gamerule.doTraderSpawning	Spawn Wandering Traders	行商人のスポーン (gyōshōnin no supōn)
+gamerule.doVinesSpread	Vines spread	ツタの成長 (tsuta no seichō)
+gamerule.doVinesSpread.description	Controls whether or not the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.	ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません (tsuta ga randamuni rinsetsu suru burokku e to seichō suru ka dou ka o settei dekimasu. shidare tsuta ya nejire tsuta nado, ta no burokku ni wa eikyō shimasen)。
+gamerule.doWardenSpawning	Spawn Wardens	ウォーデンのスポーン (wōden no supōn)
+gamerule.doWeatherCycle	Update weather	天気の更新 (tenki no kōshin)
+gamerule.drowningDamage	Deal drowning damage	溺水ダメージ (dekisui damēji)
+gamerule.enderPearlsVanishOnDeath	Thrown Ender Pearls vanish on death	プレイヤー死亡時のエンダーパールの消滅 (pureiyā shibōji no endāpāru no shōmetsu)
+gamerule.enderPearlsVanishOnDeath.description	Whether Ender Pearls thrown by a player vanish when that player dies.	プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます (pureiyā no nageta endāpāru ga, nageta pureiyā ga shibō shita toki ni shōmetsu suru ka o settei dekimasu)。
+gamerule.entitiesWithPassengersCanUsePortals	Entities with passengers can use portals	何かが乗っているエンティティのポータル使用可否 (nanika ga notte iru entiti no pōtaru shiyō kahi)
+gamerule.entitiesWithPassengersCanUsePortals.description	Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.	何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます (nanika ga notte iru entiti ga, nezāpōtaru, endo pōtaru, endo gētowei o tsūka shite terepōto suru ka o settei dekimasu)。
+gamerule.fallDamage	Deal fall damage	落下ダメージ (rakka damēji)
+gamerule.fireDamage	Deal fire damage	火傷ダメージ (yakedo damēji)
+gamerule.forgiveDeadPlayers	Forgive dead players	死亡したプレイヤーへの敵対を解除 (shibō shita pureiyā e no tekitai o kaijo)
+gamerule.forgiveDeadPlayers.description	Angered neutral mobs stop being angry when the targeted player dies nearby.	敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます (tekitai shita chūritsu mob ga, tekitai saseta pureiyā ga shūi de shibō suru to chūritsu jōtai ni modoru ka o settei dekimasu)。
+gamerule.freezeDamage	Deal freeze damage	凍結ダメージ (tōketsu damēji)
+gamerule.globalSoundEvents	Global sound events	ワールド全体のサウンドイベント (wārudo zentai no saundo ibento)
+gamerule.globalSoundEvents.description	When certain game events happen, like a boss spawning, the sound is heard everywhere.	ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます (bosu no shutsugen nado, tokutei no gēmu ibento ga hassei shita toki no saundo ga doko ni ite mo kikoeru ka o settei dekimasu)。
+gamerule.keepInventory	Keep inventory after death	死亡時のインベントリの保持 (shibōji no inbentori no hoji)
+gamerule.lavaSourceConversion	Lava converts to source	溶岩流から溶岩源への変化 (yōganryū kara yōgangen e no henka)
+gamerule.lavaSourceConversion.description	When flowing lava is surrounded on two sides by lava sources it converts into a source.	溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます (yōganryū ga ni hōkō kara yōgangen ni hasamareta toki ni, yōgangen ni henka suru ka o settei dekimasu)。
+gamerule.logAdminCommands	Broadcast admin commands	管理者ログへのコマンドの実行結果の通知 (kanrisha rogu e no komando no jikkō kekka no tsūchi)
+gamerule.maxCommandChainLength	Command chain size limit	コマンドの最大チェーン数 (komando no saidai chēn sū)
+gamerule.maxCommandChainLength.description	Applies to command block chains and functions.	チェーンコマンドブロックや関数に適用されます (chēn komando burokku ya kansū ni tekiyō saremasu)。
+gamerule.maxCommandForkCount	Command context limit	コマンドの最大実行文脈数 (komando no saidai jikkō bunmyaku sū)
+gamerule.maxCommandForkCount.description	Maximum number of contexts that can be used by commands like 'execute as'.	「execute as」などのコマンドで使用できる実行文脈の最大数 (nado no komando de shiyō dekiru jikkō bunmyaku no saidaisū)
+gamerule.maxEntityCramming	Entity cramming threshold	エンティティの最大密集数 (entiti no saidai misshū sū)
+gamerule.mobExplosionDropDecay	In mob explosions, some blocks won't drop their loot	Mob爆発時にブロックがドロップアイテムを落とさない可能性 (mob bakuhatsu ji ni burokku ga doroppu aitemu o otosanai kanōsei)
+gamerule.mobExplosionDropDecay.description	Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.	Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます (mob ni yoru bakuhatsu de hakai sareta burokku kara no doroppu aitemu no ichibu ga, sono bakuhatsu ni yotte shōshitsu suru ka o settei dekimasu)。
+gamerule.mobGriefing	Allow destructive mob actions	Mobの破壊行動の許可 (mob no hakai kōdō no kyoka)
+gamerule.naturalRegeneration	Regenerate health	体力の自動回復 (karada chikara no jidō kaifuku)
+gamerule.playersNetherPortalCreativeDelay	Player's Nether portal delay in creative mode	クリエイティブモードでのネザーポータルの待機時間 (kurieitibu mōdo de no nezāpōtaru no taiki jikan)
+gamerule.playersNetherPortalCreativeDelay.description	Time (in ticks) that a creative mode player needs to stand in a Nether portal before changing dimensions.	クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間 (kurieitibu mōdo no pureiyā ga dimenshon o idō suru made ni nezāpōtarunai ni tatte iru hitsuyō no aru jikan)（ティック (tikku)）
+gamerule.playersNetherPortalDefaultDelay	Player's Nether portal delay in non-creative mode	非クリエイティブモードでのネザーポータルの待機時間 (hi kurieitibu mōdo de no nezāpōtaru no taiki jikan)
+gamerule.playersNetherPortalDefaultDelay.description	Time (in ticks) that a non-creative mode player needs to stand in a Nether portal before changing dimensions.	クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間 (kurieitibu mōdo igai no pureiyā ga dimenshon o idō suru made ni nezāpōtarunai ni tatte iru hitsuyō no aru jikan)（ティック (tikku)）
+gamerule.playersSleepingPercentage	Sleep percentage	就寝率 (shūshin ritsu)
+gamerule.playersSleepingPercentage.description	The percentage of players who must be sleeping to skip the night.	夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます (yoru o sukippu suru tame ni hitsuyōna beddo de nete iru pureiyā no wariai o settei dekimasu)。
+gamerule.projectilesCanBreakBlocks	Projectiles can break blocks	飛び道具によるブロック破壊の可否 (tobidōgu ni yoru burokku hakai no kahi)
+gamerule.projectilesCanBreakBlocks.description	Controls whether impact projectiles will destroy blocks that are destructible by them.	飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます (tobidōgu no chakudan ni yotte hakai sare uru burokku ga jissai ni hakai sareru ka dou ka o settei dekimasu)。
+gamerule.randomTickSpeed	Random tick speed rate	ランダムティックの発生数 (randamu tikku no hassei sū)
+gamerule.reducedDebugInfo	Reduce debug info	デバッグ情報の制限 (debaggu jōhō no seigen)
+gamerule.reducedDebugInfo.description	Limits contents of debug screen.	表示するデバッグ情報の項目数を制限します (hyōji suru debaggu jōhō no kōmoku sū o seigen shimasu)。
+gamerule.sendCommandFeedback	Send command feedback	コマンドの実行結果の表示 (komando no jikkō kekka no hyōji)
+gamerule.showDeathMessages	Show death messages	死亡メッセージの表示 (shibō messēji no hyōji)
+gamerule.snowAccumulationHeight	Snow accumulation height	積雪の深さ (sekisetsu no fukasa)
+gamerule.snowAccumulationHeight.description	When it snows, layers of snow form on the ground up to at most this number of layers.	降雪時に積もる雪の層の最大数を設定できます (kōsetsu ji ni tsumoru yuki no sō no saidaisū o settei dekimasu)。
+gamerule.spawnChunkRadius	Spawn chunk radius	スポーンチャンクの半径 (supōn chanku no hankei)
+gamerule.spawnChunkRadius.description	Amount of chunks that stay loaded around the overworld spawn position.	オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量 (ōbā wārudo no supōn chiten shūhen no, tsune ni yomikomarete iru chanku no ryō)。
+gamerule.spawnRadius	Respawn location radius	リスポーン地点の半径 (risupōn chiten no hankei)
+gamerule.spawnRadius.description	Controls the size of the area around the spawn point that players can spawn in.	スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます (supōn chiten o chūshin to shita, pureiyā ga supōn suru kanōsei no aru han'i no ōkisa o chōsei dekimasu)。
+gamerule.spectatorsGenerateChunks	Allow spectators to generate terrain	スペクテイターモードのプレイヤーによる地形生成の許可 (supekuteitāmōdo no pureiyā ni yoru chikei seisei no kyoka)
+gamerule.tntExplosionDropDecay	In TNT explosions, some blocks won't drop their loot	TNT爆発時にブロックがドロップアイテムを落とさない可能性 (tnt bakuhatsu ji ni burokku ga doroppu aitemu o otosanai kanōsei)
+gamerule.tntExplosionDropDecay.description	Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.	オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります (on ni suru to, tnt no bakuhatsu de hakai sareta burokku no doroppu aitemu ga ichibu shōshitsu suru yōni narimasu)。
+gamerule.universalAnger	Universal anger	敵対の共有 (tekitai no kyōyū)
+gamerule.universalAnger.description	Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.	敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です (tekitai jōtai to natta chūritsu mob ga, saisho ni tekitai shita pureiyā dakede naku hoka no pureiyā ni mo kōgeki suru ka o settei dekimasu. forgivedeadplayers ga mukōni natte iru sai ni saitekidesu)。
+gamerule.waterSourceConversion	Water converts to source	水流から水源への変化 (suiryū kara suigen e no henka)
+gamerule.waterSourceConversion.description	When flowing water is surrounded on two sides by water sources it converts into a source.	水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます (suiryū ga ni hōkō kara suigen ni hasamareta toki ni, suigen ni henka suru ka o settei dekimasu)。

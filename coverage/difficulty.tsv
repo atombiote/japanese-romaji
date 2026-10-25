@@ -1,0 +1,3 @@
+Translation key	English	Japanese with romaji
+difficulty.lock.question	Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again.	このワールドの難易度を固定しますか？ 設定後、このワールドの難易度は常に (kono wārudo no nan'ido o kotei shimasu ka? setteigo, kono wārudo no nan'ido wa tsune ni)%1$sになり、以後再び変更することはできなくなります (ni nari, igo futatabi henkō suru koto wa dekinaku narimasu)。
+difficulty.lock.title	Lock World Difficulty	ワールドの難易度の固定 (wārudo no nan'ido no kotei)

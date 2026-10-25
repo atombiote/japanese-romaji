@@ -1,0 +1,9 @@
+Translation key	English	Japanese with romaji
+deathScreen.quit.confirm	Are you sure you want to quit?	終了しますか (shūryō shimasu ka)？
+deathScreen.respawn	Respawn	リスポーン (risupōn)
+deathScreen.score	Score	スコア (sukoa)
+deathScreen.score.value	Score: %s	スコア (sukoa)：%s
+deathScreen.spectate	Spectate World	ワールドを観覧 (wārudo o kanran)
+deathScreen.title	You Died!	死んでしまった (shinde shimatta)！
+deathScreen.title.hardcore	Game Over!	ゲームオーバー (gēmuōbā)！
+deathScreen.titleScreen	Title Screen	タイトル画面 (taitoru gamen)

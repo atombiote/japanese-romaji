@@ -1,0 +1,5 @@
+Translation key	English	Japanese with romaji
+quickplay.error.invalid_identifier	Could not find world with the provided identifier	指定された識別子を持つワールドが見つかりませんでした (shitei sareta shikibetsushi o motsu wārudo ga mitsukarimasendeshita)
+quickplay.error.realm_connect	Could not connect to Realm	Realmに接続できませんでした (realm ni setsuzoku dekimasendeshita)
+quickplay.error.realm_permission	Lacking permission to connect to this Realm	このRealmに接続するための権限がありません (kono realm ni setsuzoku suru tame no kengen ga arimasen)
+quickplay.error.title	Failed to Quick Play	クイックプレイに失敗しました (kuikku purei ni shippai shimashita)

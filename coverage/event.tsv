@@ -1,0 +1,7 @@
+Translation key	English	Japanese with romaji
+event.minecraft.raid	Raid	襲撃 (shūgeki)
+event.minecraft.raid.defeat	Defeat	敗北 (haiboku)
+event.minecraft.raid.defeat.full	Raid - Defeat	襲撃 - 敗北 (shūgeki - haiboku)
+event.minecraft.raid.raiders_remaining	Raiders Remaining: %s	残り (nokori)%s体 (karada)
+event.minecraft.raid.victory	Victory	勝利 (shōri)
+event.minecraft.raid.victory.full	Raid - Victory	襲撃 - 勝利 (shūgeki - shōri)

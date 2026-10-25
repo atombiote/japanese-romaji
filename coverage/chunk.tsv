@@ -1,0 +1,6 @@
+Translation key	English	Japanese with romaji
+chunk.toast.checkLog	See log for more details	詳細はログをご確認ください (shōsai wa rogu o go kakunin kudasai)
+chunk.toast.loadFailure	Failed to load chunk at %s	%sにあるチャンクの読み込みに失敗しました (ni aru chanku no yomikomi ni shippai shimashita)
+chunk.toast.lowDiskSpace	Low disk space!	ディスクの空き容量が不足しています (disuku no aki yōryō ga fusoku shite imasu)！
+chunk.toast.lowDiskSpace.description	Might not be able to save the world.	ワールドを保存できない可能性があります (wārudo o hozon dekinai kanōsei ga arimasu)。
+chunk.toast.saveFailure	Failed to save chunk at %s	%sにあるチャンクの保存に失敗しました (ni aru chanku no hozon ni shippai shimashita)

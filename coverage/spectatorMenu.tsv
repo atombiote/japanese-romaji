@@ -1,0 +1,9 @@
+Translation key	English	Japanese with romaji
+spectatorMenu.close	Close Menu	メニューを閉じる (menyū o tojiru)
+spectatorMenu.next_page	Next Page	次のページへ (tsugi no pēji e)
+spectatorMenu.previous_page	Previous Page	前のページへ (mae no pēji e)
+spectatorMenu.root.prompt	Press a key to select a command, and again to use it.	キーを押してコマンドを選択してください。もう一度押すことで使用することができます (kī o oshite komando o sentaku shite kudasai. mou ichido osu koto de shiyō suru koto ga dekimasu)。
+spectatorMenu.team_teleport	Teleport to Team Member	チームメンバーにテレポート (chīmumenbā ni terepōto)
+spectatorMenu.team_teleport.prompt	Select a team to teleport to	テレポート先のチームを選択 (terepōto saki no chīmu o sentaku)
+spectatorMenu.teleport	Teleport to Player	プレイヤーにテレポート (pureiyā ni terepōto)
+spectatorMenu.teleport.prompt	Select a player to teleport to	テレポート先のプレイヤーを選択 (terepōto saki no pureiyā o sentaku)

@@ -1,0 +1,18 @@
+Translation key	English	Japanese with romaji
+createWorld.customize.buffet.biome	Please select a biome	バイオームを選択してください (baiōmu o sentaku shite kudasai)
+createWorld.customize.buffet.title	Buffet world customization	シングルバイオームのカスタマイズ (shinguru baiōmu no kasutamaizu)
+createWorld.customize.flat.height	Height	高さ (takasa)
+createWorld.customize.flat.layer.bottom	Bottom - %s	最下層 (sai kasō) - %s
+createWorld.customize.flat.layer.top	Top - %s	最上層 (sai jōsō) - %s
+createWorld.customize.flat.removeLayer	Remove Layer	地層を削除 (chisō o sakujo)
+createWorld.customize.flat.tile	Layer Material	地層の構成物 (chisō no kōseibutsu)
+createWorld.customize.flat.title	Superflat Customization	スーパーフラットのカスタマイズ (sūpā furatto no kasutamaizu)
+createWorld.customize.presets	Presets	プリセット (purisetto)
+createWorld.customize.presets.list	Alternatively, here's some we made earlier!	もしくは、次のプリセットから選んでください (moshikuwa , tsugi no purisetto kara erande kudasai)！
+createWorld.customize.presets.select	Use Preset	プリセットを使用 (purisetto o shiyō)
+createWorld.customize.presets.share	Want to share your preset with someone? Use the box below!	プリセットを共有する場合、この入力欄をご使用ください (purisetto o kyōyū suru bāi, kono nyūryokuran o go shiyō kudasai)
+createWorld.customize.presets.title	Select a Preset	プリセットの選択 (purisetto no sentaku)
+createWorld.preparing	Preparing for world creation...	ワールド生成の準備中 (wārudo seisei no junbichū)…
+createWorld.tab.game.title	Game	ゲーム設定 (gēmu settei)
+createWorld.tab.more.title	More	その他の設定 (sono ta no settei)
+createWorld.tab.world.title	World	ワールド設定 (wārudo settei)

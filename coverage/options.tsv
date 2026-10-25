@@ -1,0 +1,217 @@
+Translation key	English	Japanese with romaji
+options.accessibility	Accessibility Settings...	アクセシビリティ設定 (akuseshibiriti settei)…
+options.accessibility.high_contrast	High Contrast	ハイコントラスト (haikontorasuto)
+options.accessibility.high_contrast.error.tooltip	High Contrast resource pack is not available.	ハイコントラストリソースパックは利用できません (haikontorasutorisōsupakku wa riyō dekimasen)。
+options.accessibility.high_contrast.tooltip	Enhances the contrast of UI elements.	UIのコントラストを強調します (ui no kontorasuto o kyōchō shimasu)。
+options.accessibility.link	Accessibility Guide	アクセシビリティについて (akuseshibiriti ni tsuite)
+options.accessibility.menu_background_blurriness	Menu Background Blur	メニュー背景のぼかし具合 (menyū haikei no bokashi guai)
+options.accessibility.menu_background_blurriness.tooltip	Changes the blurriness of menu backgrounds.	メニュー背景のぼかし具合を変更します (menyū haikei no bokashi guai o henkō shimasu)。
+options.accessibility.narrator_hotkey	Narrator Hotkey	音声読み上げのホットキー (onsei yomiage no hottokī)
+options.accessibility.narrator_hotkey.mac.tooltip	Allows the Narrator to be toggled on and off with 'Cmd+B'.	Cmd+Bで音声読み上げのオン・オフを切り替えられるようになります (cmd + b de onsei yomiage no on ofu o kirikaerareru yōni narimasu)
+options.accessibility.narrator_hotkey.tooltip	Allows the Narrator to be toggled on and off with 'Ctrl+B'.	Ctrl+Bで音声読み上げのオン・オフを切り替えられるようになります (ctrl + b de onsei yomiage no on ofu o kirikaerareru yōni narimasu)
+options.accessibility.panorama_speed	Panorama Scroll Speed	パノラマのスクロール速度 (panorama no sukurōru sokudo)
+options.accessibility.text_background	Text Background	テキストの背景 (tekisuto no haikei)
+options.accessibility.text_background_opacity	Text Background Opacity	背景の不透明度 (haikei no fu tōmeido)
+options.accessibility.text_background.chat	Chat	チャット (chatto)
+options.accessibility.text_background.everywhere	Everywhere	すべて (subete)
+options.accessibility.title	Accessibility Settings	アクセシビリティ設定 (akuseshibiriti settei)
+options.allowServerListing	Allow Server Listings	サーバーリストへの表示許可 (sābā risuto e no hyōji kyoka)
+options.allowServerListing.tooltip	Servers may list online players as part of their public status.\nWith this option off your name will not show up in such lists.	サーバーでは、オンラインのプレイヤーを公開ステータスの一部として表示することがあります (sābā de wa, onrain no pureiyā o kōkai sutētasu no ichibu to shite hyōji suru koto ga arimasu)。\nこの設定をオフにすると、そのようなリストからあなたの名前が表示されなくなります (kono settei o ofu ni suru to, sono yōna risuto kara anata no namae ga hyōji sarenaku narimasu)。
+options.ao	Smooth Lighting	スムースライティング (sumūsu raitingu)
+options.ao.max	Maximum	最大 (saidai)
+options.ao.min	Minimum	最小 (saishō)
+options.ao.off	OFF	オフ (ofu)
+options.attack.crosshair	Crosshair	クロスヘア (kurosuhea)
+options.attack.hotbar	Hotbar	ホットバー (hottobā)
+options.attackIndicator	Attack Indicator	攻撃力変動の表示 (kōgekiryoku hendō no hyōji)
+options.audioDevice	Device	オーディオデバイス (ōdio debaisu)
+options.audioDevice.default	System Default	システムのデフォルト (shisutemu no deforuto)
+options.autoJump	Auto-Jump	自動ジャンプ (jidō janpu)
+options.autosaveIndicator	Autosave Indicator	オートセーブの表示 (ōto sēbu no hyōji)
+options.autoSuggestCommands	Command Suggestions	コマンドの候補 (komando no kōho)
+options.biomeBlendRadius	Biome Blend	バイオームの重なり度合 (baiōmu no kasanari doai)
+options.biomeBlendRadius.1	OFF (Fastest)	オフ (ofu)（最速 (saisoku)）
+options.biomeBlendRadius.3	3x3 (Fast)	3×3（速い (hayai)）
+options.biomeBlendRadius.5	5x5 (Normal)	5×5（普通 (futsū)）
+options.biomeBlendRadius.7	7x7 (High)	7×7（高い (takai)）
+options.biomeBlendRadius.9	9x9 (Very High)	9×9（非常に高い (hijōni takai)）
+options.biomeBlendRadius.11	11x11 (Extreme)	11×11（極めて高い (kiwamete takai)）
+options.biomeBlendRadius.13	13x13 (Showoff)	13×13（誇示 (koji)）
+options.biomeBlendRadius.15	15x15 (Maximum)	15×15（最高 (saikō)）
+options.chat	Chat Settings...	チャット設定 (chatto settei)…
+options.chat.color	Colors	色 (iro)
+options.chat.delay	Chat Delay: %s seconds	チャットの遅延間隔 (chatto no chien kankaku)：%s秒 (byō)
+options.chat.delay_none	Chat Delay: None	チャットの遅延間隔：なし (chatto no chien kankaku: nashi)
+options.chat.height.focused	Focused Height	入力時の高さ (nyūryoku ji no takasa)
+options.chat.height.unfocused	Unfocused Height	通常時の高さ (tsūjō toki no takasa)
+options.chat.line_spacing	Line Spacing	行間 (gyōkan)
+options.chat.links	Web Links	ウェブリンク (webu rinku)
+options.chat.links.prompt	Prompt on Links	リンクを開く時に確認の表示 (rinku o hiraku toki ni kakunin no hyōji)
+options.chat.opacity	Chat Text Opacity	チャットの不透明度 (chatto no fu tōmeido)
+options.chat.scale	Chat Text Size	チャットの文字サイズ (chatto no moji saizu)
+options.chat.title	Chat Settings	チャット設定 (chatto settei)
+options.chat.visibility	Chat	チャット (chatto)
+options.chat.visibility.full	Shown	表示 (hyōji)
+options.chat.visibility.hidden	Hidden	非表示 (hihyōji)
+options.chat.visibility.system	Commands Only	コマンドのみ (komando nomi)
+options.chat.width	Width	幅 (haba)
+options.chunks	%s chunks	%sチャンク (chanku)
+options.clouds.fancy	Fancy	描画優先 (byōga yūsen)
+options.clouds.fast	Fast	処理優先 (shori yūsen)
+options.controls	Controls...	操作設定 (sōsa settei)…
+options.credits_and_attribution	Credits & Attribution...	クレジットと帰属表示 (kurejitto to kizoku hyōji)…
+options.damageTiltStrength	Damage Tilt	被ダメージ時の画面の揺れ (hi damēji ji no gamen no yure)
+options.damageTiltStrength.tooltip	The amount of camera shake caused by being hurt.	被ダメージ時に発生する画面の揺れの強さを設定できます (hi damēji ji ni hassei suru gamen no yure no tsuyosa o settei dekimasu)。
+options.darkMojangStudiosBackgroundColor	Monochrome Logo	モノクロのロゴ (monokuro no rogo)
+options.darkMojangStudiosBackgroundColor.tooltip	Changes the Mojang Studios loading screen background color to black.	Mojang Studiosの読み込み画面の背景色を黒に変更します (mojang studios no yomikomi gamen no haikeishoku o kuro ni henkō shimasu)。
+options.darknessEffectScale	Darkness Pulsing	暗闇の脈動 (kurayami no myakudō)
+options.darknessEffectScale.tooltip	Controls how much the Darkness effect pulses when a Warden or Sculk Shrieker gives it to you.	ウォーデンまたはスカルクシュリーカーが暗闇の効果を与える時にどの程度脈動するかを設定できます (wōden mata wa sukarukushurīkā ga kurayami no kōka o ataeru toki ni dono teido myakudō suru ka o settei dekimasu)。
+options.difficulty	Difficulty	難易度 (nan'ido)
+options.difficulty.easy	Easy	イージー (ījī)
+options.difficulty.easy.info	Hostile mobs spawn but deal less damage. Hunger bar depletes and drains health down to 5 hearts.	敵対Mobがスポーンしますが、与えてくるダメージは少なめです。満腹度ゲージが空になると、ハート5つ分までダメージを受けます (tekitai mob ga supōn shimasu ga, ataete kuru damēji wa sukunamedesu. manpuku do gēji ga sora ni naru to, hāto 5tsu bun made damēji o ukemasu)。
+options.difficulty.hard	Hard	ハード (hādo)
+options.difficulty.hard.info	Hostile mobs spawn and deal more damage. Hunger bar depletes and drains all health.	敵対Mobがスポーンし、より多くのダメージを与えてきます。満腹度ゲージが空になると、空腹により死亡します (tekitai mob ga supōn shi, yori ōku no damēji o ataete kimasu. manpuku do gēji ga sora ni naru to, kūfukuni yori shibō shimasu)。
+options.difficulty.hardcore	Hardcore	ハードコア (hādokoa)
+options.difficulty.normal	Normal	ノーマル (nōmaru)
+options.difficulty.normal.info	Hostile mobs spawn and deal standard damage. Hunger bar depletes and drains health down to half a heart.	敵対Mobがスポーンし、標準量のダメージを与えてきます。満腹度ゲージが空になると、ハート半分までダメージを受けます (tekitai mob ga supōn shi, hyōjun ryō no damēji o ataete kimasu. manpuku do gēji ga sora ni naru to, hāto hanbun made damēji o ukemasu)。
+options.difficulty.online	Server Difficulty	サーバーの難易度 (sābā no nan'ido)
+options.difficulty.peaceful	Peaceful	ピースフル (pīsufuru)
+options.difficulty.peaceful.info	No hostile mobs and only some neutral mobs spawn. Hunger bar doesn't deplete and health replenishes over time.	敵対Mobはスポーンせず、友好Mobと一部の中立Mobのみがスポーンします。満腹度ゲージは減少せず、時間経過で体力が回復します (tekitai mob wa supōn sezu, yūkō mob to ichibu no chūritsu mob nomi ga supōn shimasu. manpuku do gēji wa genshō sezu, jikan keika de tairyoku ga kaifuku shimasu)。
+options.directionalAudio	Directional Audio	指向性オーディオ (shikōsei ōdio)
+options.directionalAudio.off.tooltip	Classic Stereo sound.	従来のステレオ音声 (jūrai no sutereo onsei)。
+options.directionalAudio.on.tooltip	Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones.	HRTF（頭部伝達関数 (tōbu dentatsu kansū)）による指向性オーディオを使用することで、3Dサウンド体験を向上させます。HRTFに対応したオーディオ機器が必要で、ヘッドホンの利用を推奨します (ni yoru shikōsei ōdio o shiyō suru kotode, 3 d saundo taiken o kōjō sasemasu. hrtf ni taiō shita ōdio kiki ga hitsuyōde, heddohon no riyō o suishō shimasu)。
+options.discrete_mouse_scroll	Discrete Scrolling	マウススクロール設定の無視 (mausu sukurōru settei no mushi)
+options.entityDistanceScaling	Entity Distance	エンティティの描画距離 (entiti no byōga kyori)
+options.entityShadows	Entity Shadows	エンティティの影 (entiti no kage)
+options.font	Font Settings...	フォント設定 (fonto settei)…
+options.font.title	Font Settings	フォント設定 (fonto settei)
+options.forceUnicodeFont	Force Unicode Font	Unicodeフォントを強制する (unicode fonto o kyōsei suru)
+options.fov	FOV	視野 (shiya)
+options.fov.max	Quake Pro	最大 (saidai)
+options.fov.min	Normal	標準 (hyōjun)
+options.fovEffectScale	FOV Effects	視野の変化 (shiya no henka)
+options.fovEffectScale.tooltip	Controls how much the field of view can change with gameplay effects.	ゲーム内の効果により視野がどの程度変化するかを設定できます (gēmunai no kōka ni yori shiya ga dono teido henka suru ka o settei dekimasu)。
+options.framerateLimit	Max Framerate	最大フレームレート (saidai furēmu rēto)
+options.framerateLimit.max	Unlimited	無制限 (museigen)
+options.fullscreen	Fullscreen	フルスクリーン (furusukurīn)
+options.fullscreen.current	Current	現在の設定 (genzai no settei)
+options.fullscreen.entry	%sx%s@%s (%sbit)	%sx%s@%s (%sビット (bitto))
+options.fullscreen.resolution	Fullscreen Resolution	フルスクリーンでの解像度 (furusukurīn de no kaizōdo)
+options.fullscreen.unavailable	Setting unavailable	利用できません (riyō dekimasen)
+options.gamma	Brightness	明るさ (akarusa)
+options.gamma.default	Default	デフォルト (deforuto)
+options.gamma.max	Bright	明るい (akarui)
+options.gamma.min	Moody	暗い (kurai)
+options.glintSpeed	Glint Speed	オーラの速度 (ōra no sokudo)
+options.glintSpeed.tooltip	Controls how fast the visual glint shimmers across enchanted items.	エンチャントされたアイテムを覆うオーラの揺らめきの速度を設定できます (enchanto sareta aitemu o ōu ōra no yurameki no sokudo o settei dekimasu)。
+options.glintStrength	Glint Strength	オーラの濃さ (ōra no kosa)
+options.glintStrength.tooltip	Controls how transparent the visual glint is on enchanted items.	エンチャントされたアイテムを覆うオーラの透明度を設定できます (enchanto sareta aitemu o ōu ōra no tōmeido o settei dekimasu)。
+options.graphics	Graphics	グラフィックス (gurafikkusu)
+options.graphics.fabulous	Fabulous!	最高設定 (saikō settei)！
+options.graphics.fabulous.tooltip	%s graphics uses screen shaders for drawing weather, clouds, and particles behind translucent blocks and water.\nThis may severely impact performance for portable devices and 4K displays.	%sでは半透明なブロックや水の背後の天候、雲、パーティクルの描画にシェーダーを使用します (de wa hantōmeina burokku ya mizu no haigo no tenkō, kumo, pātikuru no byōga ni shēdā o shiyō shimasu)。\nポータブル機器や4Kディスプレイでの描画においてパフォーマンスに重大な影響を与える可能性があります (pōtaburu kiki ya 4 k disupurei de no byōga ni oite pafōmansu ni jūdaina eikyō o ataeru kanōsei ga arimasu)。
+options.graphics.fancy	Fancy	描画優先 (byōga yūsen)
+options.graphics.fancy.tooltip	Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or water.	描画優先は多くの動作環境においてパフォーマンスと画質を両立させます (byōga yūsen wa ōku no dōsa kankyō ni oite pafōmansu to gashitsu o ryōritsu sasemasu)。\n半透明なブロックや水の背後の天候表現、雲、パーティクルは表示されない場合があります (hantōmeina burokku ya mizu no haigo no tenkō hyōgen, kumo, pātikuru wa hyōji sarenai bāi ga arimasu)。
+options.graphics.fast	Fast	処理優先 (shori yūsen)
+options.graphics.fast.tooltip	Fast graphics reduces the amount of visible rain and snow.\nTransparency effects are disabled for various blocks such as leaves.	処理優先は表示される雨や雪の数を減らします (shori yūsen wa hyōji sareru ame ya yuki no kazu o herashimasu)。\n木の葉のような様々なブロックの透過効果は無効になります (konoha no yōna samazamana burokku no tōka kōka wa mukōni narimasu)。
+options.graphics.warning.accept	Continue Without Support	サポートなしで続行 (sapōto nashi de zokkō)
+options.graphics.warning.cancel	Take Me Back	元に戻す (moto ni modosu)
+options.graphics.warning.message	Your graphics device is detected as unsupported for the %s graphics option.\n\nYou may ignore this and continue, however support will not be provided for your device if you choose to use %s graphics.	お使いのグラフィックデバイスは、グラフィックオプションの (o tsukai no gurafikku debaisu wa, gurafikku opushon no)%sをサポートしていないことを検出しました (o sapōto shite inai koto o kenshutsu shimashita)。\n\nこの警告を無視することもできますが (kono keikoku o mushi suru koto mo dekimasu ga)、%sグラフィックの使用を選択した場合はデバイスの正常な動作が保証されません (gurafikku no shiyō o sentaku shita bāi wa debaisu no seijōna dōsa ga hoshō saremasen)。
+options.graphics.warning.renderer	Renderer detected: [%s]	検出されたレンダラー (kenshutsu sareta rendarā)：[%s]
+options.graphics.warning.title	Graphics Device Unsupported	サポートされていないグラフィックデバイス (sapōto sarete inai gurafikku debaisu)
+options.graphics.warning.vendor	Vendor detected: [%s]	検出されたベンダー (kenshutsu sareta bendā)：[%s]
+options.graphics.warning.version	OpenGL Version detected: [%s]	検出されたOpenGLバージョン (kenshutsu sareta opengl bājon)：[%s]
+options.guiScale	GUI Scale	GUIの大きさ (gui no ōkisa)
+options.guiScale.auto	Auto	自動 (jidō)
+options.hidden	Hidden	非表示 (hihyōji)
+options.hideLightningFlashes	Hide Lightning Flashes	空の明滅の非表示 (sora no meimetsu no hihyōji)
+options.hideLightningFlashes.tooltip	Prevents Lightning Bolts from making the sky flash. The bolts themselves will still be visible.	落雷やその他の環境エフェクトに伴う空の明滅をなくします。これらのエフェクトそのものは引き続き表示されます (rakurai ya sono ta no kankyō efekuto ni tomonau sora no meimetsu o nakushimasu. korera no efekuto sono mono wa hikitsuzuki hyōji saremasu)。
+options.hideMatchedNames	Hide Matched Names	合致した名前を非表示 (gatchi shita namae o hihyōji)
+options.hideMatchedNames.tooltip	3rd-party Servers may send chat messages in non-standard formats.\nWith this option on, hidden players will be matched based on chat sender names.	サードパーティー製のサーバーは非標準の形式でチャットを送信する場合があります (sādopātīsei no sābā wa hi hyōjun no keishiki de chatto o sōshin suru bāi ga arimasu)。\nこの設定をオンにすると、非表示のプレイヤーはチャットの送信者の名前によって判別されます (kono settei o on ni suru to, hihyōji no pureiyā wa chatto no sōshinsha no namae ni yotte hanbetsu saremasu)。
+options.hideSplashTexts	Hide Splash Texts	スプラッシュテキストの非表示 (supurasshu tekisuto no hihyōji)
+options.hideSplashTexts.tooltip	Hides the yellow splash text in the main menu.	メインメニューの黄色いスプラッシュテキストを非表示にします (meinmenyū no kiiroi supurasshu tekisuto o hihyōji ni shimasu)。
+options.invertMouse	Invert Mouse	マウス操作の反転 (mausu sōsa no hanten)
+options.japaneseGlyphVariants	Japanese Glyph Variants	日本語用フォント (nippon goyō fonto)
+options.japaneseGlyphVariants.tooltip	Uses Japanese variants of CJK characters in the default font.	デフォルトのフォントで、CJK文字に日本語用のフォントを使用します (deforuto no fonto de, cjk moji ni nippon goyō no fonto o shiyō shimasu)
+options.key.hold	Hold	固定 (kotei)
+options.key.toggle	Toggle	切り替え (kirikae)
+options.language	Language...	言語設定 (gengo settei)…
+options.language.title	Language	言語設定 (gengo settei)
+options.languageAccuracyWarning	(Language translations may not be 100%% accurate)	（正確な翻訳が行われていない可能性があります (seikakuna hon'yaku ga okonawarete inai kanōsei ga arimasu)）
+options.languageWarning	Language translations may not be 100%% accurate	正確な翻訳が行われていない可能性があります (seikakuna hon'yaku ga okonawarete inai kanōsei ga arimasu)。
+options.mainHand	Main Hand	利き手 (kikite)
+options.mainHand.left	Left	左手 (hidarite)
+options.mainHand.right	Right	右手 (migite)
+options.mipmapLevels	Mipmap Levels	ミップマップレベル (mippumappureberu)
+options.modelPart.cape	Cape	マント (manto)
+options.modelPart.hat	Hat	帽子 (bōshi)
+options.modelPart.jacket	Jacket	上着 (uwagi)
+options.modelPart.left_pants_leg	Left Pant Leg	ズボンの左脚 (zubon no hidariashi)
+options.modelPart.left_sleeve	Left Sleeve	左袖 (hidarisode)
+options.modelPart.right_pants_leg	Right Pant Leg	ズボンの右脚 (zubon no migiashi)
+options.modelPart.right_sleeve	Right Sleeve	右袖 (migisode)
+options.mouse_settings	Mouse Settings...	マウス設定 (mausu settei)…
+options.mouse_settings.title	Mouse Settings	マウス設定 (mausu settei)
+options.mouseWheelSensitivity	Scroll Sensitivity	マウスホイールの感度 (mausu hoīru no kando)
+options.multiplayer.title	Multiplayer Settings...	LANに公開 (lan ni kōkai)
+options.multiplier	%sx	%s倍 (bai)
+options.narrator	Narrator	音声読み上げ (onsei yomiage)
+options.narrator.all	Narrates All	すべて読み上げ (subete yomiage)
+options.narrator.chat	Narrates Chat	チャットの読み上げ (chatto no yomiage)
+options.narrator.notavailable	Not Available	利用不可 (riyō fuka)
+options.narrator.off	OFF	オフ (ofu)
+options.narrator.system	Narrates System	システムの読み上げ (shisutemu no yomiage)
+options.notifications.display_time	Notification Time	通知表示時間 (tsūchi hyōji jikan)
+options.notifications.display_time.tooltip	Affects the length of time that all notifications stay visible on the screen.	通知が画面上に表示される時間を調整することができます (tsūchi ga gamenjō ni hyōji sareru jikan o chōsei suru koto ga dekimasu)。
+options.off	OFF	オフ (ofu)
+options.off.composed	%s: OFF	%s：オフ (ofu)
+options.on	ON	オン (on)
+options.on.composed	%s: ON	%s：オン (on)
+options.online	Online...	オンライン設定 (onrain settei)…
+options.online.title	Online Options	オンライン設定 (onrain settei)
+options.onlyShowSecureChat	Only Show Secure Chat	安全なチャットのみ表示 (anzenna chatto nomi hyōji)
+options.onlyShowSecureChat.tooltip	Only display messages from other players that can be verified to have been sent by that player, and have not been modified.	送信元のプレイヤーが確認可能で、変更が加えられていないメッセージのみを表示します (sōshinmoto no pureiyā ga kakunin kanōde, henkō ga kuwaerarete inai messēji nomi o hyōji shimasu)。
+options.operatorItemsTab	Operator Items Tab	管理者用アイテムタブ (kanrishayō aitemutabu)
+options.particles	Particles	パーティクルの表示 (pātikuru no hyōji)
+options.particles.all	All	すべて (subete)
+options.particles.decreased	Decreased	少し (sukoshi)
+options.particles.minimal	Minimal	最少 (saishō)
+options.pixel_value	%s: %spx	%s：%sピクセル (pikuseru)
+options.prioritizeChunkUpdates	Chunk Builder	チャンク構築 (chanku kōchiku)
+options.prioritizeChunkUpdates.byPlayer	Semi Blocking	仮ブロック化 (kari burokkuka)
+options.prioritizeChunkUpdates.byPlayer.tooltip	Some actions within a chunk will recompile the chunk immediately. This includes block placing & destroying.	ブロックの破壊や設置を含む特定のアクションがチャンク内で発生する度に、直ちにそのチャンクを再構築します (burokku no hakai ya setchi o fukumu tokutei no akushon ga chankunai de hassei suru tabi ni, tadachini sono chanku o sai kōchiku shimasu)。
+options.prioritizeChunkUpdates.nearby	Fully Blocking	フルブロック化 (furu burokkuka)
+options.prioritizeChunkUpdates.nearby.tooltip	Nearby chunks are always compiled immediately. This may impact game performance when blocks are placed or destroyed.	周辺のチャンクを常時直ちに構築します。そのため、ブロックの設置や破壊時にゲームのパフォーマンスに影響を与える可能性があります (shūhen no chanku o jōji tadachini kōchiku shimasu. sono tame, burokku no setchi ya hakai ji ni gēmu no pafōmansu ni eikyō o ataeru kanōsei ga arimasu)。
+options.prioritizeChunkUpdates.none	Threaded	スレッド (sureddo)
+options.prioritizeChunkUpdates.none.tooltip	Nearby chunks are compiled in parallel threads. This may result in brief visual holes when blocks are destroyed.	周辺のチャンクを並列スレッドで構築します。そのため、ブロックが破壊されたときに短時間の視覚的な穴が発生することがあります (shūhen no chanku o heiretsu sureddo de kōchiku shimasu. sono tame, burokku ga hakai sareta toki ni tanjikan no shikakutekina ana ga hassei suru koto ga arimasu)。
+options.rawMouseInput	Raw Input	Raw入力 (raw nyūryoku)
+options.realmsNotifications	Realms News & Invites	Realmsのニュースと招待 (realms no nyūsu to shōtai)
+options.realmsNotifications.tooltip	Fetches Realms news and invites in the title screen and displays their respective icon on the Realms button.	タイトル画面でRealmsニュースおよび招待を受け取り、それぞれのアイコンをRealmsボタンに表示します (taitoru gamen de realms nyūsu oyobi shōtai o uketori, sorezore no aikon o realms botan ni hyōji shimasu)。
+options.reducedDebugInfo	Reduced Debug Info	デバッグ情報を減らす (debaggu jōhō o herasu)
+options.renderClouds	Clouds	雲の表示 (kumo no hyōji)
+options.renderDistance	Render Distance	描画距離 (byōga kyori)
+options.resourcepack	Resource Packs...	リソースパック (risōsu pakku)…
+options.screenEffectScale	Distortion Effects	画面の歪み (gamen no yugami)
+options.screenEffectScale.tooltip	Strength of nausea and Nether portal screen distortion effects.\nAt lower values, the nausea effect is replaced with a green overlay.	吐き気とネザーポータルに入った時に起こる画面の歪み効果の強さを変更します (hakike to nezāpōtaru ni haitta toki ni okoru gamen no yugami kōka no tsuyosa o henkō shimasu)。\n設定の値を小さくすると、吐き気の歪み効果は緑色のオーバーレイに置き換えられます (settei no atai o chiisaku suru to, hakike no yugami kōka wa midoriiro no ōbārei ni okikaeraremasu)。
+options.sensitivity	Sensitivity	マウス感度 (mausu kando)
+options.sensitivity.max	HYPERSPEED!!!	猛スピード (mou supīdo)！！！
+options.sensitivity.min	*yawn*	*あくび (akubi)*
+options.showSubtitles	Show Subtitles	字幕の表示 (jimaku no hyōji)
+options.simulationDistance	Simulation Distance	演算距離 (enzan kyori)
+options.skinCustomisation	Skin Customization...	スキンのカスタマイズ (sukin no kasutamaizu)…
+options.skinCustomisation.title	Skin Customization	スキンのカスタマイズ (sukin no kasutamaizu)
+options.sounds	Music & Sounds...	サウンド設定 (saundo settei)…
+options.sounds.title	Music & Sound Options	サウンド設定 (saundo settei)
+options.telemetry	Telemetry Data...	データの遠隔収集 (dēta no enkaku shūshū)…
+options.telemetry.button	Data Collection	データの収集 (dēta no shūshū)
+options.telemetry.button.tooltip	"%s" includes only the required data.\n"%s" includes optional, as well as the required data.	「%s」では要求されたデータのみを収集します (de wa yōkyū sareta dēta nomi o shūshū shimasu)。\n「%s」は要求されたデータに加え、追加のデータを収集します (wa yōkyū sareta dēta ni kuwae, tsuika no dēta o shūshū shimasu)。
+options.telemetry.disabled	Telemetry is disabled.	データの遠隔収集は無効になっています (dēta no enkaku shūshū wa mukōni natte imasu)。
+options.telemetry.state.all	All	すべて (subete)
+options.telemetry.state.minimal	Minimal	最小 (saishō)
+options.telemetry.state.none	None	なし (nashi)
+options.title	Options	設定 (settei)
+options.touchscreen	Touchscreen Mode	タッチスクリーンモード (tatchi sukurīn mōdo)
+options.video	Video Settings...	ビデオ設定 (bideo settei)…
+options.videoTitle	Video Settings	ビデオ設定 (bideo settei)
+options.viewBobbing	View Bobbing	画面の揺れ (gamen no yure)
+options.visible	Shown	表示 (hyōji)
+options.vsync	VSync	垂直同期 (suichoku dōki)

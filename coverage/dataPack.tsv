@@ -1,0 +1,16 @@
+Translation key	English	Japanese with romaji
+dataPack.bundle.description	Enables experimental Bundle item	実験的なアイテムとしてバンドルを有効化 (jikkentekina aitemu to shite bandoru o yūkōka)
+dataPack.bundle.name	Bundles	バンドル (bandoru)
+dataPack.title	Select Data Packs	データパックの選択 (dēta pakku no sentaku)
+dataPack.trade_rebalance.description	Updated trades for Villagers	村人との新たな取引 (murabito to no aratana torihiki)
+dataPack.trade_rebalance.name	Villager Trade Rebalance	村人の取引の再調整 (murabito no torihiki no saichōsei)
+dataPack.update_1_20.description	New features and content for Minecraft 1.20	Minecraft 1.20に向けた新要素 (minecraft 1.20 ni muketa shin yōso)
+dataPack.update_1_20.name	Update 1.20	1.20のアップデート (1.20 no appudēto)
+dataPack.update_1_21.description	New features and content for Minecraft 1.21	Minecraft 1.21に向けた新要素 (minecraft 1.21 ni muketa shin yōso)
+dataPack.update_1_21.name	Update 1.21	1.21のアップデート (1.21 no appudēto)
+dataPack.validation.back	Go Back	戻る (modoru)
+dataPack.validation.failed	Data pack validation failed!	データパックの検証に失敗しました (dēta pakku no kenshō ni shippai shimashita)
+dataPack.validation.reset	Reset to Default	初期設定にリセット (shokisettei ni risetto)
+dataPack.validation.working	Validating selected data packs...	選択したデータパックを検証しています (sentaku shita dēta pakku o kenshō shite imasu)…
+dataPack.vanilla.description	The default data for Minecraft	Minecraftのデフォルトデータパック (minecraft no deforuto dēta pakku)
+dataPack.vanilla.name	Default	デフォルト (deforuto)

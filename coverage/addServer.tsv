@@ -1,0 +1,9 @@
+Translation key	English	Japanese with romaji
+addServer.add	Done	完了 (kanryō)
+addServer.enterIp	Server Address	サーバーアドレス (sābā adoresu)
+addServer.enterName	Server Name	サーバー名 (sābā mei)
+addServer.resourcePack	Server Resource Packs	サーバーリソースパック (sābā risōsu pakku)
+addServer.resourcePack.disabled	Disabled	無効 (mukō)
+addServer.resourcePack.enabled	Enabled	有効 (yūkō)
+addServer.resourcePack.prompt	Prompt	毎回確認 (maikai kakunin)
+addServer.title	Edit Server Info	サーバー情報の編集 (sābā jōhō no henshū)

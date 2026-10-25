@@ -1,0 +1,12 @@
+Translation key	English	Japanese with romaji
+generator.custom	Custom	カスタム (kasutamu)
+generator.customized	Old Customized	古いカスタマイズ (furui kasutamaizu)
+generator.minecraft.amplified	AMPLIFIED	アンプリファイド (anpurifaido)
+generator.minecraft.amplified.info	Notice: Just for fun! Requires a beefy computer.	注意：このオプションを楽しむためには、高性能なコンピューターが必要です (chūi: kono opushon o tanoshimu tame ni wa, kōseinōna konpyūtā ga hitsuyōdesu)。
+generator.minecraft.debug_all_block_states	Debug Mode	デバッグモード (debaggu mōdo)
+generator.minecraft.flat	Superflat	スーパーフラット (sūpā furatto)
+generator.minecraft.large_biomes	Large Biomes	大きなバイオーム (ōkina baiōmu)
+generator.minecraft.normal	Default	デフォルト (deforuto)
+generator.minecraft.single_biome_surface	Single Biome	シングルバイオーム (shinguru baiōmu)
+generator.single_biome_caves	Caves	洞窟 (dōkutsu)
+generator.single_biome_floating_islands	Floating Islands	浮島 (ukishima)

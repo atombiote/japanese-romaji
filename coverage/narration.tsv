@@ -1,0 +1,24 @@
+Translation key	English	Japanese with romaji
+narration.button	Button: %s	ボタン (botan)：%s
+narration.button.usage.focused	Press Enter to activate	エンターキーを押して選択します (entākī o oshite sentaku shimasu)
+narration.button.usage.hovered	Left click to activate	左クリックで選択します (hidari kurikku de sentaku shimasu)
+narration.checkbox	Checkbox: %s	チェックボックス (chekkubokkusu)：%s
+narration.checkbox.usage.focused	Press Enter to toggle	Enterを押して切り替えます (enter o oshite kirikaemasu)
+narration.checkbox.usage.hovered	Left click to toggle	左クリックで切り替えます (hidari kurikku de kirikaemasu)
+narration.component_list.usage	Press Tab to navigate to next element	タブキーを押して次の要素に移動します (tabukī o oshite tsugi no yōso ni idō shimasu)
+narration.cycle_button.usage.focused	Press Enter to switch to %s	Enterを押して (enter o oshite)%sに変更します (ni henkō shimasu)
+narration.cycle_button.usage.hovered	Left click to switch to %s	左クリックで (hidari kurikkude)%sに変更します (ni henkō shimasu)
+narration.edit_box	Edit box: %s	編集欄 (henshū ran)：%s
+narration.recipe	Recipe for %s	%sのレシピ (no reshipi)
+narration.recipe.usage	Left click to select	左クリックで選択します (hidari kurikku de sentaku shimasu)
+narration.recipe.usage.more	Right click to show more recipes	右クリックで他のレシピを表示します (migi kurikku de hoka no reshipi o hyōji shimasu)
+narration.selection.usage	Press up and down buttons to move to another entry	上下の方向キーを押して別の項目に移動します (jōge no hōkō kī o oshite betsu no kōmoku ni idō shimasu)
+narration.slider.usage.focused	Press left or right keyboard buttons to change value	左右の方向キーを押して数値を変更します (sayū no hōkō kī o oshite sūchi o henkō shimasu)
+narration.slider.usage.hovered	Drag slider to change value	スライダーを左右に移動させて数値を変更します (suraidā o sayū ni idō sasete sūchi o henkō shimasu)
+narration.suggestion	Selected suggestion %d out of %d: %s	%2$s個のうち (ko no uchi)%1$s番目の候補 (banme no kōho)%3$sが選択されました (ga sentaku saremashita)
+narration.suggestion.tooltip	Selected suggestion %d out of %d: %s (%s)	%2$s個のうち (ko no uchi)%1$s番目の候補 (banme no kōho)%3$s、%4$sが選択されました (ga sentaku saremashita)
+narration.suggestion.usage.cycle.fixed	Press Tab to cycle to the next suggestion	次の候補に切り替えるにはタブキーを押してください (tsugi no kōho ni kirikaeru ni wa tabukī o oshite kudasai)
+narration.suggestion.usage.cycle.hidable	Press Tab to cycle to the next suggestion, or Escape to leave suggestions	次の候補に切り替えるにはタブキーを、予測入力をやめるにはエスケープキーを押してください (tsugi no kōho ni kirikaeru ni wa tabukī o, yosoku nyūryoku o yameru ni wa esukēpukī o oshite kudasai)
+narration.suggestion.usage.fill.fixed	Press Tab to use suggestion	予測入力を使用する場合、Tabを押してください (yosoku nyūryoku o shiyō suru bāi, tab o oshite kudasai)
+narration.suggestion.usage.fill.hidable	Press Tab to use suggestion, or Escape to leave suggestions	予測入力を使用する場合はタブキーを押し、予測入力をやめるにはエスケープキーを押してください (yosoku nyūryoku o shiyō suru bāi wa tabukī o oshi, yosoku nyūryoku o yameru ni wa esukēpukī o oshite kudasai)
+narration.tab_navigation.usage	Press Ctrl and Tab to switch between tabs	CtrlキーとTabキーを同時に押すと、タブを切り替えられます (ctrl kī to tab kī o dōji ni osu to, tabu o kirikaeraremasu)

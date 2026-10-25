@@ -1,0 +1,4 @@
+Translation key	English	Japanese with romaji
+chat_screen.message	Message to send: %s	メッセージ送信内容 (messēji sōshin naiyō)：%s
+chat_screen.title	Chat screen	チャット画面 (chatto gamen)
+chat_screen.usage	Input message and press Enter to send	メッセージを入力し、Enterキーを押して送信 (messēji o nyūryoku shi, enter kī o oshite sōshin)

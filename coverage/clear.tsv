@@ -1,0 +1,3 @@
+Translation key	English	Japanese with romaji
+clear.failed.multiple	No items were found on %s players	%s人のプレイヤーはアイテムを持っていませんでした (hito no pureiyā wa aitemu o motte imasendeshita)
+clear.failed.single	No items were found on player %s	プレイヤー (pureiyā)%sはアイテムを持っていませんでした (wa aitemu o motte imasendeshita)

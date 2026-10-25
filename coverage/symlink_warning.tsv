@@ -1,0 +1,8 @@
+Translation key	English	Japanese with romaji
+symlink_warning.message	Loading worlds from folders with symbolic links can be unsafe if you don't know exactly what you are doing. Please visit %s to learn more.	シンボリックリンクのあるフォルダからワールドを読み込む場合は、安全のため十分な理解のもと実行してください。詳細は (shinborikku rinku no aru foruda kara wārudo o yomikomu bāi wa, anzen no tame jūbunna rikai no moto jikkō shite kudasai. shōsai wa)%sからご確認いただけます (kara go kakunin itadakemasu)。
+symlink_warning.message.pack	Loading packs with symbolic links can be unsafe if you don't know exactly what you are doing. Please visit %s to learn more.	シンボリックリンクのあるフォルダからパックを読み込む場合は、安全のため十分な理解のもと実行してください。詳細は (shinborikku rinku no aru foruda kara pakku o yomikomu bāi wa, anzen no tame jūbunna rikai no moto jikkō shite kudasai. shōsai wa)%sからご確認いただけます (kara go kakunin itadakemasu)。
+symlink_warning.message.world	Loading worlds from folders with symbolic links can be unsafe if you don't know exactly what you are doing. Please visit %s to learn more.	シンボリックリンクのあるフォルダからワールドを読み込む場合は、安全のため十分な理解のもと実行してください。詳細は (shinborikku rinku no aru foruda kara wārudo o yomikomu bāi wa, anzen no tame jūbunna rikai no moto jikkō shite kudasai. shōsai wa)%sからご確認いただけます (kara go kakunin itadakemasu)。
+symlink_warning.more_info	More Information	詳細な情報 (shōsaina jōhō)
+symlink_warning.title	World folder contains symbolic links	シンボリックリンクを含むワールドフォルダ (shinborikku rinku o fukumu wārudo foruda)
+symlink_warning.title.pack	Added pack(s) contain(s) symbolic links	追加されたパックにシンボリックリンクが含まれています (tsuika sareta pakku ni shinborikku rinku ga fukumarete imasu)
+symlink_warning.title.world	The world folder contains symbolic links	ワールドフォルダにシンボリックリンクが含まれています (wārudo foruda ni shinborikku rinku ga fukumarete imasu)

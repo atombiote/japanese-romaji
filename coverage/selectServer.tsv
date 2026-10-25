@@ -1,0 +1,12 @@
+Translation key	English	Japanese with romaji
+selectServer.add	Add Server	サーバーを追加 (sābā o tsuika)
+selectServer.defaultName	Minecraft Server	Minecraftサーバー (minecraft sābā)
+selectServer.delete	Delete	削除 (sakujo)
+selectServer.deleteButton	Delete	削除 (sakujo)
+selectServer.deleteQuestion	Are you sure you want to remove this server?	このサーバーを削除しますか (kono sābā o sakujo shimasu ka)？
+selectServer.deleteWarning	'%s' will be lost forever! (A long time!)	「%s」は完全に削除され、二度と元に戻せません (wa kanzenni sakujo sare, ni do to moto ni modosemasen)！
+selectServer.direct	Direct Connection	ダイレクト接続 (dairekuto setsuzoku)
+selectServer.edit	Edit	編集 (henshū)
+selectServer.hiddenAddress	(Hidden)	（非表示 (hihyōji)）
+selectServer.refresh	Refresh	更新 (kōshin)
+selectServer.select	Join Server	サーバーに接続 (sābā ni setsuzoku)

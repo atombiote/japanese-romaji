@@ -1,0 +1,77 @@
+Translation key	English	Japanese with romaji
+multiplayer.applyingPack	Applying resource pack	リソースパックを適用中 (risōsu pakku o tekiyōchū)
+multiplayer.disconnect.authservers_down	Authentication servers are down. Please try again later, sorry!	認証サーバーがダウンしています。後でもう一度お試しください (ninshō sābā ga daun shite imasu. ato de mou ichido o tameshi kudasai)。
+multiplayer.disconnect.banned	You are banned from this server	このサーバーへのアクセスは禁止されています (kono sābā e no akusesu wa kinshi sarete imasu)
+multiplayer.disconnect.banned_ip.expiration	\nYour ban will be removed on %s	\nアクセスの禁止は (akusesu no kinshi wa)%sに解除されます (ni kaijo saremasu)
+multiplayer.disconnect.banned_ip.reason	Your IP address is banned from this server.\nReason: %s	あなたのIPアドレスはこのサーバーからアクセスを禁止されています (anata no aipīadoresu wa kono sābā kara akusesu o kinshi sarete imasu)。\n理由 (riyū)：%s
+multiplayer.disconnect.banned.expiration	\nYour ban will be removed on %s	\nアクセスの禁止は (akusesu no kinshi wa)%sに解除されます (ni kaijo saremasu)
+multiplayer.disconnect.banned.reason	You are banned from this server.\nReason: %s	このサーバーへのアクセスは禁止されています (kono sābā e no akusesu wa kinshi sarete imasu)。\n理由 (riyū)：%s
+multiplayer.disconnect.chat_validation_failed	Chat message validation failure	チャットメッセージの検証に失敗しました (chatto messēji no kenshō ni shippai shimashita)
+multiplayer.disconnect.duplicate_login	You logged in from another location	あなたは別の場所で既にログインしています (anata wa betsu no basho de sudeni roguin shite imasu)
+multiplayer.disconnect.expired_public_key	Expired profile public key. Check that your system time is synchronized, and try restarting your game.	プロフィール公開鍵が失効しています。システム時刻が同期していることを確認し、ゲームを再起動してみてください (purofīru kōkaikagi ga shikkō shite imasu. shisutemu jikoku ga dōki shite iru koto o kakunin shi, gēmu o saikidō shite mite kudasai)。
+multiplayer.disconnect.flying	Flying is not enabled on this server	このサーバーでは飛行は有効ではありません (kono sābā de wa hikō wa yūkōde wa arimasen)
+multiplayer.disconnect.generic	Disconnected	切断されました (setsudan saremashita)
+multiplayer.disconnect.idling	You have been idle for too long!	無操作時間が長すぎました (mu sōsa jikan ga naga sugimashita)
+multiplayer.disconnect.illegal_characters	Illegal characters in chat	チャットに使用できない文字がありました (chatto ni shiyō dekinai moji ga arimashita)
+multiplayer.disconnect.incompatible	Incompatible client! Please use %s	クライアントのバージョンが対応していません (kuraianto no bājon ga taiō shite imasen)。%sを使用してください (o shiyō shite kudasai)
+multiplayer.disconnect.invalid_entity_attacked	Attempting to attack an invalid entity	無効なエンティティを攻撃しようとしました (mukōna entiti o kōgeki shiyou to shimashita)
+multiplayer.disconnect.invalid_packet	Server sent an invalid packet	サーバーが無効なパケットを送信しました (sābā ga mukōna paketto o sōshin shimashita)
+multiplayer.disconnect.invalid_player_data	Invalid player data	無効なプレイヤーデータです (mukōna pureiyā dētadesu)
+multiplayer.disconnect.invalid_player_movement	Invalid move player packet received	プレイヤーの不正な動きを検知しました (pureiyā no fuseina ugoki o kenchi shimashita)
+multiplayer.disconnect.invalid_public_key_signature	Invalid signature for profile public key.\nTry restarting your game.	無効なプロフィール公開鍵の署名です (mukōna purofīru kōkaikagi no shomeidesu)。\nゲームを再起動してください (gēmu o saikidō shite kudasai)。
+multiplayer.disconnect.invalid_public_key_signature.new	Invalid signature for profile public key.\nTry restarting your game.	無効なプロフィール公開鍵の署名です (mukōna purofīru kōkaikagi no shomeidesu)。\nゲームを再起動してください (gēmu o saikidō shite kudasai)。
+multiplayer.disconnect.invalid_vehicle_movement	Invalid move vehicle packet received	乗り物の不正な動きを検知しました (norimono no fuseina ugoki o kenchi shimashita)
+multiplayer.disconnect.ip_banned	You have been IP banned from this server	あなたのIPアドレスはこのサーバーへのアクセスを禁止されています (anata no aipīadoresu wa kono sābā e no akusesu o kinshi sarete imasu)
+multiplayer.disconnect.kicked	Kicked by an operator	管理者に退出させられました (kanrisha ni taishutsu saseraremashita)
+multiplayer.disconnect.missing_tags	Incomplete set of tags received from server.\nPlease contact server operator.	サーバーから不完全なタグのセットが受信されました (sābā kara fukanzenna tagu no setto ga jushin saremashita)。\nサーバーの管理者にお問い合わせください (sābā no kanrisha ni o toiawase kudasai)。
+multiplayer.disconnect.name_taken	That name is already taken	その名前は既に使用されています (sono namae wa sudeni shiyō sarete imasu)
+multiplayer.disconnect.not_whitelisted	You are not white-listed on this server!	あなたはこのサーバーのホワイトリストに含まれていません (anata wa kono sābā no howaito risuto ni fukumarete imasen)
+multiplayer.disconnect.out_of_order_chat	Out-of-order chat packet received. Did your system time change?	順序の不正なチャットパケットを受信しました。システム時刻を変更していませんか (junjo no fuseina chatto paketto o jushin shimashita. shisutemu jikoku o henkō shite imasen ka)？
+multiplayer.disconnect.outdated_client	Incompatible client! Please use %s	クライアントのバージョンが対応していません (kuraianto no bājon ga taiō shite imasen)。%sを使用してください (o shiyō shite kudasai)
+multiplayer.disconnect.outdated_server	Incompatible client! Please use %s	クライアントのバージョンが対応していません (kuraianto no bājon ga taiō shite imasen)。%sを使用してください (o shiyō shite kudasai)
+multiplayer.disconnect.server_full	The server is full!	サーバーは満員です (sābā wa man'indesu)
+multiplayer.disconnect.server_shutdown	Server closed	サーバーが閉鎖されました (sābā ga heisa saremashita)
+multiplayer.disconnect.slow_login	Took too long to log in	ログインにかかる時間が長すぎました (roguin ni kakaru jikan ga naga sugimashita)
+multiplayer.disconnect.too_many_pending_chats	Too many unacknowledged chat messages	未承認のチャットメッセージが多すぎます (mishōnin no chatto messēji ga ō sugimasu)
+multiplayer.disconnect.transfers_disabled	Server does not accept transfers	サーバーが転送を受け付けていません (sābā ga tensō o uketsukete imasen)
+multiplayer.disconnect.unexpected_query_response	Unexpected custom data from client	クライアントからの予期しないカスタムデータ (kuraianto kara no yoki shinai kasutamu dēta)
+multiplayer.disconnect.unsigned_chat	Received chat packet with missing or invalid signature.	受信したチャットパケットの署名が存在しないか、無効になっています (jushin shita chatto paketto no shomei ga sonzai shinai ka, mukōni natte imasu)
+multiplayer.disconnect.unverified_username	Failed to verify username!	ユーザー名の検証に失敗しました (yūzāmei no kenshō ni shippai shimashita)
+multiplayer.downloadingStats	Retrieving statistics...	統計情報を取得中 (tōkeijōhō o shutokuchū)…
+multiplayer.downloadingTerrain	Loading terrain...	地形情報を読み込み中 (chikei jōhō o yomikomichū)…
+multiplayer.lan.server_found	New server found: %s	新しいサーバーが見つかりました (atarashii sābā ga mitsukarimashita)：%s
+multiplayer.message_not_delivered	Can't deliver chat message, check server logs: %s	チャットメッセージを配信できません。サーバーのログを確認してください (chatto messēji o haishin dekimasen. sābā no rogu o kakunin shite kudasai)：%s
+multiplayer.player.joined	%s joined the game	%sがゲームに参加しました (ga gēmu ni sanka shimashita)
+multiplayer.player.joined.renamed	%s (formerly known as %s) joined the game	%s（旧名 (kyūmei)%s）がゲームに参加しました (ga gēmu ni sanka shimashita)
+multiplayer.player.left	%s left the game	%sがゲームを退出しました (ga gēmu o taishutsu shimashita)
+multiplayer.player.list.narration	Online players: %s	現在オンラインのプレイヤーは (genzai onrain no pureiyā wa)%sです (desu)
+multiplayer.requiredTexturePrompt.disconnect	Server requires a custom resource pack	このサーバーではカスタムリソースパックが必要です (kono sābā de wa kasutamu risōsu pakku ga hitsuyōdesu)
+multiplayer.requiredTexturePrompt.line1	This server requires the use of a custom resource pack.	このサーバーでは、カスタムリソースパックの利用が必要です (kono sābā de wa, kasutamu risōsu pakku no riyō ga hitsuyōdesu)。
+multiplayer.requiredTexturePrompt.line2	Rejecting this custom resource pack will disconnect you from this server.	このカスタムリソースパックを拒否すると、このサーバーから切断されます (kono kasutamu risōsu pakku o kyohi suru to, kono sābā kara setsudan saremasu)。
+multiplayer.socialInteractions.not_available	Social Interactions are only available in Multiplayer worlds	社交設定はマルチプレイでのみ利用できます (shakō settei wa maruchi purei de nomi riyō dekimasu)
+multiplayer.status.and_more	... and %s more ...	…その他 (sono ta)%s人 (hito)…
+multiplayer.status.cancelled	Cancelled	キャンセルしました (kyanseru shimashita)
+multiplayer.status.cannot_connect	Can't connect to server	サーバーに接続できません (sābā ni setsuzoku dekimasen)
+multiplayer.status.cannot_resolve	Can't resolve hostname	ホスト名が見つかりません (hosuto mei ga mitsukarimasen)
+multiplayer.status.finished	Finished	完了しました (kanryō shimashita)
+multiplayer.status.incompatible	Incompatible version!	バージョンが対応していません (bājon ga taiō shite imasen)！
+multiplayer.status.motd.narration	Message of the day: %s	本日のメッセージは (honjitsu no messēji wa)「%s」です (desu)
+multiplayer.status.no_connection	(no connection)	（接続なし (setsuzoku nashi)）
+multiplayer.status.old	Old	古いです (furuidesu)
+multiplayer.status.online	Online	オンライン (onrain)
+multiplayer.status.ping.narration	Ping %s milliseconds	Ping応答時間は (ping ōtō jikan wa)%sミリ秒です (miri byōdesu)
+multiplayer.status.pinging	Pinging...	応答待機中 (ōtō taikichū)…
+multiplayer.status.player_count.narration	%s out of %s players online	%2$s人のうち (hito no uchi)%1$s人のプレイヤーがオンラインです (hito no pureiyā ga onraindesu)
+multiplayer.status.quitting	Quitting	終了中 (shūryōchū)
+multiplayer.status.request_handled	Status request has been handled	ステータスのリクエストが処理されました (sutētasu no rikuesuto ga shori saremashita)
+multiplayer.status.unrequested	Received unrequested status	リクエストされていないステータスを受信しました (rikuesuto sarete inai sutētasu o jushin shimashita)
+multiplayer.status.version.narration	Server version: %s	サーバーのバージョンは (sābā no bājon wa)%sです (desu)
+multiplayer.stopSleeping	Leave Bed	ベッドから出る (beddo kara deru)
+multiplayer.texturePrompt.failure.line1	Server resource pack couldn't be applied	サーバーリソースパックを適用できませんでした (sābā risōsu pakku o tekiyō dekimasendeshita)
+multiplayer.texturePrompt.failure.line2	Any functionality that requires custom resources might not work as expected	カスタムリソースパックが必要になる機能は、正常に機能しない可能性があります (kasutamu risōsu pakku ga hitsuyōni naru kinō wa, seijōni kinō shinai kanōsei ga arimasu)
+multiplayer.texturePrompt.line1	This server recommends the use of a custom resource pack.	このサーバーでは、カスタムリソースパックの利用をお勧めします (kono sābā de wa, kasutamu risōsu pakku no riyō o o susume shimasu)。
+multiplayer.texturePrompt.line2	Would you like to download and install it automagically?	自動的にダウンロードしてインストールしますか (jidōtekini daunrōdo shite insutōru shimasu ka)？
+multiplayer.texturePrompt.serverPrompt	%s\n\nMessage from server:\n%s	%s\n\nサーバーからのメッセージ (sābā kara no messēji)：\n%s
+multiplayer.title	Play Multiplayer	マルチプレイで遊ぶ (maruchi purei de asobu)
+multiplayer.unsecureserver.toast	Messages sent on this server may be modified and might not reflect the original message	このサーバーで送信されたメッセージは変更される場合があり、元のメッセージを反映していない可能性があります (kono sābā de sōshin sareta messēji wa henkō sareru bāi ga ari, moto no messēji o han'ei shite inai kanōsei ga arimasu)。
+multiplayer.unsecureserver.toast.title	Chat messages can't be verified	チャットメッセージの安全性の確認ができません (chatto messēji no anzensei no kakunin ga dekimasen)

@@ -1,0 +1,11 @@
+Translation key	English	Japanese with romaji
+stat_type.minecraft.broken	Times Broken	破壊した回数 (hakai shita kaisū)
+stat_type.minecraft.crafted	Times Crafted	クラフトした回数 (kurafuto shita kaisū)
+stat_type.minecraft.dropped	Dropped	捨てた回数 (suteta kaisū)
+stat_type.minecraft.killed	You killed %s %s	%2$sを (o)%1$s体倒しました (karada taoshimashita)
+stat_type.minecraft.killed_by	%s killed you %s time(s)	%sに (ni)%s回倒されました (kai taosaremashita)
+stat_type.minecraft.killed_by.none	You have never been killed by %s	まだ (mada)%sに倒されたことがありません (ni taosareta koto ga arimasen)
+stat_type.minecraft.killed.none	You have never killed %s	まだ (mada)%sを倒したことがありません (o taoshita koto ga arimasen)
+stat_type.minecraft.mined	Times Mined	採取した回数 (saishu shita kaisū)
+stat_type.minecraft.picked_up	Picked Up	拾った回数 (hirotta kaisū)
+stat_type.minecraft.used	Times Used	使用した回数 (shiyō shita kaisū)

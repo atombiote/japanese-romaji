@@ -1,0 +1,15 @@
+Translation key	English	Japanese with romaji
+disconnect.endOfStream	End of stream	接続が終了されました (setsuzoku ga shūryō saremashita)
+disconnect.exceeded_packet_rate	Kicked for exceeding packet rate limit	パケット量が規定値を超えたため退出させられました (paketto ryō ga kiteichi o koeta tame taishutsu saseraremashita)
+disconnect.ignoring_status_request	Ignoring status request	ステータスのリクエストの無視 (sutētasu no rikuesuto no mushi)
+disconnect.loginFailedInfo	Failed to log in: %s	ログインに失敗しました (roguin ni shippai shimashita)：%s
+disconnect.loginFailedInfo.insufficientPrivileges	Multiplayer is disabled. Please check your Microsoft account settings.	マルチプレイが無効になっています。Microsoftアカウントの設定をご確認ください (maruchi purei ga mukōni natte imasu. microsoft akaunto no settei o go kakunin kudasai)。
+disconnect.loginFailedInfo.invalidSession	Invalid session (Try restarting your game and the launcher)	無効なセッションです (mukōna sesshondesu)（ゲームとランチャーを再起動してください (gēmu to ranchā o saikidō shite kudasai)）
+disconnect.loginFailedInfo.serversUnavailable	The authentication servers are currently not reachable. Please try again.	認証サーバーに接続できませんでした。もう一度お試しください (ninshō sābā ni setsuzoku dekimasendeshita. mou ichido o tameshi kudasai)。
+disconnect.loginFailedInfo.userBanned	You are banned from playing online	オンラインプレイが禁止されています (onrain purei ga kinshi sarete imasu)
+disconnect.lost	Connection Lost	接続を維持できません (setsuzoku o iji dekimasen)
+disconnect.packetError	Network Protocol Error	ネットワークプロトコルのエラーが発生しました (nettowāku purotokoru no erā ga hassei shimashita)
+disconnect.spam	Kicked for spamming	スパム行為のために退出させられました (supamu kōi no tame ni taishutsu saseraremashita)
+disconnect.timeout	Timed out	タイムアウトしました (taimuauto shimashita)
+disconnect.transfer	Transferred to another server	別のサーバーに転送しました (betsu no sābā ni tensō shimashita)
+disconnect.unknownHost	Unknown host	不明なホストです (fumeina hosutodesu)

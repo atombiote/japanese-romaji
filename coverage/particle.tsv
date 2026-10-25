@@ -1,0 +1,3 @@
+Translation key	English	Japanese with romaji
+particle.invalidOptions	Can't parse particle options: %s	パーティクルの設定を解析出来ません (pātikuru no settei o kaiseki dekimasen)：%s
+particle.notFound	Unknown particle: %s	不明なパーティクルです (fumeina pātikurudesu)：%s

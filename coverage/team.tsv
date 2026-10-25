@@ -1,0 +1,10 @@
+Translation key	English	Japanese with romaji
+team.collision.always	Always	常に有効 (tsune ni yūkō)
+team.collision.never	Never	常に無効 (tsune ni mukō)
+team.collision.pushOtherTeams	Push other teams	他チームに有効 (ta chīmu ni yūkō)
+team.collision.pushOwnTeam	Push own team	自チームに有効 (ji chīmu ni yūkō)
+team.notFound	Unknown team '%s'	「%s」は不明なチームです (wa fumeina chīmudesu)
+team.visibility.always	Always	常に表示 (tsune ni hyōji)
+team.visibility.hideForOtherTeams	Hide for other teams	他チームに非表示 (ta chīmu ni hihyōji)
+team.visibility.hideForOwnTeam	Hide for own team	自チームに非表示 (ji chīmu ni hihyōji)
+team.visibility.never	Never	常に非表示 (tsune ni hihyōji)

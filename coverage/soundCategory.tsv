@@ -1,0 +1,10 @@
+Translation key	English	Japanese with romaji
+soundCategory.ambient	Ambient/Environment	環境音 (kankyō on)
+soundCategory.block	Blocks	ブロック (burokku)
+soundCategory.hostile	Hostile Creatures	敵対的Mob (tekitaiteki mob)
+soundCategory.master	Master Volume	主音量 (shuon ryō)
+soundCategory.neutral	Friendly Creatures	友好的Mob (yūkōteki mob)
+soundCategory.player	Players	プレイヤー (pureiyā)
+soundCategory.record	Jukebox/Note Blocks	ジュークボックス／音符ブロック (jūku bokkusu ／ onpu burokku)
+soundCategory.voice	Voice/Speech	音声読み上げ／声 (onsei yomiage ／ koe)
+soundCategory.weather	Weather	天候 (tenkō)

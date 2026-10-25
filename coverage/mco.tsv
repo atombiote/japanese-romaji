@@ -1,0 +1,322 @@
+Translation key	English	Japanese with romaji
+mco.account.privacy.info	Read more about Mojang and privacy laws	Mojangと個人情報保護法について (mojang to kojinjōhōhogohō ni tsuite)
+mco.account.privacy.info.button	Read more about GDPR	一般データ保護規則について (ippan dēta hogo kisoku ni tsuite)
+mco.account.privacy.information	Mojang implements certain procedures to help protect children and their privacy including complying with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).\n\nYou may need to obtain parental consent before accessing your Realms account.	Mojangは児童オンライン保護法 (mojang wa jidō onrain hogo hō)（COPPA）と一般データ保護規則 (to ippan dēta hogo kisoku)（GDPR）に基づく、こどもとそのプライバシーを保護するための手続きを履行しています (ni motozuku, kodomo to sono puraibashī o hogo suru tame no tetsuzuki o rikō shite imasu)。\n\nRealmsアカウントにアクセスするには保護者の同意が必要となる場合があります (realms akaunto ni akusesu suru ni wa hogosha no dōi ga hitsuyō to naru bāi ga arimasu)。
+mco.account.privacyinfo	Mojang implements certain procedures to help protect children and their privacy including complying with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).\n\nYou may need to obtain parental consent before accessing your Realms account.\n\nIf you have an older Minecraft account (you log in with your username), you need to migrate the account to a Mojang account in order to access Realms.	Mojangは児童オンライン保護法 (mojang wa jidō onrain hogo hō)（COPPA）と一般データ保護規則 (to ippan dēta hogo kisoku)（GDPR）に基づく、こどもとそのプライバシーを保護するための手続きを履行しています (ni motozuku, kodomo to sono puraibashī o hogo suru tame no tetsuzuki o rikō shite imasu)。\n\nRealmsアカウントにアクセスするには保護者の同意が必要となる場合があります (realms akaunto ni akusesu suru ni wa hogosha no dōi ga hitsuyō to naru bāi ga arimasu)。\n\n古いMinecraftアカウント (furui minecraft akaunto)（ユーザー名でログインする形式 (yūzāmei de roguin suru keishiki)）を所有している場合、RealmsにアクセスするにはMojangアカウントに移行する必要があります (o shoyū shite iru bāi, realms ni akusesu suru ni wa mojang akaunto ni ikō suru hitsuyō ga arimasu)。
+mco.account.update	Update account	アカウントの更新 (akaunto no kōshin)
+mco.activity.noactivity	No activity for the past %s day(s)	過去 (kako)%s日間のアクティビティはありません (kakan no akutibiti wa arimasen)
+mco.activity.title	Player activity	プレイヤーのアクティビティ (pureiyā no akutibiti)
+mco.backup.button.download	Download Latest	最新版をダウンロード (saishin ban o daunrōdo)
+mco.backup.button.reset	Reset World	ワールドのリセット (wārudo no risetto)
+mco.backup.button.restore	Restore	復元 (fukugen)
+mco.backup.button.upload	Upload World	ワールドをアップロード (wārudo o appurōdo)
+mco.backup.changes.tooltip	Changes	変更点 (henkōten)
+mco.backup.entry	Backup (%s)	バックアップ (bakkuappu)（%s）
+mco.backup.entry.description	Description	説明 (setsumei)
+mco.backup.entry.enabledPack	Enabled Pack(s)	有効化されたパック (yūkōka sareta pakku)
+mco.backup.entry.gameDifficulty	Game Difficulty	ゲームの難易度 (gēmu no nan'ido)
+mco.backup.entry.gameMode	Game Mode	ゲームモード (gēmu mōdo)
+mco.backup.entry.gameServerVersion	Game Server Version	サーバーのバージョン (sābā no bājon)
+mco.backup.entry.name	Name	名前 (namae)
+mco.backup.entry.seed	Seed	シード値 (shīdochi)
+mco.backup.entry.templateName	Template Name	テンプレート名 (tenpurēto mei)
+mco.backup.entry.undefined	Undefined Change	定義されていない変更 (teigi sarete inai henkō)
+mco.backup.entry.uploaded	Uploaded	アップロード済み (appurōdozumi)
+mco.backup.entry.worldType	World Type	ワールドタイプ (wārudo taipu)
+mco.backup.generate.world	Generate world	ワールドを生成 (wārudo o seisei)
+mco.backup.info.title	Changes From Last Backup	最後のバックアップからの変更 (saigo no bakkuappu kara no henkō)
+mco.backup.narration	Backup from %s	%sからのバックアップ (kara no bakkuappu)
+mco.backup.nobackups	This realm doesn't have any backups currently.	このRealmには現在バックアップはありません (kono realm ni wa genzai bakkuappu wa arimasen)。
+mco.backup.restoring	Restoring your realm	Realmを復元しています (realm o fukugen shite imasu)
+mco.backup.unknown	UNKNOWN	不明 (fumei)
+mco.brokenworld.download	Download	ダウンロード (daunrōdo)
+mco.brokenworld.downloaded	Downloaded	ダウンロード済み (daunrōdozumi)
+mco.brokenworld.message.line1	Please reset or select another world.	リセットするか、別のワールドを選択してください (risetto suru ka, betsu no wārudo o sentaku shite kudasai)。
+mco.brokenworld.message.line2	You can also choose to download the world to singleplayer.	シングルプレイ用のワールドをダウンロードできます (shinguru pureiyō no wārudo o daunrōdo dekimasu)。
+mco.brokenworld.minigame.title	This minigame is no longer supported	このミニゲームは現在サポートされていません (kono minigēmu wa genzai sapōto sarete imasen)
+mco.brokenworld.nonowner.error	Please wait for the realm owner to reset the world	Realmの所有者がワールドをリセットするまでお待ちください (realm no shoyūsha ga wārudo o risetto suru made o machi kudasai)
+mco.brokenworld.nonowner.title	World is out of date	ワールドの有効期限が切れています (wārudo no yūkōkigen ga kirete imasu)
+mco.brokenworld.play	Play	プレイ (purei)
+mco.brokenworld.reset	Reset	リセット (risetto)
+mco.brokenworld.title	Your current world is no longer supported	現在のワールドはサポートされてないためプレイできません (genzai no wārudo wa sapōto saretenai tame purei dekimasen)。
+mco.client.incompatible.msg.line1	Your client is not compatible with Realms.	現在のクライアントはRealmsと互換性がありません (genzai no kuraianto wa realms to gokansei ga arimasen)。
+mco.client.incompatible.msg.line2	Please use the most recent version of Minecraft.	最新バージョンのMinecraftを使用してください (saishin bājon no minecraft o shiyō shite kudasai)。
+mco.client.incompatible.msg.line3	Realms is not compatible with snapshot versions.	Realmsはスナップショットのバージョンと互換性がありません (realms wa sunappushotto no bājon to gokansei ga arimasen)。
+mco.client.incompatible.title	Client incompatible!	クライアントに互換性がありません (kuraianto ni gokansei ga arimasen)！
+mco.client.outdated.stable.version	Your client version (%s) is not compatible with Realms.\n\nPlease use the most recent version of Minecraft.	お使いのクライアントバージョン (o tsukai no kuraianto bājon)%sはRealmsと互換性がありません (wa realms to gokansei ga arimasen)。\n\n最新版のMinecraftをご利用ください (saishin ban no minecraft o goriyō kudasai)。
+mco.client.unsupported.snapshot.version	Your client version (%s) is not compatible with Realms.\n\nRealms is not available for this snapshot version.	お使いのクライアントバージョン (o tsukai no kuraianto bājon)%sはRealmsと互換性がありません (wa realms to gokansei ga arimasen)。\n\nRealmsはこのスナップショットではご利用いただけません (realms wa kono sunappushotto de wa goriyō itadakemasen)。
+mco.compatibility.downgrade	Downgrade	ダウングレード (daun gurēdo)
+mco.compatibility.downgrade.description	This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work.\n\nA backup of your world will be saved under "World Backups". Please restore your world if needed.	このワールドを最後にプレイしたバージョンは (kono wārudo o saigo ni purei shita bājon wa)%sです。現在のバージョンは (desu. genzai no bājon wa)%sのためダウングレードする必要があります。ダウングレードするとワールドの破損や正常な読み込みがされない恐れがあり、動作の保証ができません (no tame daun gurēdo suru hitsuyō ga arimasu. daun gurēdo suru to wārudo no hason ya seijōna yomikomi ga sarenai osore ga ari, dōsa no hoshō ga dekimasen)。\n\nダウングレードの際には (daun gurēdo no sai ni wa)「ワールドのバックアップ (wārudo no bakkuappu)」にワールドのバックアップが作成されます。必要な場合はバックアップを使ってワールドを復元してください (ni wārudo no bakkuappu ga sakusei saremasu. hitsuyōna bāi wa bakkuappu o tsukatte wārudo o fukugen shite kudasai)。
+mco.compatibility.incompatible.popup.title	Incompatible version	互換性のないバージョンです (gokansei no nai bājondesu)
+mco.compatibility.incompatible.releaseType.popup.message	The world you are trying to join is incompatible with the version you are on.	参加しようとしているワールドは現在お使いのバージョンと互換性がありません (sanka shiyou to shite iru wārudo wa genzai o tsukai no bājon to gokansei ga arimasen)。
+mco.compatibility.incompatible.series.popup.message	This world was last played in version %s; you are on version %s.\n\nThese series are not compatible with each other. A new world is needed to play on this version.	現在のバージョンは (genzai no bājon wa)%2$sですが、このワールドを最後にプレイしたバージョンは (desu ga, kono wārudo o saigo ni purei shita bājon wa)%1$sです (desu)。\n\nこれらのシリーズには互換性がありません。このバージョンでプレイするには新しいワールドが必要です (korera no shirīzu ni wa gokansei ga arimasen. kono bājon de purei suru ni wa atarashii wārudo ga hitsuyōdesu)。
+mco.compatibility.unverifiable.message	The version this world was last played in could not be verified. If the world gets upgraded or downgraded, a backup will be automatically created and saved under "World Backups".	このワールドを最後にプレイしたバージョンが確認できません。ワールドがアップグレード・ダウングレートされた場合はバックアップが (kono wārudo o saigo ni purei shita bājon ga kakunin dekimasen. wārudo ga appugurēdo daungurēto sareta bāi wa bakkuappu ga)「ワールドのバックアップ (wārudo no bakkuappu)」に自動的に作成されます (ni jidōtekini sakusei saremasu)。
+mco.compatibility.unverifiable.title	Compatibility not verifiable	互換性を確認できません (gokansei o kakunin dekimasen)
+mco.compatibility.upgrade	Upgrade	アップグレード (appugurēdo)
+mco.compatibility.upgrade.description	This world was last played in version %s; you are on version %s.\n\nA backup of your world will be saved under "World Backups".\n\nPlease restore your world if needed.	現在のバージョンは (genzai no bājon wa)%2$sですが、このワールドを最後にプレイしたバージョンは (desu ga, kono wārudo o saigo ni purei shita bājon wa)%1$sです (desu)。\n\n「ワールドのバックアップ (wārudo no bakkuappu)」にワールドのバックアップが作成されています (ni wārudo no bakkuappu ga sakusei sarete imasu)。\n\n必要であればワールドを復元してください (hitsuyōde are ba wārudo o fukugen shite kudasai)。
+mco.compatibility.upgrade.friend.description	This world was last played in version %s; you are on version %s.\n\nA backup of the world will be saved under "World Backups".\n\nThe owner of the Realm can restore the world if needed.	現在のバージョンは (genzai no bājon wa)%2$sですが、このワールドを最後にプレイしたバージョンは (desu ga, kono wārudo o saigo ni purei shita bājon wa)%1$sです (desu)。\n\n「ワールドのバックアップ (wārudo no bakkuappu)」にワールドのバックアップが作成されています (ni wārudo no bakkuappu ga sakusei sarete imasu)。\n\nRealmの所有者は必要であればワールドを復元することができます (realm no shoyūsha wa hitsuyōde are ba wārudo o fukugen suru koto ga dekimasu)。
+mco.compatibility.upgrade.title	Do you really want to upgrade this world?	このワールドをアップグレードしますか (kono wārudo o appugurēdo shimasu ka)？
+mco.configure.current.minigame	Current	現在の設定 (genzai no settei)
+mco.configure.world.activityfeed.disabled	Player feed temporarily disabled	プレイヤーのフィードは一時的に無効化されています (pureiyā no fīdo wa ichijitekini mukōka sarete imasu)
+mco.configure.world.backup	World Backups	ワールドのバックアップ (wārudo no bakkuappu)
+mco.configure.world.buttons.activity	Player activity	プレイヤーのアクティビティ (pureiyā no akutibiti)
+mco.configure.world.buttons.close	Close Realm	Realmを一時的に閉じる (realm o ichijitekini tojiru)
+mco.configure.world.buttons.delete	Delete	削除 (sakujo)
+mco.configure.world.buttons.done	Done	完了 (kanryō)
+mco.configure.world.buttons.edit	Settings	設定 (settei)
+mco.configure.world.buttons.invite	Invite Player	招待 (shōtai)
+mco.configure.world.buttons.moreoptions	More options	その他の設定 (sono ta no settei)
+mco.configure.world.buttons.open	Open Realm	Realmを再開する (realm o saikai suru)
+mco.configure.world.buttons.options	World Options	ワールドの設定 (wārudo no settei)
+mco.configure.world.buttons.players	Players	プレイヤー (pureiyā)
+mco.configure.world.buttons.resetworld	Reset World	ワールドのリセット (wārudo no risetto)
+mco.configure.world.buttons.settings	Settings	設定 (settei)
+mco.configure.world.buttons.subscription	Subscription	申請 (shinsei)
+mco.configure.world.buttons.switchminigame	Switch Minigame	ミニゲームを変更 (minigēmu o henkō)
+mco.configure.world.close.question.line1	Your realm will become unavailable.	調整のためRealmを一時的に閉じ、プレイを不可能にすることができます。準備が完了したら、再度開いてください (chōsei no tame realm o ichijitekini toji, purei o fukanōni suru koto ga dekimasu. junbi ga kanryō shitara, saido hiraite kudasai)。\n\nRealmの契約がキャンセルされることはありません (realm no keiyaku ga kyanseru sareru koto wa arimasen)。
+mco.configure.world.close.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.configure.world.closing	Closing the realm...	Realmを一時的に閉じています (realm o ichijitekini tojite imasu)…
+mco.configure.world.commandBlocks	Command Blocks	コマンドブロック (komando burokku)
+mco.configure.world.delete.button	Delete Realm	Realmを削除 (realm o sakujo)
+mco.configure.world.delete.question.line1	Your realm will be permanently deleted	あなたのRealmは永久に削除されます (anata no realm wa eikyū ni sakujo saremasu)
+mco.configure.world.delete.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.configure.world.description	Realm Description	Realmの説明 (realm no setsumei)
+mco.configure.world.edit.slot.name	World Name	ワールド名 (wārudo mei)
+mco.configure.world.edit.subscreen.adventuremap	Some settings are disabled since your current world is an adventure	このワールドはアドベンチャーであるため、いくつかの設定は無効化されています (kono wārudo wa adobenchāde aru tame, ikutsu ka no settei wa mukōka sarete imasu)
+mco.configure.world.edit.subscreen.experience	Some settings are disabled since your current world is an experience	このワールドはエクスペリエンスであるため、いくつかの設定は無効化されています (kono wārudo wa ekusuperiensude aru tame, ikutsu ka no settei wa mukōka sarete imasu)
+mco.configure.world.edit.subscreen.inspiration	Some settings are disabled since your current world is an inspiration	このワールドはインスピレーションであるため、いくつかの設定は無効化されています (kono wārudo wa insupirēshonde aru tame, ikutsu ka no settei wa mukōka sarete imasu)
+mco.configure.world.forceGameMode	Force Game Mode	ゲームモードの強制 (gēmu mōdo no kyōsei)
+mco.configure.world.invite.narration	You have %s new invite(s)	新しい招待が (atarashii shōtai ga)%s件あります (ken arimasu)
+mco.configure.world.invite.profile.name	Name	名前 (namae)
+mco.configure.world.invited	Invited	招待済み (shōtaizumi)
+mco.configure.world.invited.number	Invited (%s)	招待済み (shōtaizumi)（%s）
+mco.configure.world.invites.normal.tooltip	Normal User	通常ユーザー (tsūjō yūzā)
+mco.configure.world.invites.ops.tooltip	Operator	管理者 (kanrisha)
+mco.configure.world.invites.remove.tooltip	Remove	削除 (sakujo)
+mco.configure.world.leave.question.line1	If you leave this realm you won't see it unless you are invited again	この Realm から退出した場合、再び招待されるまで入ることはできません (kono realm kara taishutsu shita bāi, futatabi shōtai sareru made hairu koto wa dekimasen)
+mco.configure.world.leave.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.configure.world.location	Location	場所 (basho)
+mco.configure.world.minigame	Current: %s	現在 (genzai)：%s
+mco.configure.world.name	Realm Name	Realmの名前 (realm no namae)
+mco.configure.world.opening	Opening the realm...	Realmを開いています (realm o hiraite imasu)...
+mco.configure.world.players.error	A player with the provided name does not exist	指定された名前のプレイヤーは存在しません (shitei sareta namae no pureiyā wa sonzai shimasen)
+mco.configure.world.players.inviting	Inviting player...	プレイヤーを招待中 (pureiyā o shōtaichū)...
+mco.configure.world.players.title	Players	プレイヤー (pureiyā)
+mco.configure.world.reset.question.line1	Your world will be regenerated and your current world will be lost	ワールドが再生成され、このワールドは失われます (wārudo ga sai seisei sare, kono wārudo wa ushinawaremasu)
+mco.configure.world.reset.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.configure.world.resourcepack.question	You need a custom resource pack to play on this realm\n\nDo you want to download it and play?	このRealmにはカスタムリソースパックが必要です (kono realm ni wa kasutamu risōsu pakku ga hitsuyōdesu)。\n\n自動的にダウンロードし、インストールしますか (jidōtekini daunrōdo shi, insutōru shimasu ka)？
+mco.configure.world.resourcepack.question.line1	You need a custom resource pack to play on this realm	このRealmにはカスタムリソースパックが必要です (kono realm ni wa kasutamu risōsu pakku ga hitsuyōdesu)
+mco.configure.world.resourcepack.question.line2	Do you want to download it and play?	自動的にダウンロードし、インストールしますか (jidōtekini daunrōdo shi, insutōru shimasu ka)？
+mco.configure.world.restore.download.question.line1	The world will be downloaded and added to your single player worlds.	ワールドをダウンロードし、シングルプレイに追加します (wārudo o daunrōdo shi, shinguru purei ni tsuika shimasu)
+mco.configure.world.restore.download.question.line2	Do you want to continue?	続行しますか (zokkō shimasu ka)？
+mco.configure.world.restore.question.line1	Your world will be restored to date '%s' (%s)	あなたのワールドは (anata no wārudo wa)「%s」に復元されます (ni fukugen saremasu)（%s）
+mco.configure.world.restore.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.configure.world.settings.title	Settings	設定 (settei)
+mco.configure.world.slot	World %s	ワールド (wārudo)%s
+mco.configure.world.slot.empty	Empty	空 (sora)
+mco.configure.world.slot.switch.question.line1	Your realm will be switched to another world	Realmで使用するワールドを変更します (realm de shiyō suru wārudo o henkō shimasu)
+mco.configure.world.slot.switch.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.configure.world.slot.tooltip	Switch to world	ワールドを変更 (wārudo o henkō)
+mco.configure.world.slot.tooltip.active	Join	参加 (sanka)
+mco.configure.world.slot.tooltip.minigame	Switch to minigame	ミニゲームに変更 (minigēmu ni henkō)
+mco.configure.world.spawn_toggle.message	Turning this option off will remove all existing entities of that type	この設定をオフにすると、ワールドに存在している該当する種類のエンティティが全て消滅します (kono settei o ofu ni suru to, wārudo ni sonzai shite iru gaitō suru shurui no entiti ga subete shōmetsu shimasu)
+mco.configure.world.spawn_toggle.message.npc	Turning this option off will remove all existing entities of that type, like Villagers	この設定をオフにすると、ワールドに存在している該当する種類のエンティティ (kono settei o ofu ni suru to, wārudo ni sonzai shite iru gaitō suru shurui no entiti)（例：村人 (rei: murabito)）が全て消滅します (ga subete shōmetsu shimasu)
+mco.configure.world.spawn_toggle.title	Warning!	警告 (keikoku)！
+mco.configure.world.spawnAnimals	Spawn Animals	動物のスポーン (dōbutsu no supōn)
+mco.configure.world.spawnMonsters	Spawn Monsters	モンスターのスポーン (monsutā no supōn)
+mco.configure.world.spawnNPCs	Spawn NPCs	NPCのスポーン (npc no supōn)
+mco.configure.world.spawnProtection	Spawn Protection	リスポーン地点の保護 (risupōn chiten no hogo)
+mco.configure.world.status	Status	状態 (jōtai)
+mco.configure.world.subscription.day	day	日 (hi)
+mco.configure.world.subscription.days	days	日 (hi)
+mco.configure.world.subscription.expired	Expired	期限切れ (kigengire)
+mco.configure.world.subscription.extend	Extend Subscription	Realmの継続購入 (realm no keizoku kōnyū)
+mco.configure.world.subscription.less_than_a_day	Less than a day	1日以内 (1 nichi inai)
+mco.configure.world.subscription.month	month	か月 (kagetsu)
+mco.configure.world.subscription.months	months	か月 (kagetsu)
+mco.configure.world.subscription.recurring.daysleft	Renewed automatically in	自動更新 (jidōkōshin)
+mco.configure.world.subscription.recurring.info	Changes made to your Realms subscription such as stacking time or turning off recurring billing will not be reflected until your next bill date.	有効期限の延長や定期請求の無効化などのRealmsの申請内容に対する変更は、次回の請求日まで反映されません (yūkōkigen no enchō ya teiki seikyū no mukōka nado no realms no shinseinaiyō ni taisuru henkō wa, jikai no seikyū hi made han'ei saremasen)。
+mco.configure.world.subscription.remaining.days	%1$s day(s)	%1$s日 (hi)
+mco.configure.world.subscription.remaining.months	%1$s month(s)	%1$sヶ月 (kagetsu)
+mco.configure.world.subscription.remaining.months.days	%1$s month(s), %2$s day(s)	%1$sヶ月 (kagetsu)%2$s日 (hi)
+mco.configure.world.subscription.start	Start Date	開始日 (kaishi hi)
+mco.configure.world.subscription.timeleft	Time Left	残り時間 (nokori jikan)
+mco.configure.world.subscription.title	Your Subscription	申請内容 (shinseinaiyō)
+mco.configure.world.subscription.unknown	Unknown	不明 (fumei)
+mco.configure.world.switch.slot	Create World	ワールドの作成 (wārudo no sakusei)
+mco.configure.world.switch.slot.subtitle	This world is empty, choose how to create your world	このワールドは空です、ワールドの作成方法を選択してください (kono wārudo wa soradesu, wārudo no sakusei hōhō o sentaku shite kudasai)。
+mco.configure.world.title	Configure Realm:	Realmの設定 (realm no settei)：
+mco.configure.world.uninvite.player	Are you sure that you want to uninvite '%s'?	「%s」への招待を取り消しますか (e no shōtai o torikeshimasu ka)？
+mco.configure.world.uninvite.question	Are you sure that you want to uninvite	次のプレイヤーの招待を取り消してもよろしいですか (tsugi no pureiyā no shōtai o torikeshite mo yoroshiidesu ka)：
+mco.configure.worlds.title	Worlds	ワールド (wārudo)
+mco.connect.authorizing	Logging in...	ログイン中 (roguinchū)…
+mco.connect.connecting	Connecting to the realm...	Realm に接続中 (realm ni setsuzokuchū)…
+mco.connect.failed	Failed to connect to the realm	Realm への接続に失敗しました (realm e no setsuzoku ni shippai shimashita)
+mco.connect.success	Done	完了 (kanryō)
+mco.create.world	Create	作成 (sakusei)
+mco.create.world.error	You must enter a name!	名前を入力してください (namae o nyūryoku shite kudasai)！
+mco.create.world.reset.title	Creating world...	ワールドを作成中 (wārudo o sakuseichū)…
+mco.create.world.skip	Skip	スキップ (sukippu)
+mco.create.world.subtitle	Optionally, select what world to put on your new realm	これは任意ですが、新しいRealmで使用するワールドを選択することができます (kore wa nin'idesu ga, atarashii realm de shiyō suru wārudo o sentaku suru koto ga dekimasu)
+mco.create.world.wait	Creating the realm...	Realmを作成しています (realm o sakusei shite imasu)...
+mco.download.cancelled	Download cancelled	ダウンロードがキャンセルされました (daunrōdo ga kyanseru saremashita)
+mco.download.confirmation.line1	The world you are going to download is larger than %s	ダウンロードするワールドのサイズが (daunrōdo suru wārudo no saizu ga)%sより大きいです (yori ōkiidesu)
+mco.download.confirmation.line2	You won't be able to upload this world to your realm again	このワールドを Realm に再度アップロードすることはできません (kono wārudo o realm ni saido appurōdo suru koto wa dekimasen)
+mco.download.confirmation.oversized	The world you are going to download is larger than %s\n\nYou won't be able to upload this world to your realm again	ダウンロードしようとしているワールドは (daunrōdo shiyou to shite iru wārudo wa)%sよりも大きいです (yori mo ōkiidesu)。\n\nこのワールドをRealmに再度アップロードできない恐れがあります (kono wārudo o realm ni saido appurōdo dekinai osore ga arimasu)。
+mco.download.done	Download done	ダウンロードが完了しました (daunrōdo ga kanryō shimashita)
+mco.download.downloading	Downloading	ダウンロード中 (daunrōdochū)
+mco.download.extracting	Extracting	展開しています (tenkai shite imasu)
+mco.download.failed	Download failed	ダウンロードに失敗しました (daunrōdo ni shippai shimashita)
+mco.download.preparing	Preparing download	ダウンロードの準備をしています (daunrōdo no junbi o shite imasu)
+mco.download.resourcePack.fail	Failed to download resource pack!	リソースパックのダウンロードに失敗しました (risōsu pakku no daunrōdo ni shippai shimashita)！
+mco.download.speed	(%s/s)	（%s／秒 (byō)）
+mco.download.speed.narration	%s/s	%s毎秒 (maibyō)
+mco.download.title	Downloading Latest World	最新のワールドをダウンロードしています (saishin no wārudo o daunrōdo shite imasu)
+mco.error.invalid.session.message	Please try restarting Minecraft	Minecraftを再起動してみてください (minecraft o saikidō shite mite kudasai)
+mco.error.invalid.session.title	Invalid Session	無効なセッションIDです (mukōna sesshon iddesu)
+mco.errorMessage.6001	Client outdated	クライアントのバージョンが古いです (kuraianto no bājon ga furuidesu)
+mco.errorMessage.6002	Terms of service not accepted	利用規約に同意していません (riyō kiyaku ni dōi shite imasen)
+mco.errorMessage.6003	Download limit reached	ダウンロード制限に達しました (daunrōdo seigen ni tasshimashita)
+mco.errorMessage.6004	Upload limit reached	アップロード制限に達しました (appurōdo seigen ni tasshimashita)
+mco.errorMessage.6005	World locked	ワールドがロックされています (wārudo ga rokku sarete imasu)
+mco.errorMessage.6006	World is out of date	ワールドの有効期限が切れています (wārudo no yūkōkigen ga kirete imasu)
+mco.errorMessage.6007	User in too many Realms	Realmsにいるユーザーが多すぎます (realms ni iru yūzā ga ō sugimasu)
+mco.errorMessage.6008	Invalid Realm name	無効なRealmの名称です (mukōna realm no meishōdesu)
+mco.errorMessage.6009	Invalid Realm description	無効なRealmの説明です (mukōna realm no setsumeidesu)
+mco.errorMessage.connectionFailure	An error occurred, please try again later.	エラーが発生しました。もう一度やり直してください (erā ga hassei shimashita. mou ichido yarinaoshite kudasai)。
+mco.errorMessage.generic	An error occurred: 	エラーが発生しました (erā ga hassei shimashita)：
+mco.errorMessage.noDetails	No error details provided	エラーの詳細はありません (erā no shōsai wa arimasen)
+mco.errorMessage.realmsService	An error occurred (%s):	エラーが発生しました (erā ga hassei shimashita)（%s）：
+mco.errorMessage.realmsService.connectivity	Could not connect to Realms: %s	Realmに接続できませんでした (realm ni setsuzoku dekimasendeshita)：%s
+mco.errorMessage.realmsService.unknownCompatibility	Could not check compatible version, got response: %s	互換性のあるバージョンを確認できませんでした。取得した応答 (gokansei no aru bājon o kakunin dekimasendeshita. shutoku shita ōtō)：%s
+mco.errorMessage.retry	Retry operation	操作を再試行 (sōsa o saishikō)
+mco.errorMessage.serviceBusy	Realms is busy at the moment.\nPlease try connecting to your Realm again in a couple of minutes.	現在Realmsは混雑しています (genzai realms wa konzatsu shite imasu)。\n数分後にもう一度、Realmへの接続をお試しください (sū fungo ni mou ichido, realm e no setsuzoku o o tameshi kudasai)。
+mco.gui.button	Button	ボタン (botan)
+mco.info	Info!	情報 (jōhō)！
+mco.invited.player.narration	Invited player %s	%sを招待しました (o shōtai shimashita)
+mco.invites.button.accept	Accept	承認 (shōnin)
+mco.invites.button.reject	Reject	拒否 (kyohi)
+mco.invites.nopending	No pending invites!	保留中の招待がありません (horyūchū no shōtai ga arimasen)！
+mco.invites.pending	New invite(s)!	新しい招待があります (atarashii shōtai ga arimasu)！
+mco.invites.title	Pending Invites	保留中の招待 (horyūchū no shōtai)
+mco.minigame.world.changeButton	Select Another Minigame	他のミニゲームを選択 (hoka no minigēmu o sentaku)
+mco.minigame.world.info.line1	This will temporarily replace your world with a minigame!	このワールドは一時的にミニゲームへ切り替えられます (kono wārudo wa ichijitekini minigēmu e kirikaeraremasu)。
+mco.minigame.world.info.line2	You can later return to your original world without losing anything.	何も失うことなく、後から元のワールドに戻すことができます (nanimo ushinau koto naku, ato kara moto no wārudo ni modosu koto ga dekimasu)。
+mco.minigame.world.noSelection	Please make a selection	選択してください (sentaku shite kudasai)
+mco.minigame.world.restore	Ending Minigame...	ミニゲームを終了中 (minigēmu o shūryōchū)…
+mco.minigame.world.restore.question.line1	The minigame will end and your realm will be restored.	ミニゲームが終了され、あなたの Realm は復元されます (minigēmu ga shūryō sare, anata no realm wa fukugen saremasu)。
+mco.minigame.world.restore.question.line2	Are you sure you want to continue?	本当に続行しますか (hontō ni zokkō shimasu ka)？
+mco.minigame.world.selected	Selected Minigame:	選択されたミニゲーム (sentaku sareta minigēmu)：
+mco.minigame.world.slot.screen.title	Switching World...	ワールドを切り替え中 (wārudo o kirikae naka)…
+mco.minigame.world.startButton	Switch	変更 (henkō)
+mco.minigame.world.starting.screen.title	Starting Minigame...	ミニゲームを開始しています (minigēmu o kaishi shite imasu)…
+mco.minigame.world.stopButton	End Minigame	ミニゲームを終了する (minigēmu o shūryō suru)
+mco.minigame.world.switch.new	Select another minigame?	他のミニゲームを選択しますか (hoka no minigēmu o sentaku shimasu ka)？
+mco.minigame.world.switch.title	Switch Minigame	ミニゲームを変更 (minigēmu o henkō)
+mco.minigame.world.title	Switch Realm to Minigame	Realmをミニゲームに切り換える (realm o minigēmu ni kirikaeru)
+mco.news	Realms news	Realmsニュース (realms nyūsu)
+mco.notification.dismiss	Dismiss	閉じる (tojiru)
+mco.notification.transferSubscription.buttonText	Transfer Now	今すぐ移行する (ima sugu ikō suru)
+mco.notification.transferSubscription.message	Java Realms subscriptions are moving to the Microsoft Store. Do not let your subscription expire!\nTransfer now and get 30 days of Realms for free.\nGo to Profile on minecraft.net to transfer your subscription.	Java版Realmsの契約はMicrosoftストアへ移行します。契約が失効しないようご注意を (java ban realms no keiyaku wa microsoft sutoa e ikō shimasu. keiyaku ga shikkō shinai yō go chūi o)！\n今すぐ移行すると、30日間無料でRealmをご利用いただけます (ima sugu ikō suru to, 30 nichikan muryō de realm o goriyō itadakemasu)。\nminecraft.netのプロフィールにアクセスし、契約を移行しましょう (minecraft.net no purofīru ni akusesu shi, keiyaku o ikō shimashou)。
+mco.notification.visitUrl.buttonText.default	Open Link	リンクを開く (rinku o hiraku)
+mco.notification.visitUrl.message.default	Please visit the link below	以下のリンクを確認してください (ika no rinku o kakunin shite kudasai)
+mco.onlinePlayers	Online Players	オンラインのプレイヤー (onrain no pureiyā)
+mco.question	Question	質問 (shitsumon)
+mco.reset.world.adventure	Adventures	アドベンチャー (adobenchā)
+mco.reset.world.experience	Experiences	エクスペリエンス (ekusuperiensu)
+mco.reset.world.generate	New World	新規ワールド (shinki wārudo)
+mco.reset.world.inspiration	Inspiration	インスピレーション (insupirēshon)
+mco.reset.world.resetting.screen.title	Resetting world...	ワールドをリセットしています (wārudo o risetto shite imasu)…
+mco.reset.world.seed	Seed (Optional)	シード値 (shīdochi)（任意 (nin'i)）
+mco.reset.world.template	World Templates	Realmのテンプレート (realm no tenpurēto)
+mco.reset.world.title	Reset World	ワールドのリセット (wārudo no risetto)
+mco.reset.world.upload	Upload world	ワールドをアップロード (wārudo o appurōdo)
+mco.reset.world.warning	This will replace the current world of your realm	この Realm のワールドが完全に削除されます (kono realm no wārudo ga kanzenni sakujo saremasu)！
+mco.selectServer.buy	Buy a Realm!	Realmを購入しよう (realm o kōnyū shiyou)！
+mco.selectServer.close	Close	閉じる (tojiru)
+mco.selectServer.closed	Closed realm	このRealmsは現在停止しています (kono realms wa genzai teishi shite imasu)
+mco.selectServer.closeserver	Close realm	Realmを閉じる (realm o tojiru)
+mco.selectServer.configure	Configure	Realmの設定 (realm no settei)
+mco.selectServer.configureRealm	Configure realm	Realmの設定 (realm no settei)
+mco.selectServer.create	Create Realm	Realmの作成 (realm no sakusei)
+mco.selectServer.create.subtitle	Select what world to put on your new realm	新しいRealmで使用するワールドを選択してください (atarashii realm de shiyō suru wārudo o sentaku shite kudasai)
+mco.selectServer.expired	Expired realm	期限切れのRealm (kigengire no realm)
+mco.selectServer.expiredList	Your subscription has expired	Realmの有効期限が切れました (realm no yūkōkigen ga kiremashita)
+mco.selectServer.expiredRenew	Renew	更新 (kōshin)
+mco.selectServer.expiredSubscribe	Subscribe	申請 (shinsei)
+mco.selectServer.expiredTrial	Your trial has ended	試用期間が終了しました (shiyōkikan ga shūryō shimashita)
+mco.selectServer.expires.day	Expires in a day	あと1日で期限が切れます (ato tsuitachi de kigen ga kiremasu)
+mco.selectServer.expires.days	Expires in %s days	あと (ato)%s日で期限が切れます (hi de kigen ga kiremasu)
+mco.selectServer.expires.soon	Expires soon	まもなく期限が切れます (ma mo naku kigen ga kiremasu)
+mco.selectServer.leave	Leave Realm	Realmから退出する (realm kara taishutsu suru)
+mco.selectServer.loading	Loading Realms List	Realmsリストを読み込み中 (realms risuto o yomikomichū)
+mco.selectServer.mapOnlySupportedForVersion	This map is unsupported in %s	このマップはバージョン (kono mappu wa bājon)%sではサポートされていません (de wa sapōto sarete imasen)
+mco.selectServer.minigame	Minigame:	ミニゲーム (minigēmu)：
+mco.selectServer.minigameName	Minigame: %s	ミニゲーム (minigēmu)：%s
+mco.selectServer.minigameNotSupportedInVersion	Can't play this minigame in %s	このミニゲームはバージョン (kono minigēmu wa bājon)%sではプレイできません (de wa purei dekimasen)
+mco.selectServer.noRealms	You don't seem to have a Realm. Add a Realm to play together with your friends.	Realmを所有していないようです。Realmを追加してフレンドと一緒にプレイしましょう (realm o shoyū shite inai yōdesu. realm o tsuika shite furendo to issho ni purei shimashou)。
+mco.selectServer.note	Note:	注意 (chūi)：
+mco.selectServer.open	Open realm	Realmを開く (realm o hiraku)
+mco.selectServer.openserver	Open realm	Realmを開く (realm o hiraku)
+mco.selectServer.play	Play	プレイ (purei)
+mco.selectServer.popup	Realms is a safe, simple way to enjoy an online Minecraft world with up to ten friends at a time. It supports loads of minigames and plenty of custom worlds! Only the owner of the realm needs to pay.	Realmsは、一度に最大10人までのプレイヤーとMinecraftのオンラインを楽しめる、安全で簡単にサーバーを作成できるシステムです。たくさんのカスタムワールドやミニゲームのプレイができます。ただし、Realmのオーナーだけは料金を支払う必要があります (realms wa, ichido ni saidai 10nin made no pureiyā to minecraft no onrain o tanoshimeru, anzende kantanni sābā o sakusei dekiru shisutemudesu. takusan no kasutamu wārudo ya minigēmu no purei ga dekimasu. tadashi, realm no ōnā dake wa ryōkin o shiharau hitsuyō ga arimasu)。
+mco.selectServer.purchase	Add Realm	Realmを追加 (realm o tsuika)
+mco.selectServer.trial	Get a Trial!	試してみる (tameshite miru)！
+mco.selectServer.uninitialized	Click to start your new realm!	クリックしてRealmを作る (kurikku shite realm o tsukuru)！
+mco.snapshot.createSnapshotPopup.text	You are about to create a free Snapshot Realm that will be paired with your paid Realms subscription. This new Snapshot Realm will be accessible for as long as the paid subscription is active. Your paid Realm will not be affected.	無料のスナップショット用Realmを作成しようとしています。このスナップショット用Realmはご利用中のRealmsの契約に結び付けられているため、この契約が有効の間ご利用になれます。この作成によってご契約中のRealmが影響を受けることはありません (muryō no sunappushottoyō realm o sakusei shiyou to shite imasu. kono sunappushottoyō realm wa goriyōchū no realms no keiyaku ni musubitsukerarete iru tame, kono keiyaku ga yūkō no aida goriyō ni naremasu. kono sakusei ni yotte go keiyakuchū no realm ga eikyō o ukeru koto wa arimasen)。
+mco.snapshot.createSnapshotPopup.title	Create Snapshot Realm?	スナップショット用Realmを作成しますか (sunappushottoyō realm o sakusei shimasu ka)？
+mco.snapshot.creating	Creating Snapshot Realm...	スナップショット用Realmを作成中 (sunappushottoyō realm o sakuseichū)…
+mco.snapshot.description	Paired with "%s"	作成したRealmは (sakusei shita realm wa)%sが有効な限り利用できます (ga yūkōna kagiri riyō dekimasu)
+mco.snapshot.friendsRealm.downgrade	You need to be on version %s to join this Realm	このRealmに参加するには、バージョン (kono realm ni sanka suru ni wa, bājon)%sで実行する必要があります (de jikkō suru hitsuyō ga arimasu)
+mco.snapshot.friendsRealm.upgrade	%s needs to upgrade their Realm before you can play from this version	このスナップショットでこのRealmをプレイするためには (kono sunappushotto de kono realm o purei suru tame ni wa)、%sがRealmをアップグレードする必要があります (ga realm o appugurēdo suru hitsuyō ga arimasu)
+mco.snapshot.paired	This Snapshot Realm is paired with "%s"	このスナップショット用Realmは (kono sunappushottoyō realm wa)%sに結び付けられています (ni musubitsukerarete imasu)
+mco.snapshot.parent.tooltip	Use the latest release of Minecraft to play on this Realm	このRealmをプレイするには、最新のMinecraftのリリースを使用してください (kono realm o purei suru ni wa, saishin no minecraft no rirīsu o shiyō shite kudasai)
+mco.snapshot.start	Start free Snapshot Realm	無料のスナップショット用Realmを開始する (muryō no sunappushottoyō realm o kaishi suru)
+mco.snapshot.subscription.info	This is a Snapshot Realm that is paired to the subscription of your Realm '%s'. It will stay active for as long as its paired Realm is.	これはご契約中のRealm (kore wa go keiyakuchū no realm)「%s」に結び付けられているスナップショット用Realmです。ご契約中のRealmが有効である間はこのRealmもご利用になれます (ni musubitsukerarete iru sunappushottoyō realmdesu. go keiyakuchū no realm ga yūkōde aru aida wa kono realm mo goriyō ni naremasu)。
+mco.snapshot.tooltip	Use Snapshot Realms to get a sneak peek at upcoming versions of Minecraft, which might include new features and other changes.\n\nYou can find your normal Realms in the release version of the game.	スナップショット用Realmを使用すると、開発中のMinecraftの新バージョンに含まれる新要素やその他の変更を先行体験できます (sunappushottoyō realm o shiyō suru to, kaihatsuchū no minecraft no shin bājon ni fukumareru shin yōso ya sono ta no henkō o senkō taiken dekimasu)。\n\n通常のRealmは正式リリースバージョンでのみご利用になれます (tsūjō no realm wa seishiki rirīsu bājon de nomi goriyō ni naremasu)。
+mco.snapshotRealmsPopup.message	Realms are now available in Snapshots starting with Snapshot 23w41a. Every Realms subscription comes with a free Snapshot Realm that is separate from your normal Java Realm!	23w41a以降、スナップショットでもRealmsが利用可能になりました。Realmsを購入していれば、通常のJava EditionのRealmとは別に無料でスナップショット用Realmを使用できます (23 w 41 a ikō, sunappushotto de mo realms ga riyō kanōni narimashita. realms o kōnyū shite ire ba, tsūjō no java edition no realm to wa betsuni muryō de sunappushottoyō realm o shiyō dekimasu)。
+mco.snapshotRealmsPopup.title	Realms now available in Snapshots	Realmsがスナップショットでも利用可能になりました (realms ga sunappushotto de mo riyō kanōni narimashita)
+mco.snapshotRealmsPopup.urlText	Learn More	詳細を確認 (shōsai o kakunin)
+mco.template.button.publisher	Publisher	パブリッシャー (paburisshā)
+mco.template.button.select	Select	選択 (sentaku)
+mco.template.button.trailer	Trailer	トレイラー (toreirā)
+mco.template.default.name	World template	ワールドのテンプレート (wārudo no tenpurēto)
+mco.template.info.tooltip	Publisher website	公式ウェブサイト (kōshiki webusaito)
+mco.template.name	Template	テンプレート (tenpurēto)
+mco.template.select.failure	We couldn't retrieve the list of content for this category.\nPlease check your internet connection, or try again later.	このカテゴリの説明リストを読み込めませんでした (kono kategori no setsumei risuto o yomikomemasendeshita)。\nインターネットの接続を確認して、しばらく待ってからもう一度お試しください (intānetto no setsuzoku o kakunin shite, shibaraku matte kara mou ichido o tameshi kudasai)。
+mco.template.select.narrate.authors	Authors: %s	作成者 (sakuseisha)：%s
+mco.template.select.narrate.version	version %s	バージョン (bājon)%s
+mco.template.select.none	Oops, it looks like this content category is currently empty.\nPlease check back later for new content, or if you're a creator,\n%s.	申し訳ありません、このカテゴリは現在空のようです (mōshiwake arimasen, kono kategori wa genzai sora no yōdesu)。\n新たなコンテンツを待つか、もしあなたが製作者であるならば (aratana kontentsu o matsu ka, moshi anata ga seisakushade arunara ba)\n%s。
+mco.template.select.none.linkTitle	consider submitting something yourself	あなた自身でなにか投稿してはいかがでしょうか (anata jishin de nani ka tōkō shite wa ikagadeshou ka)
+mco.template.title	World templates	ワールドのテンプレート (wārudo no tenpurēto)
+mco.template.title.minigame	Minigames	Realmのミニゲーム (realm no minigēmu)
+mco.template.trailer.tooltip	Map trailer	マップのトレイラー (mappu no toreirā)
+mco.terms.buttons.agree	Agree	同意する (dōi suru)
+mco.terms.buttons.disagree	Don't agree	同意しない (dōi shinai)
+mco.terms.sentence.1	I agree to the Minecraft Realms	Minecraft Realmsに同意する (minecraft realms ni dōi suru)
+mco.terms.sentence.2	Terms of Service	利用規約 (riyō kiyaku)
+mco.terms.title	Realms Terms of Service	Realms利用規約 (realms riyō kiyaku)
+mco.time.daysAgo	%1$s day(s) ago	%1$s日前 (hinokuma)
+mco.time.hoursAgo	%1$s hour(s) ago	%1$s時間前 (jikan mae)
+mco.time.minutesAgo	%1$s minute(s) ago	%1$s分前 (bun mae)
+mco.time.now	right now	直後 (chokugo)
+mco.time.secondsAgo	%1$s second(s) ago	%1$s秒前 (byō mae)
+mco.trial.message.line1	Want to get your own realm?	Realmを使ってみませんか (realm o tsukatte mimasen ka)？
+mco.trial.message.line2	Click here for more info!	詳しくはこちらをクリック (kuwashiku wa kochira o kurikku)！
+mco.upload.button.name	Upload	アップロード (appurōdo)
+mco.upload.cancelled	Upload cancelled	アップロードがキャンセルされました (appurōdo ga kyanseru saremashita)
+mco.upload.close.failure	Could not close your realm, please try again later	Realm を閉じる事ができません。もう一度試してください (realm o tojiru koto ga dekimasen. mou ichido tameshite kudasai)。
+mco.upload.done	Upload done	アップロードが完了しました (appurōdo ga kanryō shimashita)
+mco.upload.failed	Upload failed! (%s)	アップロードに失敗しました (appurōdo ni shippai shimashita)！（%s）
+mco.upload.hardcore	Hardcore worlds can't be uploaded!	ハードコアのワールドはアップロードすることができません (hādokoa no wārudo wa appurōdo suru koto ga dekimasen)！
+mco.upload.preparing	Preparing your world	ワールドデータを準備しています (wārudo dēta o junbi shite imasu)
+mco.upload.select.world.none	No singleplayer worlds found!	シングルプレイのワールドが見つかりませんでした (shinguru purei no wārudo ga mitsukarimasendeshita)！
+mco.upload.select.world.subtitle	Please select a singleplayer world to upload	アップロードするシングルプレイのワールドを選択してください (appurōdo suru shinguru purei no wārudo o sentaku shite kudasai)
+mco.upload.select.world.title	Upload World	ワールドをアップロード (wārudo o appurōdo)
+mco.upload.size.failure.line1	'%s' is too big!	「%s」のサイズが大きすぎます (no saizu ga ōki sugimasu)！
+mco.upload.size.failure.line2	It is %s. The maximum allowed size is %s.	現在は (genzai wa)%sです。最大サイズは (desu. saidai saizu wa)%sです (desu)。
+mco.upload.uploading	Uploading '%s'	「%s」をアップロードしています (o appurōdo shite imasu)
+mco.upload.verifying	Verifying your world	マップを検証しています (mappu o kenshō shite imasu)
+mco.version	Version: %s	バージョン (bājon)：%s
+mco.warning	Warning!	警告 (keikoku)！
+mco.worldSlot.minigame	Minigame	Realmsのミニゲーム (realms no minigēmu)

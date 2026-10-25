@@ -1,0 +1,5 @@
+Translation key	English	Japanese with romaji
+download.pack.failed	%s out of %s pack(s) failed to download	%2$s個中 (kochū)%1$s個のパックのダウンロードに失敗しました (ko no pakku no daunrōdo ni shippai shimashita)
+download.pack.progress.bytes	Progress: %s (total size unknown)	進捗 (shinchoku)：%s（総サイズ不明 (sou saizu fumei)）
+download.pack.progress.percent	Progress: %s%%	進捗 (shinchoku)：%s%%
+download.pack.title	Downloading resource pack %s/%s	リソースパックをダウンロード中 (risōsu pakku o daunrōdochū) %s／%s

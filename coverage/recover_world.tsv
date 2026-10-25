@@ -1,0 +1,16 @@
+Translation key	English	Japanese with romaji
+recover_world.bug_tracker	Report a Bug	バグを報告する (bagu o hōkoku suru)
+recover_world.button	Attempt to Recover	復元を試みる (fukugen o kokoromiru)
+recover_world.done.failed	Failed to recover from previous state.	以前の状態からの復元に失敗しました (izen no jōtai kara no fukugen ni shippai shimashita)。
+recover_world.done.success	Recovery was successful!	復元に成功しました (fukugen ni seikō shimashita)！
+recover_world.done.title	Recovery done	復元完了 (fukugen kanryō)
+recover_world.issue.missing_file	Missing file	ファイルが不足しています (fairu ga fusoku shite imasu)
+recover_world.issue.none	No issues	問題なし (mondai nashi)
+recover_world.message	The following issues occurred while trying to read world folder "%s".\nIt might be possible to restore the world from an older state or you can report this issue on the bug tracker.	ワールドフォルダー (wārudo forudā)「%s」の読み込み中に以下の問題が発生しました (no yomikomichū ni ika no mondai ga hassei shimashita)。\n以前の状態からワールドを復元できるかもしれません。またこの問題をバグトラッカーで報告していただくことも可能です (izen no jōtai kara wārudo o fukugen dekiru ka mo shiremasen. mata kono mondai o bagutorakkā de hōkoku shite itadaku koto mo kanōdesu)。
+recover_world.no_fallback	No state to recover from available	復元元として利用可能な状態がありません (fukugen moto to shite riyō kanōna jōtai ga arimasen)
+recover_world.restore	Attempt to Restore	修復を試みる (shūfuku o kokoromiru)
+recover_world.restoring	Attempting to restore world...	ワールドを修復中 (wārudo o shūfukuchū)…
+recover_world.state_entry	State from %s: 	%sからの状態 (kara no jōtai)：
+recover_world.state_entry.unknown	unknown	不明な日時 (fumeina nichiji)
+recover_world.title	Failed to load world	ワールドの読み込みに失敗しました (wārudo no yomikomi ni shippai shimashita)
+recover_world.warning	Failed to load world summary	ワールドの概要の読み込みに失敗しました (wārudo no gaiyō no yomikomi ni shippai shimashita)

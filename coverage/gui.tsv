@@ -1,0 +1,192 @@
+Translation key	English	Japanese with romaji
+gui.abuseReport.attestation	By submitting this report, you confirm that the information you have provided is accurate and complete to the best of your knowledge.	通報する上で、報告する情報があなたの知る限り正確で不足はないことを確認します (tsūhō suru ue de, hōkoku suru jōhō ga anata no shiru kagiri seikakude fusoku wa nai koto o kakunin shimasu)。
+gui.abuseReport.comments	Comments	コメント (komento)
+gui.abuseReport.describe	Sharing details will help us make a well-informed decision.	ご記入いただいた詳細な情報は、処分決定の上での判断の一助とさせていただきます (go kinyū itadaita shōsaina jōhō wa, shobun kettei no ue de no handan no ichijo to sasete itadakimasu)。
+gui.abuseReport.discard.content	If you leave, you'll lose this report and your comments.\nAre you sure you want to leave?	この画面を閉じると、この通報内容とコメントは破棄されます (kono gamen o tojiru to, kono tsūhō naiyō to komento wa haki saremasu)。\n本当に閉じますか (hontō ni tojimasu ka)？
+gui.abuseReport.discard.discard	Leave and Discard Report	通報の内容を破棄して閉じる (tsūhō no naiyō o haki shite tojiru)
+gui.abuseReport.discard.draft	Save as Draft	下書きとして保存 (shitagaki to shite hozon)
+gui.abuseReport.discard.return	Continue Editing	編集を続ける (henshū o tsuzukeru)
+gui.abuseReport.discard.title	Discard report and comments?	通報内容とコメントを破棄しますか (tsūhō naiyō to komento o haki shimasu ka)？
+gui.abuseReport.draft.content	Would you like to continue editing the existing report or discard it and create a new one?	既存の通報の編集を続けますか？それとも破棄して新しい通報を作成しますか (kison no tsūhō no henshū o tsuzukemasu ka? sore to mo haki shite atarashii tsūhō o sakusei shimasu ka)？
+gui.abuseReport.draft.discard	Discard	破棄 (haki)
+gui.abuseReport.draft.edit	Continue Editing	編集を続ける (henshū o tsuzukeru)
+gui.abuseReport.draft.quittotitle.content	Would you like to continue editing it or discard it?	編集を続けますか？それとも破棄しますか (henshū o tsuzukemasu ka? sore to mo haki shimasu ka)？
+gui.abuseReport.draft.quittotitle.title	You have a draft chat report that will be lost if you quit	退出するとチャットの通報の下書きが破棄されます (taishutsu suru to chatto no tsūhō no shitagaki ga haki saremasu)
+gui.abuseReport.draft.title	Edit draft chat report?	チャットの通報の下書きを編集しますか (chatto no tsūhō no shitagaki o henshū shimasu ka)？
+gui.abuseReport.error.title	Problem sending your report	通報の送信中に問題が発生しました (tsūhō no sōshinchū ni mondai ga hassei shimashita)
+gui.abuseReport.message	Where did you observe the bad behavior?\nThis will help us in researching your case.	問題のある振る舞いを発見した場所を教えてください (mondai no aru furumai o hakken shita basho o oshiete kudasai)。\nご記入いただいた情報は通報の内容を精査するために使用されます (go kinyū itadaita jōhō wa tsūhō no naiyō o seisa suru tame ni shiyō saremasu)。
+gui.abuseReport.more_comments	Please describe what happened:	その時の状況を以下に入力してください (sono toki no jōkyō o ika ni nyūryoku shite kudasai)
+gui.abuseReport.name.reporting	You are reporting "%s".	「%s」を通報しようとしています (o tsūhō shiyou to shite imasu)
+gui.abuseReport.name.title	Report Player Name	プレイヤー名の通報 (pureiyā mei no tsūhō)
+gui.abuseReport.observed_what	Why are you reporting this?	通報する理由を選択してください (tsūhō suru riyū o sentaku shite kudasai)。
+gui.abuseReport.read_info	Learn About Reporting	通報について (tsūhō ni tsuite)
+gui.abuseReport.reason.alcohol_tobacco_drugs	Drugs or alcohol	薬物・飲酒 (yakubutsu inshu)
+gui.abuseReport.reason.alcohol_tobacco_drugs.description	Someone is encouraging others to partake in illegal drug related activities or encouraging underage drinking.	違法薬物に関する行為への参加や、未成年の飲酒を助長する人がいる (ihō yakubutsu ni kansuru kōi e no sanka ya, miseinen no inshu o jochō suru hito ga iru)。
+gui.abuseReport.reason.child_sexual_exploitation_or_abuse	Child sexual exploitation or abuse	児童に対する性的搾取・虐待 (jidō ni taisuru seiteki sakushu gyakutai)
+gui.abuseReport.reason.child_sexual_exploitation_or_abuse.description	Someone is talking about or otherwise promoting indecent behavior involving children.	子供に対するわいせつ行為に関する、あるいは助長する発言をする人がいる (kodomo ni taisuru waisetsu kōi ni kansuru, aruiwa jochō suru hatsugen o suru hito ga iru)。
+gui.abuseReport.reason.defamation_impersonation_false_information	Defamation	名誉毀損・なりすまし・デマ (meiyo kison narisumashi dema)
+gui.abuseReport.reason.defamation_impersonation_false_information.description	Someone is damaging your or someone else's reputation, for example sharing false information with the aim to exploit or mislead others.	他人の名誉を貶めたり、他人になりすましたり、他人を騙すために虚偽の情報を流布する人がいる (tanin no meiyo o otoshime tari, tanin ni narisumashi tari, tanin o damasu tame ni kyogi no jōhō o rufu suru hito ga iru)。
+gui.abuseReport.reason.description	Description:	説明 (setsumei)：
+gui.abuseReport.reason.false_reporting	False Reporting	虚偽の通報 (kyogi no tsūhō)
+gui.abuseReport.reason.generic	I want to report them	その他の理由 (sono ta no riyū)
+gui.abuseReport.reason.generic.description	I'm annoyed with them / they have done something I do not like.	他の理由には該当しないが、不快な行為を行うプレイヤーがいる (hoka no riyū ni wa gaitō shinai ga, fukaina kōi o okonau pureiyā ga iru)。
+gui.abuseReport.reason.harassment_or_bullying	Harassment or bullying	ハラスメント・いじめ (harasumento ijime)
+gui.abuseReport.reason.harassment_or_bullying.description	Someone is shaming, attacking, or bullying you or someone else. This includes when someone is repeatedly trying to contact you or someone else without consent or posting private personal information about you or someone else without consent ("doxing").	あなたや他のプレイヤーに恥をかかせたり、攻撃したり、いじめを行う人がいる。これには誰かがあなたや他のプレイヤーに、同意なく何度も連絡を取ろうとする行為や、あなたや他人の個人情報を同意なく投稿する行為 (anata ya hoka no pureiyā ni haji o kakase tari, kōgeki shi tari, ijime o okonau hito ga iru. kore ni wa dare ka ga anata ya hoka no pureiyā ni, dōi naku nando mo renraku o torou to suru kōi ya, anata ya tanin no kojinjōhō o dōi naku tōkō suru kōi)（晒し行為 (sarashi kōi)）も含まれます (mo fukumaremasu)。
+gui.abuseReport.reason.hate_speech	Hate speech	ヘイトスピーチ (heitosupīchi)
+gui.abuseReport.reason.hate_speech.description	Someone is attacking you or another player based on characteristics of their identity, like religion, race, or sexuality.	あなたや別のプレイヤーを、宗教や人種、性別などの特徴にもとづいて攻撃する人がいる (anata ya betsu no pureiyā o, shūkyō ya jinshu, seibetsu nado no tokuchō ni motozuite kōgeki suru hito ga iru)。
+gui.abuseReport.reason.imminent_harm	Threat of harm to others	他者への危害を及ぼす内容の脅迫 (tasha e no kigai o oyobosu naiyō no kyōhaku)
+gui.abuseReport.reason.imminent_harm.description	Someone is threatening to harm you or someone else in real life.	あなたや他のプレイヤーに、現実世界で危害を加えると脅迫する人がいる (anata ya hoka no pureiyā ni, genjitsusekai de kigai o kuwaeru to kyōhaku suru hito ga iru)。
+gui.abuseReport.reason.non_consensual_intimate_imagery	Non-consensual intimate imagery	同意なく投稿されたプライバシーに抵触する画像 (dōi naku tōkō sareta puraibashī ni teishoku suru gazō)
+gui.abuseReport.reason.non_consensual_intimate_imagery.description	Someone is talking about, sharing, or otherwise promoting private and intimate images.	プライバシーに抵触するおそれのある画像についての会話や共有、拡散をする人がいる (puraibashī ni teishoku suru osore no aru gazō ni tsuite no kaiwa ya kyōyū, kakusan o suru hito ga iru)。
+gui.abuseReport.reason.self_harm_or_suicide	Self-harm or suicide	緊急の危害 - 自傷・自殺行為 (kinkyū no kigai - jishō jisatsu kōi)
+gui.abuseReport.reason.self_harm_or_suicide.description	Someone is threatening to harm themselves in real life or talking about harming themselves in real life.	現実世界において自傷行為や自殺を行う恐れのある、あるいはそれについて話すプレイヤーがいる (genjitsusekai ni oite jishō kōi ya jisatsu o okonau osore no aru, aruiwa sore ni tsuite hanasu pureiyā ga iru)。
+gui.abuseReport.reason.terrorism_or_violent_extremism	Terrorism or violent extremism	テロ行為・暴力的過激主義 (tero kōi bōryokuteki kageki shugi)
+gui.abuseReport.reason.terrorism_or_violent_extremism.description	Someone is talking about, promoting, or threatening to commit acts of terrorism or violent extremism for political, religious, ideological, or other reasons.	政治的、宗教的、思想的、もしくはその他の理由で、テロ行為または暴力的過激派について会話や宣伝、脅迫をおこなう人がいる (seijiteki, shūkyōteki, shisōteki, moshikuwa sono ta no riyū de, tero kōi mata wa bōryokuteki kagekiha ni tsuite kaiwa ya senden, kyōhaku o okonau hito ga iru)。
+gui.abuseReport.reason.title	Select Report Category	通報カテゴリを選択 (tsūhō kategori o sentaku)
+gui.abuseReport.report_sent_msg	We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible.	通報を受理しました。ありがとうございます (tsūhō o juri shimashita. arigatou gozaimasu)。\n\n私達のチームはできるだけ早く、寄せられた通報を確認いたします (watashitachi no chīmu wa dekirudake hayaku, yoserareta tsūhō o kakunin itashimasu)。
+gui.abuseReport.select_reason	Select Report Category	通報カテゴリを選択 (tsūhō kategori o sentaku)
+gui.abuseReport.send	Send Report	通報する (tsūhō suru)
+gui.abuseReport.send.comment_too_long	Please shorten the comment	コメントを短くしてください (komento o mijikaku shite kudasai)
+gui.abuseReport.send.error_message	An error was returned while sending your report:\n'%s'	通報の送信中にエラー (tsūhō no sōshinchū ni erā)「%s」が返されました (ga kaesaremashita)。
+gui.abuseReport.send.generic_error	Encountered an unexpected error while sending your report.	通報の送信中に予期せぬエラーが発生しました (tsūhō no sōshinchū ni yoki senu erā ga hassei shimashita)。
+gui.abuseReport.send.http_error	An unexpected HTTP error occurred while sending your report.	通報の送信時に予期せぬHTTPエラーが発生しました (tsūhō no sōshin ji ni yoki senu http erā ga hassei shimashita)。
+gui.abuseReport.send.json_error	Encountered malformed payload while sending your report.	通報の送信時に不正なペイロードが発生しました (tsūhō no sōshin ji ni fuseina peirōdo ga hassei shimashita)。
+gui.abuseReport.send.no_reason	Please select a report category	通報カテゴリを選択してください (tsūhō kategori o sentaku shite kudasai)
+gui.abuseReport.send.not_attested	Please read the text above and tick the checkbox to be able to send the report	上記の文章を読み、チェックボックスにチェックを入れると通報できます (jōki no bunshō o yomi, chekkubokkusu ni chekku o ireru to tsūhō dekimasu)
+gui.abuseReport.send.service_unavailable	Unable to reach the Abuse Reporting service. Please make sure you are connected to the internet and try again.	不正利用通報サービスに接続できません。インターネットの接続を確認し、もう一度お試しください (fusei riyō tsūhō sābisu ni setsuzoku dekimasen. intānetto no setsuzoku o kakunin shi, mou ichido o tameshi kudasai)。
+gui.abuseReport.sending.title	Sending your report...	通報を送信中 (tsūhō o sōshinchū)…
+gui.abuseReport.sent.title	Report sent	通報を送信しました (tsūhō o sōshin shimashita)
+gui.abuseReport.skin.title	Report Player Skin	プレイヤーのスキンの通報 (pureiyā no sukin no tsūhō)
+gui.abuseReport.title	Report Player	プレイヤーの通報 (pureiyā no tsūhō)
+gui.abuseReport.type.chat	Chat Messages	チャットのメッセージ (chatto no messēji)
+gui.abuseReport.type.name	Player Name	プレイヤー名 (pureiyā mei)
+gui.abuseReport.type.skin	Player Skin	プレイヤーのスキン (pureiyā no sukin)
+gui.acknowledge	Acknowledge	了解 (ryōkai)
+gui.advancements	Advancements	進捗 (shinchoku)
+gui.all	All	すべて (subete)
+gui.back	Back	戻る (modoru)
+gui.banned.description	%s\n\n%s\n\nLearn more at the following link: %s	%s\n\n%s\n\n詳細はこちらのリンクから確認できます (shōsai wa kochira no rinku kara kakunin dekimasu)：%s
+gui.banned.description.permanent	Your account is permanently banned, which means you can’t play online or join Realms.	あなたのアカウントは永久に停止されました。オンラインプレイやRealmsへの参加はできません (anata no akaunto wa eikyū ni teishi saremashita. onrain purei ya realms e no sanka wa dekimasen)。
+gui.banned.description.reason	We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified it as %s, which goes against the Minecraft Community Standards.	あなたのアカウントによる悪質な行為の報告が最近寄せられました。あなたの件についてモデレーターが確認したところ、Minecraftコミュニティ規定に反する (anata no akaunto ni yoru akushitsuna kōi no hōkoku ga saikin yoseraremashita. anata no ken ni tsuite moderētā ga kakunin shita tokoro, minecraft komyuniti kitei ni hansuru)%sであることが判明しました (de aru koto ga hanmei shimashita)。
+gui.banned.description.reason_id	Code: %s	コード (kōdo)：%s
+gui.banned.description.reason_id_message	Code: %s - %s	コード (kōdo)：%s - %s
+gui.banned.description.temporary	%s Until then, you can’t play online or join Realms.	%s経過するまでは、オンラインプレイおよびRealmsへの参加はできません (keika suru made wa, onrain purei oyobi realms e no sanka wa dekimasen)。
+gui.banned.description.temporary.duration	Your account is temporarily suspended and will be reactivated in %s.	あなたのアカウントは一時的に制限されています (anata no akaunto wa ichijitekini seigen sarete imasu)。%s後に制限が解除される予定です (ato ni seigen ga kaijo sareru yoteidesu)。
+gui.banned.description.unknownreason	We recently received a report for bad behavior by your account. Our moderators have now reviewed your case and identified that it goes against the Minecraft Community Standards.	あなたのアカウントによる悪質な行為の報告が最近寄せられました。あなたの件についてモデレーターが確認したところ、Minecraftコミュニティ規定に反していることが判明しました (anata no akaunto ni yoru akushitsuna kōi no hōkoku ga saikin yoseraremashita. anata no ken ni tsuite moderētā ga kakunin shita tokoro, minecraft komyuniti kitei ni hanshite iru koto ga hanmei shimashita)。
+gui.banned.name.description	Your current name - "%s" - violates our Community Standards. You can play singleplayer, but will need to change your name to play online.\n\nLearn more or submit a case review at the following link: %s	あなたの名前 (anata no namae)「%s」は、コミュニティ規定に違反しています。シングルプレイは引き続きプレイしていただくことができますが、オンラインでプレイするには名前を変えていただく必要があります (wa, komyuniti kitei ni ihan shite imasu. shinguru purei wa hikitsuzuki purei shite itadaku koto ga dekimasu ga, onrain de purei suru ni wa namae o kaete itadaku hitsuyō ga arimasu)。\n\n詳しい情報および通報された内容は次のリンクを参照ください (kuwashii jōhō oyobi tsūhō sareta naiyō wa tsugi no rinku o sanshō kudasai)：%s
+gui.banned.name.title	Name Not Allowed in Multiplayer	この名前はマルチプレイでは使用できません (kono namae wa maruchi purei de wa shiyō dekimasen)
+gui.banned.reason.defamation_impersonation_false_information	Impersonation or sharing information to exploit or mislead others	なりすまし、および他のプレイヤーを誤解させるような情報の拡散 (narisumashi, oyobi hoka no pureiyā o gokai saseru yōna jōhō no kakusan)
+gui.banned.reason.drugs	References to illegal drugs	違法薬物に関する発言 (ihō yakubutsu ni kansuru hatsugen)
+gui.banned.reason.extreme_violence_or_gore	Depictions of real-life excessive violence or gore	現実世界における過剰な暴力や残虐行為の描写 (genjitsusekai ni okeru kajōna bōryoku ya zangyaku kōi no byōsha)
+gui.banned.reason.false_reporting	Excessive false or inaccurate reports	不正確な、あるいは誤った報告の濫発 (fuseikakuna, aruiwa ayamatta hōkoku no ranpatsu)
+gui.banned.reason.fraud	Fraudulent acquisition or use of content	コンテンツの不正な取得・使用 (kontentsu no fuseina shutoku shiyō)
+gui.banned.reason.generic_violation	Violating Community Standards	暴力に関するコミュニティ規定への違反 (bōryoku ni kansuru komyuniti kitei e no ihan)
+gui.banned.reason.harassment_or_bullying	Abusive language used in a directed, harmful manner	特定の対象に対する有害で攻撃的な発言 (tokutei no taishō ni taisuru yūgaide kōgekitekina hatsugen)
+gui.banned.reason.hate_speech	Hate speech or discrimination	ヘイトスピーチおよび差別表現 (heitosupīchi oyobi sabetsu hyōgen)
+gui.banned.reason.hate_terrorism_notorious_figure	References to hate groups, terrorist organizations, or notorious figures	ヘイトスピーチを行う団体、テロ組織、悪を想起させる図形などへの言及 (heitosupīchi o okonau dantai, tero soshiki, aku o sōki saseru zukei nado e no genkyū)
+gui.banned.reason.imminent_harm_to_person_or_property	Intent to cause real-life harm to persons or property	現実世界における特定の個人、財産に対する損害を為そうとする意図 (genjitsusekai ni okeru tokutei no kojin, zaisan ni taisuru songai o nasou to suru ito)
+gui.banned.reason.nudity_or_pornography	Displaying lewd or pornographic material	卑猥またはポルノ要素のある事物の表示 (hiwai mata wa poruno yōso no aru jibutsu no hyōji)
+gui.banned.reason.sexually_inappropriate	Topics or content of a sexual nature	性的な内容を含む話題やコンテンツ (seitekina naiyō o fukumu wadai ya kontentsu)
+gui.banned.reason.spam_or_advertising	Spam or advertising	スパムまたは広告 (supamu mata wa kōkoku)
+gui.banned.skin.description	Your current skin violates our Community Standards. You can still play with a default skin, or select a new one.\n\nLearn more or submit a case review at the following link: %s	あなたの現在のスキンは、コミュニティ規定に違反しています。デフォルトのスキンを使用するか、新しいスキンを選択してください (anata no genzai no sukin wa, komyuniti kitei ni ihan shite imasu. deforuto no sukin o shiyō suru ka, atarashii sukin o sentaku shite kudasai)。\n\n詳しい情報および通報された内容は次のリンクを参照ください (kuwashii jōhō oyobi tsūhō sareta naiyō wa tsugi no rinku o sanshō kudasai)：%s
+gui.banned.skin.title	Skin Not Allowed	このスキンは使用できません (kono sukin wa shiyō dekimasen)
+gui.banned.title.permanent	Account permanently banned	このアカウントは永久停止処分を受けています (kono akaunto wa eikyū teishi shobun o ukete imasu)
+gui.banned.title.temporary	Account temporarily suspended	このアカウントは一時的に使用制限を受けています (kono akaunto wa ichijitekini shiyō seigen o ukete imasu)
+gui.cancel	Cancel	キャンセル (kyanseru)
+gui.chatReport.comments	Comments	コメント (komento)
+gui.chatReport.describe	Sharing details will help us make a well-informed decision.	ご記入いただいた詳細な情報は、処分決定の上での判断の一助とさせていただきます (go kinyū itadaita shōsaina jōhō wa, shobun kettei no ue de no handan no ichijo to sasete itadakimasu)。
+gui.chatReport.discard.content	If you leave, you'll lose this report and your comments.\nAre you sure you want to leave?	この画面を閉じると、この通報内容とコメントは消去されます (kono gamen o tojiru to, kono tsūhō naiyō to komento wa shōkyo saremasu)。\n本当に閉じますか (hontō ni tojimasu ka)？
+gui.chatReport.discard.discard	Leave and Discard Report	通報内容を破棄して閉じる (tsūhō naiyō o haki shite tojiru)
+gui.chatReport.discard.draft	Save as Draft	下書きとして保存 (shitagaki to shite hozon)
+gui.chatReport.discard.return	Continue Editing	編集を続ける (henshū o tsuzukeru)
+gui.chatReport.discard.title	Discard report and comments?	通報内容とコメントを破棄しますか (tsūhō naiyō to komento o haki shimasu ka)？
+gui.chatReport.draft.content	Would you like to continue editing the existing report or discard it and create a new one?	既存の通報の編集を続けますか？それとも破棄して新しい通報を作成しますか (kison no tsūhō no henshū o tsuzukemasu ka? sore to mo haki shite atarashii tsūhō o sakusei shimasu ka)？
+gui.chatReport.draft.discard	Discard	破棄 (haki)
+gui.chatReport.draft.edit	Continue Editing	編集を続ける (henshū o tsuzukeru)
+gui.chatReport.draft.quittotitle.content	Would you like to continue editing it or discard it?	編集を続けますか？それとも破棄しますか (henshū o tsuzukemasu ka? sore to mo haki shimasu ka)？
+gui.chatReport.draft.quittotitle.title	You have a draft chat report that will be lost if you quit	退出するとチャットの通報の下書きが破棄されます (taishutsu suru to chatto no tsūhō no shitagaki ga haki saremasu)
+gui.chatReport.draft.title	Edit draft chat report?	チャットの通報の下書きを編集しますか (chatto no tsūhō no shitagaki o henshū shimasu ka)？
+gui.chatReport.more_comments	Please describe what happened:	その時の状況を以下に入力してください (sono toki no jōkyō o ika ni nyūryoku shite kudasai)
+gui.chatReport.observed_what	Why are you reporting this?	通報する理由をご記入ください (tsūhō suru riyū o go kinyū kudasai)。
+gui.chatReport.read_info	Learn About Reporting	通報について (tsūhō ni tsuite)
+gui.chatReport.report_sent_msg	We’ve successfully received your report. Thank you!\n\nOur team will review it as soon as possible.	通報を受理しました。ありがとうございます (tsūhō o juri shimashita. arigatou gozaimasu)。\n\n私達のチームはできるだけ早く、寄せられた通報を確認いたします (watashitachi no chīmu wa dekirudake hayaku, yoserareta tsūhō o kakunin itashimasu)。
+gui.chatReport.select_chat	Select Chat Messages to Report	通報するチャットメッセージを選択 (tsūhō suru chatto messēji o sentaku)
+gui.chatReport.select_reason	Select Report Category	通報カテゴリを選択 (tsūhō kategori o sentaku)
+gui.chatReport.selected_chat	%s Chat Message(s) Selected to Report	%s個のチャットメッセージが通報対象として選択されています (ko no chatto messēji ga tsūhō taishō to shite sentaku sarete imasu)
+gui.chatReport.send	Send Report	通報する (tsūhō suru)
+gui.chatReport.send.comments_too_long	Please shorten the comment	コメントを短くしてください (komento o mijikaku shite kudasai)
+gui.chatReport.send.no_reason	Please select a report category	通報カテゴリを選択してください (tsūhō kategori o sentaku shite kudasai)
+gui.chatReport.send.no_reported_messages	Please select at least one chat message to report	通報するチャットメッセージを一つ以上選択してください (tsūhō suru chatto messēji o hitotsu ijō sentaku shite kudasai)
+gui.chatReport.send.too_many_messages	Trying to include too many messages in the report	通報のメッセージが長すぎます (tsūhō no messēji ga naga sugimasu)
+gui.chatReport.title	Report Player Chat	プレイヤーを通報する (pureiyā o tsūhō suru)
+gui.chatSelection.context	Messages surrounding this selection will be included to provide additional context	選択されたメッセージの前後のメッセージは、処分の判断を行う上で、文脈を把握するための追加の判断材料として使用されます (sentaku sareta messēji no zengo no messēji wa, shobun no handan o okonau ue de, bunmyaku o hāku suru tame no tsuika no handan zairyō to shite shiyō saremasu)。
+gui.chatSelection.fold	%s message(s) hidden	%s件のメッセージが非表示になりました (ken no messēji ga hihyōji ni narimashita)
+gui.chatSelection.join	%s joined the chat	%sがチャットに参加しました (ga chatto ni sanka shimashita)
+gui.chatSelection.message.narrate	%s said: %s at %s	%1$sの (no)%3$sでの発言 (de no hatsugen)：%2$s
+gui.chatSelection.selected	%s/%s message(s) selected	%2$s個中 (kochū)%1$s個のメッセージを選択 (ko no messēji o sentaku)
+gui.chatSelection.title	Select Chat Messages to Report	通報するチャットメッセージを選択 (tsūhō suru chatto messēji o sentaku)
+gui.continue	Continue	続ける (tsuzukeru)
+gui.copy_link_to_clipboard	Copy Link to Clipboard	リンクをクリップボードにコピー (rinku o kurippubōdo ni kopī)
+gui.days	%s day(s)	%s日 (hi)
+gui.done	Done	完了 (kanryō)
+gui.down	Down	下 (shita)
+gui.entity_tooltip.type	Type: %s	タイプ (taipu)：%s
+gui.fileDropFailure.detail	Rejected %d files	%sのファイルが拒否されました (no fairu ga kyohi saremashita)
+gui.fileDropFailure.title	Failed to add files	ファイルの追加に失敗しました (fairu no tsuika ni shippai shimashita)
+gui.hours	%s hour(s)	%s時間 (jikan)
+gui.loadingMinecraft	Loading Minecraft	Minecraftを読み込み中 (minecraft o yomikomichū)
+gui.minutes	%s minute(s)	%s分 (bun)
+gui.narrate.button	%s button	%sボタン (botan)
+gui.narrate.editBox	%s edit box: %s	%sの編集欄 (no henshū ran)：%s
+gui.narrate.slider	%s slider	%sスライダー (suraidā)
+gui.narrate.tab	%s tab	%sのタブ (no tabu)
+gui.no	No	いいえ (iie)
+gui.none	None	なし (nashi)
+gui.open_report_dir	Open Report Directory	レポートフォルダを開く (repōto foruda o hiraku)
+gui.proceed	Proceed	続ける (tsuzukeru)
+gui.recipebook.moreRecipes	Right Click for More	右クリックで詳細を表示 (migi kurikku de shōsai o hyōji)
+gui.recipebook.search_hint	Search...	検索 (kensaku)…
+gui.recipebook.toggleRecipes.all	Showing All	すべてのアイテムを表示中 (subete no aitemu o hyōjichū)
+gui.recipebook.toggleRecipes.blastable	Showing Blastable	溶鉱可能なアイテムを表示中 (yōkō kanōna aitemu o hyōjichū)
+gui.recipebook.toggleRecipes.craftable	Showing Craftable	クラフト可能なアイテムを表示中 (kurafuto kanōna aitemu o hyōjichū)
+gui.recipebook.toggleRecipes.smeltable	Showing Smeltable	製錬可能なアイテムを表示中 (seiren kanōna aitemu o hyōjichū)
+gui.recipebook.toggleRecipes.smokable	Showing Smokable	燻製可能なアイテムを表示中 (kunsei kanōna aitemu o hyōjichū)
+gui.report_to_server	Report To Server	サーバーに報告 (sābā ni hōkoku)
+gui.socialInteractions.blocking_hint	Manage with Microsoft account	Microsoftアカウントで管理する (microsoft akaunto de kanri suru)
+gui.socialInteractions.empty_blocked	No blocked players in chat	チャットをブロックしたプレイヤーはいません (chatto o burokku shita pureiyā wa imasen)
+gui.socialInteractions.empty_hidden	No players hidden in chat	チャットを非表示にしているプレイヤーはいません (chatto o hihyōji ni shite iru pureiyā wa imasen)
+gui.socialInteractions.hidden_in_chat	Chat messages from %s will be hidden	%sからのチャットは表示されません (kara no chatto wa hyōji saremasen)
+gui.socialInteractions.hide	Hide in Chat	チャットを非表示 (chatto o hihyōji)
+gui.socialInteractions.narration.hide	Hide messages from %s	%sからのメッセージを非表示 (kara no messēji o hihyōji)
+gui.socialInteractions.narration.report	Report player %s	プレイヤー (pureiyā)%sを通報する (o tsūhō suru)
+gui.socialInteractions.narration.show	Show messages from %s	%sからのメッセージを表示 (kara no messēji o hyōji)
+gui.socialInteractions.report	Report	通報 (tsūhō)
+gui.socialInteractions.search_empty	Couldn't find any players with that name	その名前のプレイヤーを見つけることができませんでした (sono namae no pureiyā o mitsukeru koto ga dekimasendeshita)
+gui.socialInteractions.search_hint	Search...	検索 (kensaku)…
+gui.socialInteractions.server_label.multiple	%s - %s players	%s - %s人のプレイヤー (hito no pureiyā)
+gui.socialInteractions.server_label.single	%s - %s player	%s - %s人のプレイヤー (hito no pureiyā)
+gui.socialInteractions.show	Show in Chat	チャットを表示 (chatto o hyōji)
+gui.socialInteractions.shown_in_chat	Chat messages from %s will be shown	%sからのチャットは表示されます (kara no chatto wa hyōji saremasu)
+gui.socialInteractions.status_blocked	Blocked	ブロック中 (burokkuchū)
+gui.socialInteractions.status_blocked_offline	Blocked - Offline	ブロック中 - オフライン (burokkuchū - ofurain)
+gui.socialInteractions.status_hidden	Hidden	非表示中 (hihyōjichū)
+gui.socialInteractions.status_hidden_offline	Hidden - Offline	非表示中 - オフライン (hihyōjichū - ofurain)
+gui.socialInteractions.status_offline	Offline	オフライン (ofurain)
+gui.socialInteractions.tab_all	All	すべて (subete)
+gui.socialInteractions.tab_blocked	Blocked	ブロック中 (burokkuchū)
+gui.socialInteractions.tab_hidden	Hidden	非表示中 (hihyōjichū)
+gui.socialInteractions.title	Social Interactions	社交設定 (shakō settei)
+gui.socialInteractions.tooltip.hide	Hide messages	メッセージを非表示 (messēji o hihyōji)
+gui.socialInteractions.tooltip.report	Report player	プレイヤーを通報 (pureiyā o tsūhō)
+gui.socialInteractions.tooltip.report.disabled	The reporting service is unavailable	通報サービスを利用できません (tsūhō sābisu o riyō dekimasen)。
+gui.socialInteractions.tooltip.report.no_messages	No reportable messages from player %s	プレイヤー (pureiyā)%sには通報可能なメッセージがありませんでした (ni wa tsūhō kanōna messēji ga arimasendeshita)
+gui.socialInteractions.tooltip.report.not_reportable	This player can't be reported, because their chat messages can't be verified on this server	このサーバーではチャットメッセージを確認できないため、このプレイヤーを通報できません (kono sābā de wa chatto messēji o kakunin dekinai tame, kono pureiyā o tsūhō dekimasen)
+gui.socialInteractions.tooltip.show	Show messages	メッセージを表示 (messēji o hyōji)
+gui.stats	Statistics	統計 (tōkei)
+gui.togglable_slot	Click to disable slot	クリックでスロットを無効化 (kurikku de surotto o mukōka)
+gui.toMenu	Back to Server List	サーバーリストへ戻る (sābā risuto e modoru)
+gui.toRealms	Back to Realms List	Realms一覧へ戻る (realms ichiran e modoru)
+gui.toTitle	Back to Title Screen	タイトル画面へ戻る (taitoru gamen e modoru)
+gui.toWorld	Back to World List	ワールド一覧へ戻る (wārudo ichiran e modoru)
+gui.up	Up	上 (ue)
+gui.yes	Yes	はい (hai)

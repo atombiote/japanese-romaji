@@ -1,0 +1,4 @@
+Translation key	English	Japanese with romaji
+inventory.binSlot	Destroy Item	アイテムを削除 (aitemu o sakujo)
+inventory.hotbarInfo	Save hotbar with %1$s+%2$s	%1$s+%2$sでホットバーを保存します (de hottobā o hozon shimasu)
+inventory.hotbarSaved	Item hotbar saved (restore with %1$s+%2$s)	アイテムホットバーを保存しました (aitemuhottobā o hozon shimashita)（%1$s+%2$sで復元 (de fukugen)）

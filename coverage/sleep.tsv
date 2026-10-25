@@ -1,0 +1,4 @@
+Translation key	English	Japanese with romaji
+sleep.not_possible	No amount of rest can pass this night	就寝しても夜を過ごすことはできません (shūshin shite mo yoru o sugosu koto wa dekimasen)
+sleep.players_sleeping	%s/%s players sleeping	%s／%s人のプレイヤーが就寝中 (hito no pureiyā ga shūshinchū)
+sleep.skipping_night	Sleeping through this night	夜が過ごされます (yoru ga sugosaremasu)

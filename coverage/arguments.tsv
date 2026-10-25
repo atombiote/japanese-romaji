@@ -1,0 +1,22 @@
+Translation key	English	Japanese with romaji
+arguments.block.tag.unknown	Unknown block tag '%s'	「%s」は不明なブロックタグです (wa fumeina burokkutagudesu)
+arguments.function.tag.unknown	Unknown function tag '%s'	「%s」は不明な関数タグです (wa fumeina kansū tagudesu)
+arguments.function.unknown	Unknown function %s	「%s」は不明な関数です (wa fumeina kansūdesu)
+arguments.item.component.expected	Expected item component	アイテムコンポーネントが必要です (aitemu konpōnento ga hitsuyōdesu)
+arguments.item.component.malformed	Malformed '%s' component: '%s'	不正な (fuseina)「%s」のコンポーネントの形式です (no konpōnento no keishikidesu)：%s
+arguments.item.component.repeated	Item component '%s' was repeated, but only one value can be specified	アイテムコンポーネント (aitemu konpōnento)「%s」は一つしか指定できませんが、複数回指定されています (wa hitotsu shika shitei dekimasen ga, fukusūkai shitei sarete imasu)
+arguments.item.component.unknown	Unknown item component '%s'	「%s」は不明なアイテムコンポーネントです (wa fumeina aitemu konpōnentodesu)
+arguments.item.malformed	Malformed item: '%s'	不正なアイテムの形式です (fuseina aitemu no keishikidesu)：%s
+arguments.item.overstacked	%s can only stack up to %s	%sは (wa)%sまでしかスタックができません (made shika sutakku ga dekimasen)
+arguments.item.predicate.malformed	Malformed '%s' predicate: '%s'	不正な (fuseina)「%s」の条件の形式です (no jōken no keishikidesu)：%s
+arguments.item.predicate.unknown	Unknown item predicate '%s'	「%s」は不明なアイテム条件です (wa fumeina aitemu jōkendesu)
+arguments.item.tag.unknown	Unknown item tag '%s'	「%s」は不明なアイテムタグです (wa fumeina aitemutagudesu)
+arguments.nbtpath.node.invalid	Invalid NBT path element	無効なNBTパスの要素です (mukōna nbt pasu no yōsodesu)
+arguments.nbtpath.nothing_found	Found no elements matching %s	%sに一致する要素がありません (ni itchi suru yōso ga arimasen)
+arguments.nbtpath.too_deep	Resulting NBT too deeply nested	NBTの入れ子構造の階層が深すぎます (nbt no ireko kōzō no kaisō ga fuka sugimasu)
+arguments.nbtpath.too_large	Resulting NBT too large	NBTが長すぎます (nbt ga naga sugimasu)
+arguments.objective.notFound	Unknown scoreboard objective '%s'	「%s」は不明なスコアボードのオブジェクトです (wa fumeina sukoabōdo no obujekutodesu)
+arguments.objective.readonly	Scoreboard objective '%s' is read-only	スコアボード (sukoabōdo)%sは読み取り専用です (wa yomitorisen'yōdesu)
+arguments.operation.div0	Cannot divide by zero	ゼロ除算はできません (zero jozan wa dekimasen)
+arguments.operation.invalid	Invalid operation	無効な操作です (mukōna sōsadesu)
+arguments.swizzle.invalid	Invalid swizzle, expected combination of 'x', 'y' and 'z'	「x」「y」「z」の組み合わせが必要です (no kumiawase ga hitsuyōdesu)

@@ -1,0 +1,21 @@
+Translation key	English	Japanese with romaji
+pack.available.title	Available	利用可能 (riyō kanō)
+pack.copyFailure	Failed to copy packs	パックのコピーに失敗しました (pakku no kopī ni shippai shimashita)
+pack.dropConfirm	Do you want to add the following packs to Minecraft?	次のパックをMinecraftに追加しますか (tsugi no pakku o minecraft ni tsuika shimasu ka)？
+pack.dropInfo	Drag and drop files into this window to add packs	このウィンドウにファイルをドラッグアンドドロップするとパックを追加できます (kono windō ni fairu o doraggu ando doroppu suru to pakku o tsuika dekimasu)
+pack.dropRejected.message	The following entries were not valid packs and were not copied:\n %s	以下の項目は有効なパックではないため、コピーされませんでした (ika no kōmoku wa yūkōna pakku de wa nai tame, kopī saremasendeshita)\n %s
+pack.dropRejected.title	Non-pack entries	パックでない項目 (pakkude nai kōmoku)
+pack.folderInfo	(Place pack files here)	（パックファイルをここへ (pakku fairu o koko e)）
+pack.incompatible	Incompatible	非対応 (hitaiō)
+pack.incompatible.confirm.new	This pack was made for a newer version of Minecraft and may not work correctly.	このパックは新しいバージョンのMinecraft向けに作られたもので、正しく動作しない可能性があります (kono pakku wa atarashii bājon no minecraftmuke ni tsukurareta monode, masashiku dōsa shinai kanōsei ga arimasu)。
+pack.incompatible.confirm.old	This pack was made for an older version of Minecraft and may no longer work correctly.	このパックは古いバージョンのMinecraft向けに作られたため、正しく動作しない可能性があります (kono pakku wa furui bājon no minecraftmuke ni tsukurareta tame, masashiku dōsa shinai kanōsei ga arimasu)。
+pack.incompatible.confirm.title	Are you sure you want to load this pack?	このパックを読み込みますか (kono pakku o yomikomimasu ka)？
+pack.incompatible.new	(Made for a newer version of Minecraft)	（新バージョン向けに制作 (shin bājonmuke ni seisaku)）
+pack.incompatible.old	(Made for an older version of Minecraft)	（旧バージョン向けに制作 (kyū bājonmuke ni seisaku)）
+pack.openFolder	Open Pack Folder	パックフォルダーを開く (pakku forudā o hiraku)
+pack.selected.title	Selected	選択中 (sentakuchū)
+pack.source.builtin	built-in	ビルトイン (birutoin)
+pack.source.feature	feature	要素 (yōso)
+pack.source.local	local	ローカル (rōkaru)
+pack.source.server	server	サーバー (sābā)
+pack.source.world	world	ワールド (wārudo)

@@ -1,0 +1,10 @@
+Translation key	English	Japanese with romaji
+lanServer.otherPlayers	Settings for Other Players	他のプレイヤーのための設定 (hoka no pureiyā no tame no settei)
+lanServer.port	Port Number	ポート番号 (pōto bangō)
+lanServer.port.invalid	Not a valid port.\nLeave the edit box empty or enter a number between 1024 and 65535.	無効なポートです (mukōna pōtodesu)。\n編集ボックスを空にするか、1024から65535までの数値を入力してください (henshū bokkusu o sora ni suru ka, 1024 kara 65535 made no sūchi o nyūryoku shite kudasai)。
+lanServer.port.invalid.new	Not a valid port.\nLeave the edit box empty or enter a number between %s and %s.	このポートは利用できません (kono pōto wa riyō dekimasen)。\n編集ボックスを空にするか (henshū bokkusu o sora ni suru ka)、%1$sから (kara)%2$sまでの数値を入力してください (made no sūchi o nyūryoku shite kudasai)。
+lanServer.port.unavailable	Port not available.\nLeave the edit box empty or enter a different number between 1024 and 65535.	このポートは利用できません (kono pōto wa riyō dekimasen)。\n編集ボックスを空にするか、1024から65535までの別の数値を入力してください (henshū bokkusu o sora ni suru ka, 1024 kara 65535 made no betsu no sūchi o nyūryoku shite kudasai)。
+lanServer.port.unavailable.new	Port not available.\nLeave the edit box empty or enter a different number between %s and %s.	このポートは利用できません (kono pōto wa riyō dekimasen)。\n編集ボックスを空にするか (henshū bokkusu o sora ni suru ka)、%1$sから (kara)%2$sまでの別の数値を入力してください (made no betsu no sūchi o nyūryoku shite kudasai)。
+lanServer.scanning	Scanning for games on your local network	LAN内のゲームを検索中 (lannai no gēmu o kensakuchū)
+lanServer.start	Start LAN World	LANワールドを公開 (lan wārudo o kōkai)
+lanServer.title	LAN World	LANワールド (lan wārudo)

@@ -1,0 +1,15 @@
+Translation key	English	Japanese with romaji
+jigsaw_block.final_state	Turns into:	置換先 (chikan saki)：
+jigsaw_block.generate	Generate	生成 (seisei)
+jigsaw_block.joint_label	Joint Type:	接続タイプ (setsuzoku taipu)：
+jigsaw_block.joint.aligned	Aligned	整列 (seiretsu)
+jigsaw_block.joint.rollable	Rollable	回転可能 (kaiten kanō)
+jigsaw_block.keep_jigsaws	Keep Jigsaws	ジグソーを維持 (jigusō o iji)
+jigsaw_block.levels	Levels: %s	レベル (reberu)：%s
+jigsaw_block.name	Name:	名前 (namae)：
+jigsaw_block.placement_priority	Placement Priority:	設置優先度 (setchi yūsendo)：
+jigsaw_block.placement_priority.tooltip	When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.\n\nPieces will be processed in descending priority with insertion order breaking ties.	この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です (kono atai wa, ōkina kōzōbutsu no seisei ni okeru kono jigusō burokku ni setsuzoku suru pīsu no shori no yūsendodesu)。\n\n構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです (kōzōbutsu no pīsu wa kono atai ga ōkii jun ni shori saremasu. onaji atai no pīsu no shori jun wa randamudesu)。
+jigsaw_block.pool	Target Pool:	構成要素プール (kōseiyōso pūru)：
+jigsaw_block.selection_priority	Selection Priority:	選択優先度 (sentaku yūsendo)：
+jigsaw_block.selection_priority.tooltip	When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.\n\nJigsaws will be processed in descending priority with random ordering breaking ties.	この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です (kono atai wa, hitotsu mae no pīsu no setsuzoku aite no sentaku ji ni okeru kono jigusō burokku no setsuzoku shikō no yūsendodesu)。\n\n構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです (kōzōbutsu no pīsu wa kono atai ga ōkii jun ni shori saremasu. onaji atai no pīsu no shori jun wa randamudesu)。
+jigsaw_block.target	Target Name:	対象の名前 (taishō no namae)：

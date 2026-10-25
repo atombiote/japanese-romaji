@@ -1,0 +1,3 @@
+Translation key	English	Japanese with romaji
+slot.only_single_allowed	Only single slots allowed, got '%s'	スロットは一つしか指定できませんが (surotto wa hitotsu shika shitei dekimasen ga)、「%s」が渡されました (ga watasaremashita)
+slot.unknown	Unknown slot '%s'	「%s」は不明なスロットです (wa fumeina surottodesu)

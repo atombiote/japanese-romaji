@@ -1,0 +1,3 @@
+Translation key	English	Japanese with romaji
+screenshot.failure	Couldn't save screenshot: %s	スクリーンショットを保存できませんでした (sukurīnshotto o hozon dekimasendeshita)：%s
+screenshot.success	Saved screenshot as %s	スクリーンショットを (sukurīnshotto o)%sとして保存しました (to shite hozon shimashita)

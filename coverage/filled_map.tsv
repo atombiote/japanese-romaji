@@ -1,0 +1,16 @@
+Translation key	English	Japanese with romaji
+filled_map.buried_treasure	Buried Treasure Map	宝の地図 (takara no chizu)
+filled_map.explorer_jungle	Jungle Explorer Map	ジャングル探検家の地図 (janguru tankenka no chizu)
+filled_map.explorer_swamp	Swamp Explorer Map	沼地探検家の地図 (numachi tankenka no chizu)
+filled_map.level	(Level %s/%s)	（レベル (reberu)%s／%s）
+filled_map.locked	Locked	ロックされています (rokku sarete imasu)
+filled_map.mansion	Woodland Explorer Map	森林探検家の地図 (shinrin tankenka no chizu)
+filled_map.monument	Ocean Explorer Map	海洋探検家の地図 (kaiyō tankenka no chizu)
+filled_map.scale	Scaling at 1:%s	縮尺1 (shukushaku 1)：%s
+filled_map.trial_chambers	Trial Explorer Map	試練の間の地図 (shiren no aida no chizu)
+filled_map.unknown	Unknown Map	不明な地図 (fumeina chizu)
+filled_map.village_desert	Desert Village Map	砂漠の村の地図 (sabaku no mura no chizu)
+filled_map.village_plains	Plains Village Map	平原の村の地図 (heigen no mura no chizu)
+filled_map.village_savanna	Savanna Village Map	サバンナの村の地図 (sabanna no mura no chizu)
+filled_map.village_snowy	Snowy Village Map	雪原の村の地図 (setsugen no mura no chizu)
+filled_map.village_taiga	Taiga Village Map	タイガの村の地図 (taiga no mura no chizu)

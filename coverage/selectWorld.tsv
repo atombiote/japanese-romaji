@@ -1,0 +1,123 @@
+Translation key	English	Japanese with romaji
+selectWorld.access_failure	Failed to access world	ワールドへのアクセスに失敗しました (wārudo e no akusesu ni shippai shimashita)
+selectWorld.allowCommands	Allow Cheats	チートの許可 (chīto no kyoka)
+selectWorld.allowCommands.info	Commands like /gamemode, /experience	/gamemode、/experience等のコマンド (gamemode, / experiencetō no komando)
+selectWorld.allowCommands.new	Allow Commands	コマンドの許可 (komando no kyoka)
+selectWorld.backupEraseCache	Erase Cached Data	キャッシュデータを消去する (kyasshu dēta o shōkyo suru)
+selectWorld.backupJoinConfirmButton	Create Backup and Load	バックアップを作成して読み込む (bakkuappu o sakusei shite yomikomu)
+selectWorld.backupJoinSkipButton	I know what I'm doing!	危険性を理解したうえで読み込む (kikensei o rikai shita ue de yomikomu)
+selectWorld.backupQuestion.customized	Customized worlds are no longer supported	カスタマイズワールドはサポートされていません (kasutamaizu wārudo wa sapōto sarete imasen)
+selectWorld.backupQuestion.downgrade	Downgrading a world is not supported	ワールドのダウングレードはサポートされていません (wārudo no daun gurēdo wa sapōto sarete imasen)
+selectWorld.backupQuestion.experimental	Worlds using Experimental Settings are not supported	実験的な設定を使用するワールドはサポートされていません (jikkentekina settei o shiyō suru wārudo wa sapōto sarete imasen)
+selectWorld.backupQuestion.snapshot	Do you really want to load this world?	このワールドを読み込んでもよろしいですか (kono wārudo o yomikonde mo yoroshiidesu ka)？
+selectWorld.backupWarning.customized	Unfortunately, we do not support customized worlds in this version of Minecraft. We can still load this world and keep everything the way it was, but any newly generated terrain will no longer be customized. We're sorry for the inconvenience!	残念ながら、現在のバージョンはカスタマイズワールドをサポートしていません。このワールドを読み込むことはできますが、新しく生成される地形はカスタマイズされません。ご不便をおかけし申し訳ございません (zannen nagara, genzai no bājon wa kasutamaizu wārudo o sapōto shite imasen. kono wārudo o yomikomu koto wa dekimasu ga, atarashiku seisei sareru chikei wa kasutamaizu saremasen. go fuben o o kake shi mōshiwake gozaimasen)。
+selectWorld.backupWarning.downgrade	This world was last played in version %s; you are on version %s. Downgrading a world could cause corruption - we cannot guarantee that it will load or work. If you still want to continue, please make a backup.	このワールドを最後にプレイしたバージョンは (kono wārudo o saigo ni purei shita bājon wa)%sです。現在のバージョンは (desu. genzai no bājon wa)%sのためダウングレードする必要があります。ダウングレードするとワールドの破損や正常な読み込みがされない恐れがあり、動作の保証ができません。ダウングレードする場合は必ずバックアップを取ってから行ってください (no tame daun gurēdo suru hitsuyō ga arimasu. daun gurēdo suru to wārudo no hason ya seijōna yomikomi ga sarenai osore ga ari, dōsa no hoshō ga dekimasen. daun gurēdo suru bāi wa kanarazu bakkuappu o totte kara itte kudasai)！
+selectWorld.backupWarning.experimental	This world uses experimental settings that could stop working at any time. We cannot guarantee it will load or work. Here be dragons!	このワールドには今後動作しなくなる可能性のある実験的な設定が使用されています。読み込みや動作の保証はできません。ご注意ください (kono wārudo ni wa kongo dōsa shinaku naru kanōsei no aru jikkentekina settei ga shiyō sarete imasu. yomikomi ya dōsa no hoshō wa dekimasen. go chūi kudasai)！
+selectWorld.backupWarning.snapshot	This world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions.	このワールドが最後にプレイされたのはバージョン (kono wārudo ga saigo ni purei sareta no wa bājon)%sです。現在のバージョン (desu. genzai no bājon)%sでプレイするとデータが破損する恐れがあるため、バックアップを作成することをお勧めします (de purei suru to dēta ga hason suru osore ga aru tame, bakkuappu o sakusei suru koto o o susume shimasu)。
+selectWorld.bonusItems	Bonus Chest	ボーナスチェスト (bōnasu chesuto)
+selectWorld.cheats	Cheats	チート (chīto)
+selectWorld.commands	Commands	コマンド (komando)
+selectWorld.conversion	Must be converted!	ワールドデータを変換する必要があります (wārudo dēta o henkan suru hitsuyō ga arimasu)
+selectWorld.conversion.tooltip	This world must be opened in an older version (like 1.6.4) to be safely converted	このワールドを安全に変換するには、一度古いバージョン (kono wārudo o anzenni henkan suru ni wa, ichido furui bājon)（1.6.4など (1. 6. 4 nado)）で開く必要があります (de hiraku hitsuyō ga arimasu)。
+selectWorld.create	Create New World	ワールド新規作成 (wārudo shinki sakusei)
+selectWorld.customizeType	Customize	カスタマイズ (kasutamaizu)
+selectWorld.data_read	Reading world data...	ワールドデータを読み込み中 (wārudo dēta o yomikomichū)…
+selectWorld.dataPacks	Data Packs	データパック (dēta pakku)
+selectWorld.delete	Delete	削除 (sakujo)
+selectWorld.delete_failure	Failed to delete world	ワールドの削除に失敗しました (wārudo no sakujo ni shippai shimashita)
+selectWorld.deleteButton	Delete	削除 (sakujo)
+selectWorld.deleteQuestion	Are you sure you want to delete this world?	このワールドを削除しますか (kono wārudo o sakujo shimasu ka)？
+selectWorld.deleteWarning	'%s' will be lost forever! (A long time!)	「%s」は完全に削除され、復元ができなくなります (wa kanzenni sakujo sare, fukugen ga dekinaku narimasu)。
+selectWorld.edit	Edit	編集 (henshū)
+selectWorld.edit.backup	Make Backup	バックアップを作成する (bakkuappu o sakusei suru)
+selectWorld.edit.backupCreated	Backed up: %s	バックアップ完了 (bakkuappu kanryō)：%s
+selectWorld.edit.backupFailed	Backup failed	バックアップに失敗しました (bakkuappu ni shippai shimashita)
+selectWorld.edit.backupFolder	Open Backups Folder	バックアップフォルダーを開く (bakkuappu forudā o hiraku)
+selectWorld.edit.backupSize	size: %s MB	サイズ (saizu)：%s MB
+selectWorld.edit.export_worldgen_settings	Export World Generation Settings	ワールド生成設定を書き出す (wārudo seisei settei o kakidasu)
+selectWorld.edit.export_worldgen_settings.failure	Export failed	書き出しに失敗しました (kakidashi ni shippai shimashita)
+selectWorld.edit.export_worldgen_settings.success	Exported	書き出し完了 (kakidashi kanryō)
+selectWorld.edit.openFolder	Open World Folder	ワールドフォルダーを開く (wārudo forudā o hiraku)
+selectWorld.edit.optimize	Optimize World	ワールドを最適化 (wārudo o saitekika)
+selectWorld.edit.resetIcon	Reset Icon	アイコンをリセット (aikon o risetto)
+selectWorld.edit.save	Save	保存 (hozon)
+selectWorld.edit.title	Edit World	ワールドを編集 (wārudo o henshū)
+selectWorld.enterName	World Name	ワールド名 (wārudo mei)
+selectWorld.enterSeed	Seed for the world generator	ワールド生成のシード値 (wārudo seisei no shīdochi)
+selectWorld.experimental	Experimental	実験的 (jikkenteki)
+selectWorld.experimental.details	Details	詳細を確認 (shōsai o kakunin)
+selectWorld.experimental.details.entry	Required experimental features: %s	要求される実験的要素 (yōkyū sareru jikkenteki yōso)：%s
+selectWorld.experimental.details.title	Experimental Feature Requirements	要求される実験的要素 (yōkyū sareru jikkenteki yōso)
+selectWorld.experimental.message	Be careful!\nThis configuration requires features that are still under development. Your world might crash, break, or not work with future updates.	注意 (chūi)！\nこの設定はまだ開発中の機能を必要とします。ワールドは今後のアップデートによりクラッシュや破損、動作しなくなるなどの可能性があります (kono settei wa mada kaihatsuchū no kinō o hitsuyō to shimasu. wārudo wa kongo no appudēto ni yori kurasshu ya hason, dōsa shinaku naru nado no kanōsei ga arimasu)。
+selectWorld.experimental.title	Experimental Features Warning	実験的要素に関する警告 (jikkenteki yōso ni kansuru keikoku)
+selectWorld.experiments	Experiments	実験的機能 (jikkenteki kinō)
+selectWorld.experiments.info	Experiments are potential new features. Be careful as things might break. Experiments can't be turned off after world creation.	実験的機能には開発中の新要素が含まれます。破損の可能性を了解の上でご使用ください。実験的機能は、ワールドを作成した後から無効にすることはできません (jikkenteki kinō ni wa kaihatsuchū no shin yōso ga fukumaremasu. hason no kanōsei o ryōkai no ue de go shiyō kudasai. jikkenteki kinō wa, wārudo o sakusei shita ato kara mukōni suru koto wa dekimasen)。
+selectWorld.futureworld.error.text	Something went wrong while trying to load a world from a future version. This was a risky operation to begin with; sorry it didn't work.	将来バージョンのワールドの読み込みに失敗しました。リスクのある操作でしたが、動作せず申し訳ありません (shōrai bājon no wārudo no yomikomi ni shippai shimashita. risuku no aru sōsadeshita ga, dōsa sezu mōshiwake arimasen)。
+selectWorld.futureworld.error.title	An error occurred!	エラーが発生しました (erā ga hassei shimashita)！
+selectWorld.gameMode	Game Mode	ゲームモード (gēmu mōdo)
+selectWorld.gameMode.adventure	Adventure	アドベンチャー (adobenchā)
+selectWorld.gameMode.adventure.info	Same as Survival Mode, but blocks can't be added or removed.	基本的にサバイバルモードと同じですが、ブロックの設置や破壊ができません (kihontekini sabaibaru mōdo to onajidesu ga, burokku no setchi ya hakai ga dekimasen)。
+selectWorld.gameMode.adventure.line1	Same as Survival Mode, but blocks can't	サバイバルと同じですが、ブロックを (sabaibaru to onajidesu ga, burokku o)
+selectWorld.gameMode.adventure.line2	be added or removed	置いたり破壊することはできません (oi tari hakai suru koto wa dekimasen)
+selectWorld.gameMode.creative	Creative	クリエイティブ (kurieitibu)
+selectWorld.gameMode.creative.info	Create, build, and explore without limits. You can fly, have endless materials, and can't be hurt by monsters.	制限なしに建築や創造、冒険をしましょう。飛行が可能で、アイテムは無制限に使用でき、モンスターからのダメージも受けません (seigen nashi ni kenchiku ya sōzō, bōken o shimashou. hikō ga kanōde, aitemu wa museigen ni shiyō deki, monsutā kara no damēji mo ukemasen)。
+selectWorld.gameMode.creative.line1	Unlimited resources, free flying and	アイテムが無制限、飛行可能で (aitemu ga museigen, hikō kanōde)、
+selectWorld.gameMode.creative.line2	destroy blocks instantly	ブロックを瞬時に破壊できる (burokku o shunji ni hakai dekiru)
+selectWorld.gameMode.hardcore	Hardcore	ハードコア (hādokoa)
+selectWorld.gameMode.hardcore.info	Survival Mode locked to 'Hard' difficulty. You can't respawn if you die.	難易度が (nan'ido ga)「ハード (hādo)」に固定されたサバイバルモードです。一度でも死亡するとリスポーンすることはできません (ni kotei sareta sabaibaru mōdodesu. ichido de mo shibō suru to risupōn suru koto wa dekimasen)。
+selectWorld.gameMode.hardcore.line1	Same as Survival Mode, locked at hardest	サバイバルモードと同じですが、最高難易度に固定 (sabaibaru mōdo to onajidesu ga, saikō nan'ido ni kotei)
+selectWorld.gameMode.hardcore.line2	difficulty, and one life only	されていて、命はたったひとつだけ (sarete ite, inochi wa tatta hitotsu dake)
+selectWorld.gameMode.spectator	Spectator	スペクテイター (supekuteitā)
+selectWorld.gameMode.spectator.info	You can look but don't touch.	鑑賞可能、干渉不可 (kanshō kanō, kanshō fuka)。
+selectWorld.gameMode.spectator.line1	You can look but don't touch	鑑賞可能、干渉不可 (kanshō kanō, kanshō fuka)
+selectWorld.gameMode.survival	Survival	サバイバル (sabaibaru)
+selectWorld.gameMode.survival.info	Explore a mysterious world where you build, collect, craft, and fight monsters.	神秘的なワールドを冒険し、建築、採集、クラフト、モンスターとの戦闘を体験しましょう (shinpitekina wārudo o bōken shi, kenchiku, saishū, kurafuto, monsutā to no sentō o taiken shimashou)。
+selectWorld.gameMode.survival.line1	Search for resources, craft, gain	資材を探し、道具を作り、レベルを (shizai o sagashi, dōgu o tsukuri, reberu o)
+selectWorld.gameMode.survival.line2	levels, health and hunger	貯める必要があり、体力、空腹の要素がある (tameru hitsuyō ga ari, tairyoku, kūfuku no yōso ga aru)
+selectWorld.gameRules	Game Rules	ゲームルール (gēmu rūru)
+selectWorld.import_worldgen_settings	Import Settings	設定を読み込む (settei o yomikomu)
+selectWorld.import_worldgen_settings.failure	Error importing settings	設定の読み込み中にエラーが発生しました (settei no yomikomichū ni erā ga hassei shimashita)
+selectWorld.import_worldgen_settings.select_file	Select settings file (.json)	設定ファイルを選択 (settei fairu o sentaku)（.json）
+selectWorld.incompatible_series	Created by an incompatible version	互換性のないバージョンで作成されています (gokansei no nai bājon de sakusei sarete imasu)
+selectWorld.incompatible.description	This world cannot be opened in this version.\nIt was last played in version %s.	このワールドはこのバージョンでは開けません (kono wārudo wa kono bājon de wa akemasen)。\nこのワールドを最後にプレイしたバージョンは (kono wārudo o saigo ni purei shita bājon wa)%sです (desu)。
+selectWorld.incompatible.info	Incompatible version: %s	互換性のないバージョン (gokansei no nai bājon)：%s
+selectWorld.incompatible.title	Incompatible version	互換性のないバージョン (gokansei no nai bājon)
+selectWorld.incompatible.tooltip	This world cannot be opened because it was created by an incompatible version.	このワールドは互換性のないバージョンで作成されているため開くことができません (kono wārudo wa gokansei no nai bājon de sakusei sarete iru tame hiraku koto ga dekimasen)。
+selectWorld.load_folder_access	Unable to read or access folder where game worlds are saved!	ワールドのフォルダーの読み込みまたは書き込みができないため、セーブできません (wārudo no forudā no yomikomi mata wa kakikomi ga dekinai tame, sēbu dekimasen)！
+selectWorld.loading_list	Loading World List	ワールド一覧を読み込み中 (wārudo ichiran o yomikomichū)
+selectWorld.locked	Locked by another running instance of Minecraft	他のウィンドウでこのワールドが開かれているため、ロックされています (hoka no windō de kono wārudo ga hirakarete iru tame, rokku sarete imasu)。
+selectWorld.mapFeatures	Generate Structures	構造物の生成 (kōzōbutsu no seisei)
+selectWorld.mapFeatures.info	Villages, Shipwrecks, etc.	村、難破船など (mura, nanpasen nado)
+selectWorld.mapType	World Type	ワールドタイプ (wārudo taipu)
+selectWorld.mapType.normal	Normal	ノーマル (nōmaru)
+selectWorld.moreWorldOptions	More World Options...	その他のワールド設定 (sono ta no wārudo settei)…
+selectWorld.newWorld	New World	新規ワールド (shinki wārudo)
+selectWorld.recreate	Re-Create	再生成 (sai seisei)
+selectWorld.recreate.customized.text	Customized worlds are no longer supported in this version of Minecraft. We can try to recreate it with the same seed and properties, but any terrain customizations will be lost. We're sorry for the inconvenience!	Minecraftの現在のバージョンはカスタマイズワールドをサポートしていません。このワールドと同じシード値とプロパティで再生成できますが、地形のカスタマイズは失われます。ご不便をおかけし申し訳ございません (minecraft no genzai no bājon wa kasutamaizu wārudo o sapōto shite imasen. kono wārudo to onaji shīdochi to puropati de sai seisei dekimasu ga, chikei no kasutamaizu wa ushinawaremasu. go fuben o o kake shi mōshiwake gozaimasen)。
+selectWorld.recreate.customized.title	Customized worlds are no longer supported	カスタマイズワールドはサポートされていません (kasutamaizu wārudo wa sapōto sarete imasen)
+selectWorld.recreate.error.text	Something went wrong while trying to recreate a world.	ワールドの再生成に失敗しました (wārudo no sai seisei ni shippai shimashita)。
+selectWorld.recreate.error.title	An error occurred!	エラーが発生しました (erā ga hassei shimashita)！
+selectWorld.resource_load	Preparing Resources...	リソースを準備中 (risōsu o junbichū)…
+selectWorld.resultFolder	Will be saved in:	保存先 (hozonsaki)：
+selectWorld.search	search for worlds	ワールドの検索 (wārudo no kensaku)
+selectWorld.seedInfo	Leave blank for a random seed	空白でランダムシード値 (kūhakude randamu shīdochi)
+selectWorld.select	Play Selected World	選択したワールドで遊ぶ (sentaku shita wārudo de asobu)
+selectWorld.targetFolder	Save folder: %s	保存先 (hozonsaki)：%s
+selectWorld.title	Select World	ワールドを選択 (wārudo o sentaku)
+selectWorld.tooltip.fromNewerVersion1	World was saved in a newer version,	このワールドは、現在より新しいバージョンで保存されています (kono wārudo wa, genzai yori atarashii bājon de hozon sarete imasu)。
+selectWorld.tooltip.fromNewerVersion2	loading this world could cause problems!	古いバージョンでこのワールドを読み込むと、データが破損する可能性があります (furui bājon de kono wārudo o yomikomu to, dēta ga hason suru kanōsei ga arimasu)。
+selectWorld.tooltip.snapshot1	Don't forget to back up this world	このワールドを読み込む前に (kono wārudo o yomikomu mae ni)
+selectWorld.tooltip.snapshot2	before you load it in this snapshot.	バックアップを取ることを推奨します (bakkuappu o toru koto o suishō shimasu)。
+selectWorld.unable_to_load	Unable to load worlds	ワールドを読み込めません (wārudo o yomikomemasen)
+selectWorld.version	Version:	バージョン (bājon)：
+selectWorld.versionJoinButton	Load Anyway	構わず読み込む (kamawazu yomikomu)
+selectWorld.versionQuestion	Do you really want to load this world?	このワールドを読み込みますか (kono wārudo o yomikomimasu ka)？
+selectWorld.versionUnknown	unknown	不明 (fumei)
+selectWorld.versionWarning	This world was last played in version %s and loading it in this version could cause corruption!	このワールドが最後にプレイされたのはバージョン (kono wārudo ga saigo ni purei sareta no wa bājon)%sです。現在のバージョンでワールドを読み込むとデータが破損する可能性があります (desu. genzai no bājon de wārudo o yomikomu to dēta ga hason suru kanōsei ga arimasu)。
+selectWorld.warning.deprecated.question	Some features used are deprecated and will stop working in the future. Do you wish to proceed?	使用されている一部の要素は、将来廃止される可能性があります。続行しますか (shiyō sarete iru ichibu no yōso wa, shōrai haishi sareru kanōsei ga arimasu. zokkō shimasu ka)？
+selectWorld.warning.deprecated.title	Warning! These settings are using deprecated features	警告！これらの設定は将来廃止される可能性のある要素を使用しています (keikoku! korera no settei wa shōrai haishi sareru kanōsei no aru yōso o shiyō shite imasu)
+selectWorld.warning.experimental.question	These settings are experimental and could one day stop working. Do you wish to proceed?	これらの設定は実験的なものであり、いつか機能しなくなる可能性があります。続行しますか (korera no settei wa jikkentekina monode ari, itsu ka kinō shinaku naru kanōsei ga arimasu. zokkō shimasu ka)？
+selectWorld.warning.experimental.title	Warning! These settings are using experimental features	警告！これらの設定は実験的な機能を使用しています (keikoku! korera no settei wa jikkentekina kinō o shiyō shite imasu)。
+selectWorld.warning.lowDiskSpace.description	There is not much space left on your device.\nRunning out of disk space while in game can lead to your world being damaged.	お使いのデバイスに十分な空き容量がありません (o tsukai no debaisu ni jūbunna aki yōryō ga arimasen)。\nゲーム中にディスク容量を使い切ると、ワールドが破損するおそれがあります (gēmuchū ni disuku yōryō o tsukaikiru to, wārudo ga hason suru osore ga arimasu)。
+selectWorld.warning.lowDiskSpace.title	Warning! Low disk space!	警告！ディスクの空き容量が不足しています (keikoku! disuku no aki yōryō ga fusoku shite imasu)！
+selectWorld.world	World	ワールド (wārudo)
