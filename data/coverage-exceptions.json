@@ -1,0 +1,1227 @@
+{
+  "missing_japanese_keys": [
+    "addServer.hideAddress",
+    "advMode.allEntities",
+    "advMode.allPlayers",
+    "advMode.nearestPlayer",
+    "advMode.randomPlayer",
+    "advMode.self",
+    "commands.advancement.advancementNotFound",
+    "createWorld.customize.custom.baseSize",
+    "createWorld.customize.custom.biomeDepthOffset",
+    "createWorld.customize.custom.biomeDepthWeight",
+    "createWorld.customize.custom.biomeScaleOffset",
+    "createWorld.customize.custom.biomeScaleWeight",
+    "createWorld.customize.custom.biomeSize",
+    "createWorld.customize.custom.center",
+    "createWorld.customize.custom.confirm1",
+    "createWorld.customize.custom.confirm2",
+    "createWorld.customize.custom.confirmTitle",
+    "createWorld.customize.custom.coordinateScale",
+    "createWorld.customize.custom.count",
+    "createWorld.customize.custom.defaults",
+    "createWorld.customize.custom.depthNoiseScaleExponent",
+    "createWorld.customize.custom.depthNoiseScaleX",
+    "createWorld.customize.custom.depthNoiseScaleZ",
+    "createWorld.customize.custom.dungeonChance",
+    "createWorld.customize.custom.fixedBiome",
+    "createWorld.customize.custom.heightScale",
+    "createWorld.customize.custom.lavaLakeChance",
+    "createWorld.customize.custom.lowerLimitScale",
+    "createWorld.customize.custom.mainNoiseScaleX",
+    "createWorld.customize.custom.mainNoiseScaleY",
+    "createWorld.customize.custom.mainNoiseScaleZ",
+    "createWorld.customize.custom.maxHeight",
+    "createWorld.customize.custom.minHeight",
+    "createWorld.customize.custom.next",
+    "createWorld.customize.custom.page0",
+    "createWorld.customize.custom.page1",
+    "createWorld.customize.custom.page2",
+    "createWorld.customize.custom.page3",
+    "createWorld.customize.custom.preset.caveChaos",
+    "createWorld.customize.custom.preset.caveDelight",
+    "createWorld.customize.custom.preset.drought",
+    "createWorld.customize.custom.preset.goodLuck",
+    "createWorld.customize.custom.preset.isleLand",
+    "createWorld.customize.custom.preset.mountains",
+    "createWorld.customize.custom.preset.waterWorld",
+    "createWorld.customize.custom.presets",
+    "createWorld.customize.custom.presets.title",
+    "createWorld.customize.custom.prev",
+    "createWorld.customize.custom.randomize",
+    "createWorld.customize.custom.riverSize",
+    "createWorld.customize.custom.seaLevel",
+    "createWorld.customize.custom.size",
+    "createWorld.customize.custom.spread",
+    "createWorld.customize.custom.stretchY",
+    "createWorld.customize.custom.upperLimitScale",
+    "createWorld.customize.custom.useCaves",
+    "createWorld.customize.custom.useDungeons",
+    "createWorld.customize.custom.useLavaLakes",
+    "createWorld.customize.custom.useLavaOceans",
+    "createWorld.customize.custom.useMansions",
+    "createWorld.customize.custom.useMineShafts",
+    "createWorld.customize.custom.useMonuments",
+    "createWorld.customize.custom.useOceanRuins",
+    "createWorld.customize.custom.useRavines",
+    "createWorld.customize.custom.useStrongholds",
+    "createWorld.customize.custom.useTemples",
+    "createWorld.customize.custom.useVillages",
+    "createWorld.customize.custom.useWaterLakes",
+    "createWorld.customize.custom.waterLakeChance",
+    "disconnect.closed",
+    "disconnect.disconnected",
+    "disconnect.kicked",
+    "disconnect.loginFailed",
+    "disconnect.overflow",
+    "disconnect.quitting",
+    "menu.convertingLevel",
+    "menu.generatingLevel",
+    "menu.generatingTerrain",
+    "menu.loadingForcedChunks",
+    "menu.loadingLevel",
+    "menu.respawning",
+    "merchant.current_level",
+    "merchant.next_level",
+    "options.customizeTitle",
+    "potion.potency.0",
+    "realms.missing.module.error.text",
+    "selectServer.title",
+    "selectWorld.createDemo",
+    "selectWorld.gameMode.spectator.line2",
+    "stat.minecraft.junk_fished",
+    "stat.minecraft.ring_bell",
+    "stat.minecraft.treasure_fished",
+    "stats.tooltip.type.statistic"
+  ],
+  "unchanged_keys": [
+    {
+      "key": "advancements.progress",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "advancements.sad_label",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "advancements.story.root.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.equals.0",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.equals.1",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.equals.2",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.plus.0",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.plus.1",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.plus.2",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.take.0",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.take.1",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "attribute.modifier.take.2",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "block.minecraft.tnt",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.coordinates",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.square_brackets",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.type.admin",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.type.announcement",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.type.emote",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.type.team.sent",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.type.team.text",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "chat.type.text",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "commands.list.nameAndId",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "commands.scoreboard.players.list.entity.entry",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "container.enchant.clue",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "container.shulkerBox.unknownContents",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "createWorld.customize.flat.layer",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "debug.gamemodes.press_f4",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "disconnect.genericReason",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "effect.duration.infinite",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.1",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.2",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.3",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.4",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.5",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.6",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.7",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.8",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.9",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "enchantment.level.10",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "filled_map.id",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "flat_world_preset.unknown",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "gamerule.category.mobs",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "gui.abuseReport.reason.narration",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "gui.chatSelection.heading",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "gui.multiLineEditBox.character_limit",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "gui.ok",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "gui.recipebook.page",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.bundle.fullness",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_5.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_11.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_13.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_blocks.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_cat.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_chirp.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_creator.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_far.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_mall.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_mellohi.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_otherside.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_pigstep.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_precipice.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_relic.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_stal.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_strad.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_wait.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "item.minecraft.music_disc_ward.desc",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.5",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.11",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.13",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.blocks",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.cat",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.chirp",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.creator",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.far",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.mall",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.mellohi",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.otherside",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.pigstep",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.precipice",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.relic",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.stal",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.strad",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.wait",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "jukebox_song.minecraft.ward",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.apostrophe",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.backslash",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.backspace",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.caps.lock",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.comma",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.delete",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.end",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.enter",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.equal",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.escape",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f1",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f2",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f3",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f4",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f5",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f6",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f7",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f8",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f9",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f10",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f11",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f12",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f13",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f14",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f15",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f16",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f17",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f18",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f19",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f20",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f21",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f22",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f23",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f24",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.f25",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.grave.accent",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.home",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.insert",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.left.bracket",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.minus",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.num.lock",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.page.down",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.page.up",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.pause",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.period",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.print.screen",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.right.bracket",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.scroll.lock",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.semicolon",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.slash",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.space",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "key.keyboard.tab",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "language.code",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "language.name",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "language.region",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "loading.progress",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.configure.world.pvp",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.download.percent",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.errorMessage.realmsService.realmsError",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.gui.ok",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.upload.entry.cheats",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.upload.entry.commands",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.upload.entry.id",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mco.upload.percent",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "menu.online",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "merchant.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mirror.front_back",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mirror.left_right",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "mirror.none",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "multiplayer.player.list.hp",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "multiplayer.status.ping",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "multiplayer.status.player_count",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "multiplayer.status.unknown",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "optimizeWorld.progress.counter",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "optimizeWorld.progress.percentage",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "options.framerate",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "options.generic_value",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "options.percent_add_value",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "options.percent_value",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "pack.nameAndSource",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.dimensions",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.alban.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.alban.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.aztec.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.aztec.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.aztec2.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.aztec2.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.backyard.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.backyard.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.baroque.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.baroque.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.bomb.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.bomb.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.bouquet.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.bouquet.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.burning_skull.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.burning_skull.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.bust.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.bust.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.cavebird.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.cavebird.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.changing.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.changing.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.cotan.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.cotan.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.courbet.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.courbet.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.creebet.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.creebet.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.donkey_kong.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.donkey_kong.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.earth.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.earth.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.endboss.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.endboss.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.fern.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.fern.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.fighters.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.fighters.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.finding.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.finding.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.fire.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.fire.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.graham.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.graham.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.humble.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.humble.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.kebab.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.kebab.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.lowmist.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.lowmist.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.match.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.match.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.meditative.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.meditative.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.orb.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.orb.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.owlemons.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.owlemons.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.passage.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.passage.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pigscene.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pigscene.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.plant.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.plant.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pointer.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pointer.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pond.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pond.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pool.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.pool.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.prairie_ride.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.prairie_ride.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.sea.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.sea.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.skeleton.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.skeleton.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.skull_and_roses.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.skull_and_roses.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.stage.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.stage.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.sunflowers.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.sunflowers.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.sunset.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.sunset.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.tides.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.tides.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.unpacked.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.unpacked.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.void.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.void.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wanderer.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wanderer.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wasteland.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wasteland.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.water.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.water.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wind.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wind.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wither.author",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "painting.minecraft.wither.title",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.potency.1",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.potency.2",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.potency.3",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.potency.4",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.potency.5",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.withAmplifier",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "potion.withDuration",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "soundCategory.music",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "stat.mobsButton",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "stats.none",
+      "reason": "no Japanese script"
+    },
+    {
+      "key": "translation.test.args",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "translation.test.complex",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "translation.test.escape",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "translation.test.invalid",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "translation.test.invalid2",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "translation.test.none",
+      "reason": "technical metadata or translation test"
+    },
+    {
+      "key": "translation.test.world",
+      "reason": "technical metadata or translation test"
+    }
+  ]
+}
