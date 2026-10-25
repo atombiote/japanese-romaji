@@ -1,0 +1,1 @@
+Original artwork by atombiote. RomajiHeader.jpg is preserved unchanged from the supplied image. The pack icon is a PNG format conversion of the same pixels. See the project LICENSE.txt for rights in original artwork.
