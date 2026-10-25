@@ -1,0 +1,10 @@
+dist/
+work/
+publication-review/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.whl
+*.dic
