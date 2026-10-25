@@ -1,0 +1,8 @@
+Translation key	English	Japanese with romaji
+telemetry_info.button.give_feedback	Give Feedback	フィードバックを送信 (fīdobakku o sōshin)
+telemetry_info.button.privacy_statement	Privacy Statement	プライバシーに関する声明 (puraibashī ni kansuru seimei)
+telemetry_info.button.show_data	View My Data	自分のデータを確認する (jibun no dēta o kakunin suru)
+telemetry_info.opt_in.description	I consent to sending optional telemetry data	任意の遠隔測定データを送信することに同意する (nin'i no enkakusokutei dēta o sōshin suru koto ni dōi suru)
+telemetry_info.property_title	Included Data	含まれるデータ (fukumareru dēta)
+telemetry_info.screen.description	Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.\nYou can also send in additional feedback to help us keep improving Minecraft.	これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます (korera no dēta o shūshū suru koto ni yori, pureiyā no keikō o michibikidashi, minecraft no kaizen ni ikasu koto ga dekimasu)。\nまた、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます (mata, minecraft no keizokutekina kaizen no tame ni, tsuika no fīdobakku o sōshin suru koto mo dekimasu)。
+telemetry_info.screen.title	Telemetry Data Collection	データの遠隔収集 (dēta no enkaku shūshū)

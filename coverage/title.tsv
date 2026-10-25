@@ -1,0 +1,14 @@
+Translation key	English	Japanese with romaji
+title.32bit.deprecation	32-bit system detected: this may prevent you from playing in the future as a 64-bit system will be required!	32bitシステムが検出されました：将来的には64ビットシステムが必要になるため、ゲームがプレイできなくなる可能性があります (32 bit shisutemu ga kenshutsu saremashita: shōraitekini wa 64 bitto shisutemu ga hitsuyōni naru tame, gēmu ga purei dekinaku naru kanōsei ga arimasu)。
+title.32bit.deprecation.realms	Minecraft will soon require a 64-bit system, which will prevent you from playing or using Realms on this device. You will need to manually cancel any Realms subscription.	Minecraftはまもなく64bitシステムが必須となるため、このデバイスでRealmsのプレイや利用ができなくなります。そのため、ご自身でRealmsを解約する必要があります (minecraft hama mo naku 64 bit shisutemu ga hissu to naru tame, kono debaisu de realms no purei ya riyō ga dekinaku narimasu. sono tame, gojishin de realms o kaiyaku suru hitsuyō ga arimasu)。
+title.32bit.deprecation.realms.check	Do not show this screen again	この画面を再度表示しない (kono gamen o saido hyōji shinai)
+title.32bit.deprecation.realms.header	32-bit system detected	32bitシステムが検出されました (32 bit shisutemu ga kenshutsu saremashita)
+title.credits	Copyright Mojang AB. Do not distribute!	Copyright Mojang AB. 配布禁止 (copyright mojang ab. haifu kinshi)！
+title.multiplayer.disabled	Multiplayer is disabled. Please check your Microsoft account settings.	マルチプレイが無効になっています。Microsoftアカウントの設定をご確認ください (maruchi purei ga mukōni natte imasu. microsoft akaunto no settei o go kakunin kudasai)。
+title.multiplayer.disabled.banned.name	You must change your name before you can play online	オンラインでプレイするには名前の変更が必要です (onrain de purei suru ni wa namae no henkō ga hitsuyōdesu)
+title.multiplayer.disabled.banned.permanent	Your account is permanently suspended from online play	このアカウントは永久にオンラインプレイを無効化されました (kono akaunto wa eikyū ni onrain purei o mukōka saremashita)
+title.multiplayer.disabled.banned.temporary	Your account is temporarily suspended from online play	このアカウントは一時的にオンラインプレイを無効化されています (kono akaunto wa ichijitekini onrain purei o mukōka sarete imasu)
+title.multiplayer.lan	Multiplayer (LAN)	マルチプレイ (maruchi purei)（LAN）
+title.multiplayer.other	Multiplayer (3rd-party Server)	マルチプレイ (maruchi purei)（サードパーティーのサーバー (sādopātī no sābā)）
+title.multiplayer.realms	Multiplayer (Realms)	マルチプレイ (maruchi purei)（Realms）
+title.singleplayer	Singleplayer	シングルプレイ (shinguru purei)
